@@ -1,0 +1,1019 @@
+-----------------------------
+Seed Word:dispute
+Iteration level:5
+1: distortion
+From parent:aberration
+Similarity:0.0
+Similarity with root:0.0
+
+2: optical aberration
+From parent:aberration
+Similarity:0.0
+Similarity with root:0.0
+
+3: refreshment
+From parent:recreation
+Similarity:0.0
+Similarity with root:0.0
+
+4: jaunt
+From parent:excursion
+Similarity:0.0
+Similarity with root:0.0
+
+5: outing
+From parent:excursion
+Similarity:1.0
+Similarity with root:0.0
+
+6: junket
+From parent:excursion
+Similarity:0.0
+Similarity with root:0.0
+
+7: pleasure trip
+From parent:excursion
+Similarity:0.0
+Similarity with root:0.0
+
+8: expedition
+From parent:excursion
+Similarity:0.09090909
+Similarity with root:0.0
+
+9: sashay
+From parent:excursion
+Similarity:0.0
+Similarity with root:0.0
+
+10: buckle
+From parent:warp
+Similarity:0.0
+Similarity with root:0.0
+
+11: warping
+From parent:warp
+Similarity:0.0
+Similarity with root:0.0
+
+12: bend
+From parent:bending
+Similarity:0.0
+Similarity with root:0.0
+
+13: discord
+From parent:dissension
+Similarity:0.0
+Similarity with root:0.0
+
+14: noise
+From parent:dissonance
+Similarity:0.0
+Similarity with root:0.0
+
+15: racket
+From parent:dissonance
+Similarity:0.0
+Similarity with root:0.0
+
+16: section
+From parent:division
+Similarity:0.0023310024
+Similarity with root:0.0
+
+17: air division
+From parent:division
+Similarity:0.0
+Similarity with root:0.0
+
+18: naval division
+From parent:division
+Similarity:0.0
+Similarity with root:0.0
+
+19: partition
+From parent:division
+Similarity:0.0
+Similarity with root:0.0
+
+20: partitioning
+From parent:division
+Similarity:0.0
+Similarity with root:0.0
+
+21: segmentation
+From parent:division
+Similarity:0.0
+Similarity with root:0.0
+
+22: sectionalization
+From parent:division
+Similarity:0.0
+Similarity with root:0.0
+
+23: sectionalisation
+From parent:division
+Similarity:0.0
+Similarity with root:0.0
+
+24: unevenness
+From parent:variability
+Similarity:0.0
+Similarity with root:0.0
+
+25: fluctuation
+From parent:variation
+Similarity:0.0
+Similarity with root:0.0
+
+26: version
+From parent:variation
+Similarity:0.010416667
+Similarity with root:0.0
+
+27: edition
+From parent:variation
+Similarity:0.0
+Similarity with root:0.0
+
+28: magnetic declination
+From parent:variation
+Similarity:0.0
+Similarity with root:0.0
+
+29: magnetic variation
+From parent:variation
+Similarity:0.0
+Similarity with root:0.0
+
+30: mutant
+From parent:variation
+Similarity:0.0
+Similarity with root:0.0
+
+31: mutation
+From parent:variation
+Similarity:0.0
+Similarity with root:0.0
+
+32: sport
+From parent:variation
+Similarity:0.0
+Similarity with root:0.0
+
+33: pas seul
+From parent:variation
+Similarity:0.0
+Similarity with root:0.0
+
+34: dimension
+From parent:proportion
+Similarity:0.019390581
+Similarity with root:0.0
+
+35: chemical equilibrium
+From parent:equilibrium
+Similarity:0.0
+Similarity with root:0.0
+
+36: labyrinthine sense
+From parent:equilibrium
+Similarity:0.0
+Similarity with root:0.0
+
+37: vestibular sense
+From parent:equilibrium
+Similarity:0.0
+Similarity with root:0.0
+
+38: sense of balance
+From parent:equilibrium
+Similarity:0.0
+Similarity with root:0.0
+
+39: sense of equilibrium
+From parent:equilibrium
+Similarity:0.0
+Similarity with root:0.0
+
+40: isotropy
+From parent:symmetry
+Similarity:0.0
+Similarity with root:0.0
+
+41: commensurateness
+From parent:correspondence
+Similarity:0.0
+Similarity with root:0.0
+
+42: proportionateness
+From parent:correspondence
+Similarity:0.0
+Similarity with root:0.0
+
+43: mapping
+From parent:correspondence
+Similarity:0.0
+Similarity with root:0.0
+
+44: map
+From parent:correspondence
+Similarity:0.0
+Similarity with root:0.0
+
+45: parallelism
+From parent:correspondence
+Similarity:0.0
+Similarity with root:0.0
+
+46: stopping point
+From parent:last
+Similarity:0.6
+Similarity with root:0.0
+
+47: finale
+From parent:last
+Similarity:0.20000002
+Similarity with root:0.0
+
+48: finis
+From parent:last
+Similarity:0.0
+Similarity with root:0.0
+
+49: shoemaker's last
+From parent:last
+Similarity:0.0
+Similarity with root:0.0
+
+50: cobbler's last
+From parent:last
+Similarity:0.0
+Similarity with root:0.0
+
+51: destination
+From parent:goal
+Similarity:0.004385965
+Similarity with root:0.0
+
+52: devastation
+From parent:destruction
+Similarity:0.0
+Similarity with root:0.0
+
+53: demolition
+From parent:destruction
+Similarity:0.42857143
+Similarity with root:0.0
+
+54: wipeout
+From parent:destruction
+Similarity:0.0
+Similarity with root:0.0
+
+55: decease
+From parent:death
+Similarity:0.0
+Similarity with root:0.0
+
+56: Death
+From parent:death
+Similarity:0.35770258
+Similarity with root:0.0
+
+57: dying
+From parent:death
+Similarity:0.027522936
+Similarity with root:0.0
+
+58: demise
+From parent:death
+Similarity:0.0
+Similarity with root:0.0
+
+59: closing curtain
+From parent:close
+Similarity:0.0
+Similarity with root:0.0
+
+60: shutting
+From parent:closing
+Similarity:0.0
+Similarity with root:0.0
+
+61: closedown
+From parent:closing
+Similarity:0.0
+Similarity with root:0.0
+
+62: shutdown
+From parent:closing
+Similarity:0.0
+Similarity with root:0.0
+
+63: completion
+From parent:closing
+Similarity:0.0
+Similarity with root:0.0
+
+64: culmination
+From parent:closing
+Similarity:0.0
+Similarity with root:0.0
+
+65: windup
+From parent:closing
+Similarity:0.0
+Similarity with root:0.0
+
+66: mop up
+From parent:closing
+Similarity:0.0
+Similarity with root:0.0
+
+67: wonder
+From parent:curiosity
+Similarity:0.30769232
+Similarity with root:0.0
+
+68: oddness
+From parent:oddity
+Similarity:0.0
+Similarity with root:0.0
+
+69: queerness
+From parent:oddity
+Similarity:0.0
+Similarity with root:0.0
+
+70: quirk
+From parent:oddity
+Similarity:0.0
+Similarity with root:0.0
+
+71: quirkiness
+From parent:oddity
+Similarity:0.0
+Similarity with root:0.0
+
+72: crotchet
+From parent:oddity
+Similarity:0.0
+Similarity with root:0.0
+
+73: distinctive feature
+From parent:peculiarity
+Similarity:0.0
+Similarity with root:0.0
+
+74: distinguishing characteristic
+From parent:peculiarity
+Similarity:0.0
+Similarity with root:0.0
+
+75: specialness
+From parent:peculiarity
+Similarity:0.0
+Similarity with root:0.0
+
+76: distinctiveness
+From parent:peculiarity
+Similarity:0.0
+Similarity with root:0.0
+
+77: rareness
+From parent:rarity
+Similarity:0.0
+Similarity with root:0.0
+
+78: infrequency
+From parent:rarity
+Similarity:0.0
+Similarity with root:0.0
+
+79: tenuity
+From parent:rarity
+Similarity:0.0
+Similarity with root:0.0
+
+80: low density
+From parent:rarity
+Similarity:0.0
+Similarity with root:0.0
+
+81: bodyguard
+From parent:escort
+Similarity:0.6666667
+Similarity with root:0.0
+
+82: accompaniment
+From parent:escort
+Similarity:0.0
+Similarity with root:0.0
+
+83: duty assignment
+From parent:assignment
+Similarity:0.0
+Similarity with root:0.0
+
+84: assigning
+From parent:assignment
+Similarity:0.16666667
+Similarity with root:0.0
+
+85: grant
+From parent:assignment
+Similarity:0.0
+Similarity with root:0.0
+
+86: appellation
+From parent:designation
+Similarity:0.0
+Similarity with root:0.0
+
+87: denomination
+From parent:designation
+Similarity:0.0
+Similarity with root:0.0
+
+88: appellative
+From parent:designation
+Similarity:0.0
+Similarity with root:0.0
+
+89: identification
+From parent:designation
+Similarity:0.0
+Similarity with root:0.0
+
+90: adjustment
+From parent:fitting
+Similarity:0.0
+Similarity with root:0.0
+
+91: accommodation
+From parent:fitting
+Similarity:0.0
+Similarity with root:0.0
+
+92: try-on
+From parent:fitting
+Similarity:0.0
+Similarity with root:0.0
+
+93: trying on
+From parent:fitting
+Similarity:0.0
+Similarity with root:0.0
+
+94: bridal
+From parent:espousal
+Similarity:0.0
+Similarity with root:0.0
+
+95: adoption
+From parent:espousal
+Similarity:0.0
+Similarity with root:0.0
+
+96: acceptance
+From parent:espousal
+Similarity:0.0
+Similarity with root:0.0
+
+97: acceptation
+From parent:espousal
+Similarity:0.0
+Similarity with root:0.0
+
+98: predicament
+From parent:plight
+Similarity:1.0
+Similarity with root:0.0
+
+99: quandary
+From parent:plight
+Similarity:0.0
+Similarity with root:0.0
+
+100: custom
+From parent:usage
+Similarity:0.095238104
+Similarity with root:0.0
+
+101: usance
+From parent:usage
+Similarity:0.0
+Similarity with root:0.0
+
+102: exercising
+From parent:exercise
+Similarity:0.7878788
+Similarity with root:0.0
+
+103: physical exercise
+From parent:exercise
+Similarity:0.0
+Similarity with root:0.0
+
+104: physical exertion
+From parent:exercise
+Similarity:0.0
+Similarity with root:0.0
+
+105: workout
+From parent:exercise
+Similarity:0.7878788
+Similarity with root:0.0
+
+106: practice
+From parent:exercise
+Similarity:0.00865801
+Similarity with root:0.0
+
+107: drill
+From parent:exercise
+Similarity:0.0
+Similarity with root:0.0
+
+108: practice session
+From parent:exercise
+Similarity:0.060606062
+Similarity with root:0.0
+
+109: recitation
+From parent:exercise
+Similarity:0.0
+Similarity with root:0.0
+
+110: reserve
+From parent:reservation
+Similarity:0.0
+Similarity with root:0.0
+
+111: qualification
+From parent:reservation
+Similarity:0.0
+Similarity with root:0.0
+
+112: mental reservation
+From parent:reservation
+Similarity:0.0
+Similarity with root:0.0
+
+113: arriere pensee
+From parent:reservation
+Similarity:0.0
+Similarity with root:0.0
+
+114: internet
+From parent:net
+Similarity:0.0
+Similarity with root:0.0
+
+115: cyberspace
+From parent:net
+Similarity:0.0
+Similarity with root:0.0
+
+116: net income
+From parent:net
+Similarity:0.0
+Similarity with root:0.0
+
+117: net profit
+From parent:net
+Similarity:0.0
+Similarity with root:0.0
+
+118: lucre
+From parent:net
+Similarity:0.0
+Similarity with root:0.0
+
+119: profit
+From parent:net
+Similarity:0.0
+Similarity with root:0.0
+
+120: profits
+From parent:net
+Similarity:0.0
+Similarity with root:0.0
+
+121: earnings
+From parent:net
+Similarity:0.0
+Similarity with root:0.0
+
+122: web
+From parent:network
+Similarity:0.0
+Similarity with root:0.0
+
+123: electronic network
+From parent:network
+Similarity:0.0
+Similarity with root:0.0
+
+124: ignition interlock
+From parent:interlock
+Similarity:0.0
+Similarity with root:0.0
+
+125: ornateness
+From parent:elaborateness
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:disputation
+Iteration level:5
+1: electric pig
+From parent:disposal
+Similarity:0.0
+Similarity with root:0.0
+
+2: garbage disposal
+From parent:disposal
+Similarity:0.0
+Similarity with root:0.0
+
+3: autumn
+From parent:fall
+Similarity:0.5
+Similarity with root:0.0
+
+4: spill
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+5: tumble
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+6: Fall
+From parent:fall
+Similarity:0.29591835
+Similarity with root:0.0
+
+7: declivity
+From parent:fall
+Similarity:0.071428575
+Similarity with root:0.0
+
+8: decline
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+9: declination
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+10: declension
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+11: downslope
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+12: downfall
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+13: capitulation
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+14: surrender
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+15: twilight
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+16: dusk
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+17: gloaming
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+18: gloam
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+19: nightfall
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+20: evenfall
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+21: crepuscule
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+22: crepuscle
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+23: pin
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+24: appositeness
+From parent:aptness
+Similarity:0.0
+Similarity with root:0.0
+
+25: treasure
+From parent:gem
+Similarity:0.16666667
+Similarity with root:0.0
+
+26: jewel
+From parent:gem
+Similarity:0.0
+Similarity with root:0.0
+
+27: muffin
+From parent:gem
+Similarity:0.0
+Similarity with root:0.0
+
+28: precious stone
+From parent:gem
+Similarity:0.0
+Similarity with root:0.0
+
+29: cavity
+From parent:pit
+Similarity:1.0
+Similarity with root:0.0
+
+30: fossa
+From parent:pit
+Similarity:0.0
+Similarity with root:0.0
+
+31: Hell
+From parent:pit
+Similarity:0.0
+Similarity with root:0.0
+
+32: perdition
+From parent:pit
+Similarity:0.0
+Similarity with root:0.0
+
+33: Inferno
+From parent:pit
+Similarity:0.0
+Similarity with root:0.0
+
+34: infernal region
+From parent:pit
+Similarity:0.0
+Similarity with root:0.0
+
+35: nether region
+From parent:pit
+Similarity:0.0
+Similarity with root:0.0
+
+36: pitfall
+From parent:pit
+Similarity:0.0
+Similarity with root:0.0
+
+37: quarry
+From parent:pit
+Similarity:0.0
+Similarity with root:0.0
+
+38: stone pit
+From parent:pit
+Similarity:0.0
+Similarity with root:0.0
+
+39: orchestra pit
+From parent:pit
+Similarity:0.0
+Similarity with root:0.0
+
+40: colliery
+From parent:pit
+Similarity:0.0
+Similarity with root:0.0
+
+41: way
+From parent:direction
+Similarity:0.021755187
+Similarity with root:0.0
+
+42: guidance
+From parent:direction
+Similarity:0.039922103
+Similarity with root:0.0
+
+43: counsel
+From parent:direction
+Similarity:0.0
+Similarity with root:0.0
+
+44: counseling
+From parent:direction
+Similarity:0.06329114
+Similarity with root:0.0
+
+45: counselling
+From parent:direction
+Similarity:0.0
+Similarity with root:0.0
+
+46: management
+From parent:direction
+Similarity:0.026722925
+Similarity with root:0.0
+
+47: steering
+From parent:direction
+Similarity:0.0
+Similarity with root:0.0
+
+48: commission
+From parent:direction
+Similarity:0.0
+Similarity with root:0.0
+
+49: charge
+From parent:direction
+Similarity:0.0
+Similarity with root:0.0
+
+50: focus
+From parent:direction
+Similarity:0.0
+Similarity with root:0.0
+
+51: focusing
+From parent:direction
+Similarity:0.0
+Similarity with root:0.0
+
+52: focussing
+From parent:direction
+Similarity:0.0
+Similarity with root:0.0
+
+53: focal point
+From parent:direction
+Similarity:0.0
+Similarity with root:0.0
+
+54: centering
+From parent:direction
+Similarity:0.0
+Similarity with root:0.0
+
+55: training
+From parent:education
+Similarity:0.0
+Similarity with root:0.0
+
+56: breeding
+From parent:education
+Similarity:0.0
+Similarity with root:0.0
+
+57: Department of Education
+From parent:education
+Similarity:0.0
+Similarity with root:0.0
+
+58: Education Department
+From parent:education
+Similarity:0.0
+Similarity with root:0.0
+
+59: Education
+From parent:education
+Similarity:0.3941736
+Similarity with root:0.0
+
+60: precept
+From parent:teaching
+Similarity:0.0
+Similarity with root:0.0
+
+61: commandment
+From parent:teaching
+Similarity:0.0
+Similarity with root:0.0
+
+62: teaching method
+From parent:pedagogy
+Similarity:0.0
+Similarity with root:0.0
+
+63: pedagogics
+From parent:pedagogy
+Similarity:0.0
+Similarity with root:0.0
+
+64: play
+From parent:bid
+Similarity:0.008196721
+Similarity with root:0.0
+
+65: tender
+From parent:bid
+Similarity:0.0
+Similarity with root:0.0
+
+66: summons
+From parent:bidding
+Similarity:0.0
+Similarity with root:0.0
+
+67: control condition
+From parent:control
+Similarity:0.078125
+Similarity with root:0.0
+
+68: dominance
+From parent:control
+Similarity:0.026785715
+Similarity with root:0.0
+
+69: ascendance
+From parent:control
+Similarity:0.0
+Similarity with root:0.0
+
+70: ascendence
+From parent:control
+Similarity:0.0
+Similarity with root:0.0
+
+71: ascendancy
+From parent:control
+Similarity:0.0625
+Similarity with root:0.0
+
+72: ascendency
+From parent:control
+Similarity:0.0
+Similarity with root:0.0
+
+73: restraint
+From parent:control
+Similarity:0.013392858
+Similarity with root:0.0
+
+74: controller
+From parent:control
+Similarity:0.0
+Similarity with root:0.0
+
+75: domination
+From parent:mastery
+Similarity:0.02857143
+Similarity with root:0.0
+
+76: supremacy
+From parent:mastery
+Similarity:0.2
+Similarity with root:0.0
+
+77: subordination
+From parent:mastery
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:disputant
+Iteration level:5

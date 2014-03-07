@@ -1,0 +1,2176 @@
+---------------------
+Seed Word:belief
+Iteration level:4
+1: aftermath
+From parent:consequence
+Similarity:0.0
+Similarity with root:0.0
+
+2: import
+From parent:consequence
+Similarity:0.0
+Similarity with root:0.0
+
+3: moment
+From parent:consequence
+Similarity:7.1667467E-4
+Similarity with root:1.9253384E-6
+
+4: resultant
+From parent:outcome
+Similarity:0.0
+Similarity with root:0.0
+
+5: final result
+From parent:outcome
+Similarity:0.0
+Similarity with root:0.0
+
+6: termination
+From parent:outcome
+Similarity:0.0
+Similarity with root:0.0
+
+7: solution
+From parent:result
+Similarity:0.00953895
+Similarity with root:2.298346E-5
+
+8: answer
+From parent:result
+Similarity:0.06534893
+Similarity with root:1.5745386E-4
+
+9: resolution
+From parent:result
+Similarity:0.0
+Similarity with root:0.0
+
+10: solvent
+From parent:result
+Similarity:0.0
+Similarity with root:0.0
+
+11: resultant role
+From parent:result
+Similarity:0.0
+Similarity with root:0.0
+
+12: case
+From parent:event
+Similarity:0.00997223
+Similarity with root:0.0
+
+13: number
+From parent:issue
+Similarity:4.933879E-4
+Similarity with root:1.5704038E-9
+
+14: issuing
+From parent:issue
+Similarity:0.0
+Similarity with root:0.0
+
+15: issuance
+From parent:issue
+Similarity:0.07878788
+Similarity with root:2.5077384E-7
+
+16: topic
+From parent:issue
+Similarity:0.008410637
+Similarity with root:2.6770207E-8
+
+17: subject
+From parent:issue
+Similarity:0.0056742323
+Similarity with root:1.8060508E-8
+
+18: matter
+From parent:issue
+Similarity:0.008563558
+Similarity with root:2.7256938E-8
+
+19: military issue
+From parent:issue
+Similarity:0.0
+Similarity with root:0.0
+
+20: government issue
+From parent:issue
+Similarity:0.0
+Similarity with root:0.0
+
+21: offspring
+From parent:issue
+Similarity:0.0012987014
+Similarity with root:4.133635E-9
+
+22: progeny
+From parent:issue
+Similarity:0.0
+Similarity with root:0.0
+
+23: return
+From parent:issue
+Similarity:0.0
+Similarity with root:0.0
+
+24: take
+From parent:issue
+Similarity:0.0
+Similarity with root:0.0
+
+25: takings
+From parent:issue
+Similarity:0.0
+Similarity with root:0.0
+
+26: proceeds
+From parent:issue
+Similarity:0.0
+Similarity with root:0.0
+
+27: yield
+From parent:issue
+Similarity:0.0
+Similarity with root:0.0
+
+28: payoff
+From parent:issue
+Similarity:0.0
+Similarity with root:0.0
+
+29: emergence
+From parent:issue
+Similarity:0.0
+Similarity with root:0.0
+
+30: egress
+From parent:issue
+Similarity:0.0
+Similarity with root:0.0
+
+31: exit
+From parent:issue
+Similarity:0.0
+Similarity with root:0.0
+
+32: outlet
+From parent:issue
+Similarity:0.0
+Similarity with root:0.0
+
+33: way out
+From parent:issue
+Similarity:0.0
+Similarity with root:0.0
+
+34: publication
+From parent:issue
+Similarity:0.0
+Similarity with root:0.0
+
+35: military unit
+From parent:force
+Similarity:0.333975
+Similarity with root:2.7997532E-6
+
+36: military force
+From parent:force
+Similarity:0.333975
+Similarity with root:2.7997532E-6
+
+37: military group
+From parent:force
+Similarity:0.0
+Similarity with root:0.0
+
+38: power
+From parent:force
+Similarity:0.0031166333
+Similarity with root:2.612712E-8
+
+39: personnel
+From parent:force
+Similarity:0.1280077
+Similarity with root:1.0731043E-6
+
+40: violence
+From parent:force
+Similarity:0.05560903
+Similarity with root:4.661773E-7
+
+41: forcefulness
+From parent:force
+Similarity:0.0
+Similarity with root:0.0
+
+42: strength
+From parent:force
+Similarity:0.0034080688
+Similarity with root:2.8570259E-8
+
+43: force out
+From parent:force
+Similarity:0.0
+Similarity with root:0.0
+
+44: force-out
+From parent:force
+Similarity:0.0
+Similarity with root:0.0
+
+45: force play
+From parent:force
+Similarity:0.0
+Similarity with root:0.0
+
+46: kernel
+From parent:essence
+Similarity:0.0
+Similarity with root:0.0
+
+47: substance
+From parent:essence
+Similarity:0.02631579
+Similarity with root:0.0
+
+48: center
+From parent:essence
+Similarity:0.032608695
+Similarity with root:0.0
+
+49: heart and soul
+From parent:essence
+Similarity:1.0
+Similarity with root:0.0
+
+50: inwardness
+From parent:essence
+Similarity:0.0
+Similarity with root:0.0
+
+51: marrow
+From parent:essence
+Similarity:0.0
+Similarity with root:0.0
+
+52: meat
+From parent:essence
+Similarity:0.0
+Similarity with root:0.0
+
+53: nub
+From parent:essence
+Similarity:0.0
+Similarity with root:0.0
+
+54: pith
+From parent:essence
+Similarity:0.0
+Similarity with root:0.0
+
+55: sum
+From parent:essence
+Similarity:0.041666668
+Similarity with root:0.0
+
+56: nitty-gritty
+From parent:essence
+Similarity:0.0
+Similarity with root:0.0
+
+57: perfume
+From parent:essence
+Similarity:0.0
+Similarity with root:0.0
+
+58: load
+From parent:burden
+Similarity:0.1633987
+Similarity with root:0.0
+
+59: encumbrance
+From parent:burden
+Similarity:0.7777778
+Similarity with root:0.0
+
+60: incumbrance
+From parent:burden
+Similarity:0.0
+Similarity with root:0.0
+
+61: onus
+From parent:burden
+Similarity:0.0
+Similarity with root:0.0
+
+62: loading
+From parent:burden
+Similarity:0.14814815
+Similarity with root:0.0
+
+63: nucleus
+From parent:core
+Similarity:0.05555556
+Similarity with root:0.0
+
+64: core group
+From parent:core
+Similarity:0.0
+Similarity with root:0.0
+
+65: Congress of Racial Equality
+From parent:core
+Similarity:0.0
+Similarity with root:0.0
+
+66: CORE
+From parent:core
+Similarity:0.26222226
+Similarity with root:0.0
+
+67: mental image
+From parent:image
+Similarity:0.5849057
+Similarity with root:5.5341367E-5
+
+68: persona
+From parent:image
+Similarity:0.0
+Similarity with root:0.0
+
+69: prototype
+From parent:image
+Similarity:0.03773585
+Similarity with root:3.5704109E-6
+
+70: paradigm
+From parent:image
+Similarity:0.00754717
+Similarity with root:7.1408215E-7
+
+71: epitome
+From parent:image
+Similarity:0.03773585
+Similarity with root:3.5704109E-6
+
+72: trope
+From parent:image
+Similarity:0.0
+Similarity with root:0.0
+
+73: figure of speech
+From parent:image
+Similarity:0.018867925
+Similarity with root:1.7852054E-6
+
+74: figure
+From parent:image
+Similarity:0.0
+Similarity with root:0.0
+
+75: double
+From parent:image
+Similarity:0.0
+Similarity with root:0.0
+
+76: look-alike
+From parent:image
+Similarity:0.0
+Similarity with root:0.0
+
+77: effigy
+From parent:image
+Similarity:0.0
+Similarity with root:0.0
+
+78: simulacrum
+From parent:image
+Similarity:0.0
+Similarity with root:0.0
+
+79: house painting
+From parent:painting
+Similarity:0.0
+Similarity with root:0.0
+
+80: shot
+From parent:scene
+Similarity:0.0038147431
+Similarity with root:6.88822E-8
+
+81: fit
+From parent:scene
+Similarity:0.005952381
+Similarity with root:1.07481185E-7
+
+82: tantrum
+From parent:scene
+Similarity:0.013888889
+Similarity with root:2.5078944E-7
+
+83: conniption
+From parent:scene
+Similarity:0.0
+Similarity with root:0.0
+
+84: setting
+From parent:scene
+Similarity:0.0
+Similarity with root:0.0
+
+85: scenery
+From parent:scene
+Similarity:0.0
+Similarity with root:0.0
+
+86: cinema
+From parent:film
+Similarity:0.15905245
+Similarity with root:6.013048E-6
+
+87: celluloid
+From parent:film
+Similarity:0.0
+Similarity with root:0.0
+
+88: plastic film
+From parent:film
+Similarity:0.0
+Similarity with root:0.0
+
+89: photographic film
+From parent:film
+Similarity:0.0
+Similarity with root:0.0
+
+90: photograph
+From parent:pic
+Similarity:0.0
+Similarity with root:0.0
+
+91: photo
+From parent:pic
+Similarity:0.0
+Similarity with root:0.0
+
+92: exposure
+From parent:pic
+Similarity:0.0
+Similarity with root:0.0
+
+93: video recording
+From parent:video
+Similarity:0.0
+Similarity with root:0.0
+
+94: television
+From parent:video
+Similarity:0.0
+Similarity with root:0.0
+
+95: telecasting
+From parent:video
+Similarity:0.0
+Similarity with root:0.0
+
+96: TV
+From parent:video
+Similarity:0.0
+Similarity with root:0.0
+
+97: limning
+From parent:delineation
+Similarity:0.0
+Similarity with root:0.0
+
+98: line drawing
+From parent:delineation
+Similarity:0.0
+Similarity with root:0.0
+
+99: portrayal
+From parent:delineation
+Similarity:0.0
+Similarity with root:0.0
+
+100: depicting
+From parent:depiction
+Similarity:0.0
+Similarity with root:0.0
+
+101: portraying
+From parent:depiction
+Similarity:0.0
+Similarity with root:0.0
+
+102: enactment
+From parent:characterization
+Similarity:0.0
+Similarity with root:0.0
+
+103: personation
+From parent:characterization
+Similarity:0.0
+Similarity with root:0.0
+
+104: slack
+From parent:slump
+Similarity:0.0
+Similarity with root:0.0
+
+105: drop-off
+From parent:slump
+Similarity:0.0
+Similarity with root:0.0
+
+106: falloff
+From parent:slump
+Similarity:1.0
+Similarity with root:0.0
+
+107: falling off
+From parent:slump
+Similarity:1.0
+Similarity with root:0.0
+
+108: Low
+From parent:low
+Similarity:0.0
+Similarity with root:0.0
+
+109: David Low
+From parent:low
+Similarity:0.0
+Similarity with root:0.0
+
+110: Sir David Low
+From parent:low
+Similarity:0.0
+Similarity with root:0.0
+
+111: Sir David Alexander Cecil Low
+From parent:low
+Similarity:0.0
+Similarity with root:0.0
+
+112: first gear
+From parent:low
+Similarity:0.0
+Similarity with root:0.0
+
+113: first
+From parent:low
+Similarity:0.0
+Similarity with root:0.0
+
+114: low gear
+From parent:low
+Similarity:0.0
+Similarity with root:0.0
+
+115: relief
+From parent:embossment
+Similarity:0.0
+Similarity with root:0.0
+
+116: relievo
+From parent:embossment
+Similarity:0.0
+Similarity with root:0.0
+
+117: rilievo
+From parent:embossment
+Similarity:0.0
+Similarity with root:0.0
+
+118: sculptural relief
+From parent:embossment
+Similarity:0.0
+Similarity with root:0.0
+
+119: cast of characters
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+120: dramatis personae
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+121: mould
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+122: form
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+123: shape
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+124: plaster cast
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+125: plaster bandage
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+126: casting
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+127: roll
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+128: hurl
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+129: mildew
+From parent:mold
+Similarity:0.0
+Similarity with root:0.0
+
+130: molding
+From parent:mold
+Similarity:0.0
+Similarity with root:0.0
+
+131: moulding
+From parent:mold
+Similarity:0.0
+Similarity with root:0.0
+
+132: modeling
+From parent:mold
+Similarity:0.0
+Similarity with root:0.0
+
+133: clay sculpture
+From parent:mold
+Similarity:0.0
+Similarity with root:0.0
+
+134: muller
+From parent:pestle
+Similarity:0.0
+Similarity with root:0.0
+
+135: pounder
+From parent:pestle
+Similarity:0.0
+Similarity with root:0.0
+
+136: sealing wax
+From parent:seal
+Similarity:0.0
+Similarity with root:0.0
+
+137: sealskin
+From parent:seal
+Similarity:0.0
+Similarity with root:0.0
+
+138: Navy SEAL
+From parent:seal
+Similarity:0.0
+Similarity with root:0.0
+
+139: SEAL
+From parent:seal
+Similarity:0.625
+Similarity with root:0.0
+
+140: cachet
+From parent:seal
+Similarity:0.0
+Similarity with root:0.0
+
+141: seal of approval
+From parent:seal
+Similarity:0.0
+Similarity with root:0.0
+
+142: purpose
+From parent:intent
+Similarity:0.42056078
+Similarity with root:1.4064057E-5
+
+143: intention
+From parent:intent
+Similarity:0.5538462
+Similarity with root:1.8521281E-5
+
+144: aim
+From parent:intent
+Similarity:0.36
+Similarity with root:1.2038832E-5
+
+145: design
+From parent:intent
+Similarity:0.01875
+Similarity with root:6.2702253E-7
+
+146: drift
+From parent:purport
+Similarity:0.0
+Similarity with root:0.0
+
+147: animation
+From parent:liveliness
+Similarity:0.0
+Similarity with root:0.0
+
+148: living
+From parent:life
+Similarity:0.122861505
+Similarity with root:2.795395E-7
+
+149: aliveness
+From parent:life
+Similarity:0.0
+Similarity with root:0.0
+
+150: lifetime
+From parent:life
+Similarity:0.06195715
+Similarity with root:1.4096744E-7
+
+151: life-time
+From parent:life
+Similarity:0.0
+Similarity with root:0.0
+
+152: lifespan
+From parent:life
+Similarity:0.0
+Similarity with root:0.0
+
+153: biography
+From parent:life
+Similarity:0.026056746
+Similarity with root:5.9285373E-8
+
+154: life story
+From parent:life
+Similarity:0.0
+Similarity with root:0.0
+
+155: life history
+From parent:life
+Similarity:0.026056746
+Similarity with root:5.9285373E-8
+
+156: life sentence
+From parent:life
+Similarity:0.0
+Similarity with root:0.0
+
+157: bosom
+From parent:heart
+Similarity:0.0
+Similarity with root:0.0
+
+158: pump
+From parent:heart
+Similarity:0.0
+Similarity with root:0.0
+
+159: ticker
+From parent:heart
+Similarity:0.0
+Similarity with root:0.0
+
+160: mettle
+From parent:heart
+Similarity:0.0
+Similarity with root:0.0
+
+161: nerve
+From parent:heart
+Similarity:0.0487013
+Similarity with root:3.2314084E-8
+
+162: spunk
+From parent:heart
+Similarity:0.0
+Similarity with root:0.0
+
+163: centre
+From parent:heart
+Similarity:0.0
+Similarity with root:0.0
+
+164: middle
+From parent:heart
+Similarity:0.03968254
+Similarity with root:2.6329994E-8
+
+165: eye
+From parent:heart
+Similarity:0.0
+Similarity with root:0.0
+
+166: affection
+From parent:heart
+Similarity:0.0
+Similarity with root:0.0
+
+167: affectionateness
+From parent:heart
+Similarity:0.0
+Similarity with root:0.0
+
+168: fondness
+From parent:heart
+Similarity:0.0
+Similarity with root:0.0
+
+169: tenderness
+From parent:heart
+Similarity:0.0
+Similarity with root:0.0
+
+170: warmness
+From parent:heart
+Similarity:0.0
+Similarity with root:0.0
+
+171: warmheartedness
+From parent:heart
+Similarity:0.0
+Similarity with root:0.0
+
+172: philia
+From parent:heart
+Similarity:0.0
+Similarity with root:0.0
+
+173: lumber
+From parent:timber
+Similarity:0.5
+Similarity with root:0.0
+
+174: forest
+From parent:timber
+Similarity:0.0
+Similarity with root:0.0
+
+175: woodland
+From parent:timber
+Similarity:0.0
+Similarity with root:0.0
+
+176: timberland
+From parent:timber
+Similarity:0.0
+Similarity with root:0.0
+
+177: caliber
+From parent:quality
+Similarity:0.14035088
+Similarity with root:1.4178896E-6
+
+178: calibre
+From parent:quality
+Similarity:0.21052632
+Similarity with root:2.1268345E-6
+
+179: character
+From parent:quality
+Similarity:0.039473683
+Similarity with root:3.9878142E-7
+
+180: lineament
+From parent:quality
+Similarity:0.0
+Similarity with root:0.0
+
+181: shadiness
+From parent:shade
+Similarity:0.0
+Similarity with root:0.0
+
+182: shadowiness
+From parent:shade
+Similarity:0.0
+Similarity with root:0.0
+
+183: nuance
+From parent:shade
+Similarity:0.10526316
+Similarity with root:6.4449534E-7
+
+184: nicety
+From parent:shade
+Similarity:0.0
+Similarity with root:0.0
+
+185: subtlety
+From parent:shade
+Similarity:0.05263158
+Similarity with root:3.2224767E-7
+
+186: refinement
+From parent:shade
+Similarity:0.0
+Similarity with root:0.0
+
+187: tad
+From parent:shade
+Similarity:0.0
+Similarity with root:0.0
+
+188: spook
+From parent:shade
+Similarity:0.0
+Similarity with root:0.0
+
+189: wraith
+From parent:shade
+Similarity:0.0
+Similarity with root:0.0
+
+190: specter
+From parent:shade
+Similarity:0.0
+Similarity with root:0.0
+
+191: spectre
+From parent:shade
+Similarity:0.0
+Similarity with root:0.0
+
+192: vestige
+From parent:tincture
+Similarity:0.0
+Similarity with root:0.0
+
+193: shadow
+From parent:tincture
+Similarity:0.0
+Similarity with root:0.0
+
+194: short letter
+From parent:note
+Similarity:0.0
+Similarity with root:0.0
+
+195: line
+From parent:note
+Similarity:0.0
+Similarity with root:0.0
+
+196: billet
+From parent:note
+Similarity:0.0
+Similarity with root:0.0
+
+197: bill
+From parent:note
+Similarity:0.010197569
+Similarity with root:1.1936052E-8
+
+198: government note
+From parent:note
+Similarity:0.0
+Similarity with root:0.0
+
+199: bank bill
+From parent:note
+Similarity:0.0
+Similarity with root:0.0
+
+200: banker's bill
+From parent:note
+Similarity:0.0
+Similarity with root:0.0
+
+201: bank note
+From parent:note
+Similarity:0.0
+Similarity with root:0.0
+
+202: banknote
+From parent:note
+Similarity:0.0
+Similarity with root:0.0
+
+203: Federal Reserve note
+From parent:note
+Similarity:0.0
+Similarity with root:0.0
+
+204: greenback
+From parent:note
+Similarity:0.0
+Similarity with root:0.0
+
+205: annotation
+From parent:note
+Similarity:0.0
+Similarity with root:0.0
+
+206: notation
+From parent:note
+Similarity:0.0
+Similarity with root:0.0
+
+207: eminence
+From parent:note
+Similarity:0.016427105
+Similarity with root:1.9227603E-8
+
+208: distinction
+From parent:note
+Similarity:0.003285421
+Similarity with root:3.8455203E-9
+
+209: preeminence
+From parent:note
+Similarity:0.0
+Similarity with root:0.0
+
+210: promissory note
+From parent:note
+Similarity:0.0
+Similarity with root:0.0
+
+211: note of hand
+From parent:note
+Similarity:0.0
+Similarity with root:0.0
+
+212: measure
+From parent:step
+Similarity:0.12399193
+Similarity with root:0.0
+
+213: footstep
+From parent:step
+Similarity:0.05539773
+Similarity with root:0.0
+
+214: pace
+From parent:step
+Similarity:0.058035716
+Similarity with root:0.0
+
+215: stride
+From parent:step
+Similarity:0.045138888
+Similarity with root:0.0
+
+216: stair
+From parent:step
+Similarity:0.03125
+Similarity with root:0.0
+
+217: gradation
+From parent:step
+Similarity:0.0
+Similarity with root:0.0
+
+218: stone's throw
+From parent:step
+Similarity:0.0
+Similarity with root:0.0
+
+219: footfall
+From parent:step
+Similarity:0.0
+Similarity with root:0.0
+
+220: footprint
+From parent:step
+Similarity:0.0
+Similarity with root:0.0
+
+221: footmark
+From parent:step
+Similarity:0.0
+Similarity with root:0.0
+
+222: dance step
+From parent:step
+Similarity:0.0
+Similarity with root:0.0
+
+223: gusto
+From parent:relish
+Similarity:1.0
+Similarity with root:0.0
+
+224: zest
+From parent:relish
+Similarity:1.0
+Similarity with root:0.0
+
+225: zestfulness
+From parent:relish
+Similarity:0.0
+Similarity with root:0.0
+
+226: sapidness
+From parent:sapidity
+Similarity:0.0
+Similarity with root:0.0
+
+227: slap
+From parent:smack
+Similarity:0.0
+Similarity with root:0.0
+
+228: big H
+From parent:smack
+Similarity:0.0
+Similarity with root:0.0
+
+229: hell dust
+From parent:smack
+Similarity:0.0
+Similarity with root:0.0
+
+230: nose drops
+From parent:smack
+Similarity:0.0
+Similarity with root:0.0
+
+231: thunder
+From parent:smack
+Similarity:0.0
+Similarity with root:0.0
+
+232: skag
+From parent:smack
+Similarity:0.0
+Similarity with root:0.0
+
+233: scag
+From parent:smack
+Similarity:0.0
+Similarity with root:0.0
+
+234: smooch
+From parent:smack
+Similarity:0.0
+Similarity with root:0.0
+
+235: smacking
+From parent:smack
+Similarity:0.0
+Similarity with root:0.0
+
+236: Jap
+From parent:nip
+Similarity:0.0
+Similarity with root:0.0
+
+237: Nip
+From parent:nip
+Similarity:0.0
+Similarity with root:0.0
+
+238: chilliness
+From parent:nip
+Similarity:0.0
+Similarity with root:0.0
+
+239: coolness
+From parent:nip
+Similarity:0.0
+Similarity with root:0.0
+
+240: piquance
+From parent:nip
+Similarity:0.0
+Similarity with root:0.0
+
+241: piquancy
+From parent:nip
+Similarity:0.0
+Similarity with root:0.0
+
+242: piquantness
+From parent:nip
+Similarity:0.0
+Similarity with root:0.0
+
+243: tanginess
+From parent:nip
+Similarity:0.0
+Similarity with root:0.0
+
+244: Tang
+From parent:tang
+Similarity:0.5
+Similarity with root:6.3342444E-4
+
+245: Tang dynasty
+From parent:tang
+Similarity:0.0
+Similarity with root:0.0
+
+246: bladderwrack
+From parent:tang
+Similarity:0.0
+Similarity with root:0.0
+
+247: black rockweed
+From parent:tang
+Similarity:0.0
+Similarity with root:0.0
+
+248: bladder fucus
+From parent:tang
+Similarity:0.0
+Similarity with root:0.0
+
+249: Fucus vesiculosus
+From parent:tang
+Similarity:0.0
+Similarity with root:0.0
+
+250: serrated wrack
+From parent:tang
+Similarity:0.0
+Similarity with root:0.0
+
+251: Fucus serratus
+From parent:tang
+Similarity:0.0
+Similarity with root:0.0
+
+252: sea tang
+From parent:tang
+Similarity:0.0
+Similarity with root:0.0
+
+253: sea tangle
+From parent:tang
+Similarity:0.0
+Similarity with root:0.0
+
+254: manifestation
+From parent:expression
+Similarity:0.0
+Similarity with root:0.0
+
+255: reflection
+From parent:expression
+Similarity:0.042857148
+Similarity with root:0.0
+
+256: reflexion
+From parent:expression
+Similarity:0.0
+Similarity with root:0.0
+
+257: verbal expression
+From parent:expression
+Similarity:0.0
+Similarity with root:0.0
+
+258: verbalism
+From parent:expression
+Similarity:0.0
+Similarity with root:0.0
+
+259: saying
+From parent:expression
+Similarity:0.0
+Similarity with root:0.0
+
+260: locution
+From parent:expression
+Similarity:0.0
+Similarity with root:0.0
+
+261: formulation
+From parent:expression
+Similarity:0.004081633
+Similarity with root:0.0
+
+262: formula
+From parent:expression
+Similarity:0.032967035
+Similarity with root:0.0
+
+263: construction
+From parent:expression
+Similarity:0.0
+Similarity with root:0.0
+
+264: grammatical construction
+From parent:expression
+Similarity:0.0
+Similarity with root:0.0
+
+265: facet
+From parent:aspect
+Similarity:0.53333336
+Similarity with root:0.0
+
+266: facial gesture
+From parent:facial expression
+Similarity:0.0
+Similarity with root:0.0
+
+267: human face
+From parent:face
+Similarity:0.0
+Similarity with root:0.0
+
+268: side
+From parent:face
+Similarity:2.5303644E-4
+Similarity with root:0.0
+
+269: grimace
+From parent:face
+Similarity:0.0
+Similarity with root:0.0
+
+270: font
+From parent:face
+Similarity:0.0
+Similarity with root:0.0
+
+271: fount
+From parent:face
+Similarity:0.0
+Similarity with root:0.0
+
+272: typeface
+From parent:face
+Similarity:0.0
+Similarity with root:0.0
+
+273: boldness
+From parent:face
+Similarity:0.0
+Similarity with root:0.0
+
+274: brass
+From parent:face
+Similarity:0.0
+Similarity with root:0.0
+
+275: cheek
+From parent:face
+Similarity:0.0
+Similarity with root:0.0
+
+276: looking for
+From parent:looking
+Similarity:0.0
+Similarity with root:0.0
+
+277: fragrance
+From parent:aroma
+Similarity:0.0
+Similarity with root:0.0
+
+278: suggestion
+From parent:trace
+Similarity:0.020833334
+Similarity with root:0.0
+
+279: tracing
+From parent:trace
+Similarity:0.0
+Similarity with root:0.0
+
+280: ghostwriter
+From parent:ghost
+Similarity:0.0
+Similarity with root:0.0
+
+281: signature tune
+From parent:signature
+Similarity:0.0
+Similarity with root:0.0
+
+282: theme song
+From parent:signature
+Similarity:0.0
+Similarity with root:0.0
+
+283: key signature
+From parent:signature
+Similarity:0.0
+Similarity with root:0.0
+
+284: intimation
+From parent:hint
+Similarity:0.0
+Similarity with root:0.0
+
+285: breath
+From parent:hint
+Similarity:0.016129032
+Similarity with root:0.0
+
+286: clue
+From parent:hint
+Similarity:0.4090909
+Similarity with root:0.0
+
+287: tip
+From parent:hint
+Similarity:0.0
+Similarity with root:0.0
+
+288: lead
+From parent:hint
+Similarity:0.0
+Similarity with root:0.0
+
+289: steer
+From parent:hint
+Similarity:0.0
+Similarity with root:0.0
+
+290: confidential information
+From parent:hint
+Similarity:0.0
+Similarity with root:0.0
+
+291: wind
+From parent:hint
+Similarity:0.0
+Similarity with root:0.0
+
+292: undertone
+From parent:tinge
+Similarity:0.0
+Similarity with root:0.0
+
+293: emergency
+From parent:pinch
+Similarity:0.0
+Similarity with root:0.0
+
+294: exigency
+From parent:pinch
+Similarity:0.0
+Similarity with root:0.0
+
+295: tweak
+From parent:pinch
+Similarity:0.0
+Similarity with root:0.0
+
+296: apprehension
+From parent:pinch
+Similarity:0.0
+Similarity with root:0.0
+
+297: arrest
+From parent:pinch
+Similarity:0.0
+Similarity with root:0.0
+
+298: catch
+From parent:pinch
+Similarity:0.0
+Similarity with root:0.0
+
+299: collar
+From parent:pinch
+Similarity:0.0
+Similarity with root:0.0
+
+300: taking into custody
+From parent:pinch
+Similarity:0.0
+Similarity with root:0.0
+
+301: jotting
+From parent:jot
+Similarity:0.0
+Similarity with root:0.0
+
+302: pinpoint
+From parent:speck
+Similarity:0.3
+Similarity with root:0.0
+
+303: atom
+From parent:speck
+Similarity:0.0
+Similarity with root:0.0
+
+304: molecule
+From parent:speck
+Similarity:0.0
+Similarity with root:0.0
+
+305: particle
+From parent:speck
+Similarity:0.1462185
+Similarity with root:0.0
+
+306: corpuscle
+From parent:speck
+Similarity:0.0
+Similarity with root:0.0
+
+307: mote
+From parent:speck
+Similarity:0.0
+Similarity with root:0.0
+
+308: physical contact
+From parent:contact
+Similarity:0.0
+Similarity with root:0.0
+
+309: impinging
+From parent:contact
+Similarity:0.0754717
+Similarity with root:0.0
+
+310: striking
+From parent:contact
+Similarity:0.0
+Similarity with root:0.0
+
+311: middleman
+From parent:contact
+Similarity:0.0
+Similarity with root:0.0
+
+312: liaison
+From parent:contact
+Similarity:0.009433962
+Similarity with root:0.0
+
+313: link
+From parent:contact
+Similarity:0.0
+Similarity with root:0.0
+
+314: inter-group communication
+From parent:contact
+Similarity:0.0
+Similarity with root:0.0
+
+315: tangency
+From parent:contact
+Similarity:0.0
+Similarity with root:0.0
+
+316: contact lens
+From parent:contact
+Similarity:0.0
+Similarity with root:0.0
+
+317: topographic point
+From parent:spot
+Similarity:0.0
+Similarity with root:0.0
+
+318: place
+From parent:spot
+Similarity:0.29166666
+Similarity with root:0.0
+
+319: smudge
+From parent:spot
+Similarity:0.0
+Similarity with root:0.0
+
+320: blot
+From parent:spot
+Similarity:0.055555556
+Similarity with root:0.0
+
+321: daub
+From parent:spot
+Similarity:0.0
+Similarity with root:0.0
+
+322: smear
+From parent:spot
+Similarity:0.0
+Similarity with root:0.0
+
+323: smirch
+From parent:spot
+Similarity:0.0
+Similarity with root:0.0
+
+324: slur
+From parent:spot
+Similarity:0.0
+Similarity with root:0.0
+
+325: speckle
+From parent:spot
+Similarity:0.0
+Similarity with root:0.0
+
+326: dapple
+From parent:spot
+Similarity:0.0
+Similarity with root:0.0
+
+327: patch
+From parent:spot
+Similarity:0.032407407
+Similarity with root:0.0
+
+328: fleck
+From parent:spot
+Similarity:0.0
+Similarity with root:0.0
+
+329: maculation
+From parent:spot
+Similarity:0.0
+Similarity with root:0.0
+
+330: point
+From parent:spot
+Similarity:1.74703E-4
+Similarity with root:0.0
+
+331: post
+From parent:spot
+Similarity:0.007575758
+Similarity with root:0.0
+
+332: berth
+From parent:spot
+Similarity:0.027777778
+Similarity with root:0.0
+
+333: office
+From parent:spot
+Similarity:0.0
+Similarity with root:0.0
+
+334: situation
+From parent:spot
+Similarity:0.0
+Similarity with root:0.0
+
+335: bit
+From parent:spot
+Similarity:0.0
+Similarity with root:0.0
+
+336: pip
+From parent:spot
+Similarity:0.0
+Similarity with root:0.0
+
+337: spotlight
+From parent:spot
+Similarity:0.0
+Similarity with root:0.0
+
+338: stain
+From parent:spot
+Similarity:0.0
+Similarity with root:0.0
+
+339: urge
+From parent:impulse
+Similarity:0.29411766
+Similarity with root:0.0
+
+340: nerve impulse
+From parent:impulse
+Similarity:0.0
+Similarity with root:0.0
+
+341: pulsation
+From parent:impulse
+Similarity:0.05882353
+Similarity with root:0.0
+
+342: pulsing
+From parent:impulse
+Similarity:0.0
+Similarity with root:0.0
+
+343: pulse
+From parent:impulse
+Similarity:0.029411765
+Similarity with root:0.0
+
+344: impulsion
+From parent:impulse
+Similarity:0.0
+Similarity with root:0.0
+
+345: impetus
+From parent:impulse
+Similarity:0.0
+Similarity with root:0.0
+
+346: momentum
+From parent:impulse
+Similarity:0.0
+Similarity with root:0.0
+
+347: impishness
+From parent:whimsicality
+Similarity:0.0
+Similarity with root:0.0
+
+348: mischievousness
+From parent:whimsicality
+Similarity:0.0
+Similarity with root:0.0
+
+349: puckishness
+From parent:whimsicality
+Similarity:0.0
+Similarity with root:0.0
+
+350: unpredictability
+From parent:capriciousness
+Similarity:0.0
+Similarity with root:0.0
+
+351: military position
+From parent:position
+Similarity:0.0
+Similarity with root:0.0
+
+352: posture
+From parent:position
+Similarity:0.0961832
+Similarity with root:0.0
+
+353: attitude
+From parent:position
+Similarity:0.016441574
+Similarity with root:0.0
+
+354: status
+From parent:position
+Similarity:0.08724101
+Similarity with root:0.0
+
+355: spatial relation
+From parent:position
+Similarity:0.0
+Similarity with root:0.0
+
+356: placement
+From parent:position
+Similarity:0.0016963528
+Similarity with root:0.0
+
+357: location
+From parent:position
+Similarity:3.065698E-5
+Similarity with root:0.0
+
+358: locating
+From parent:position
+Similarity:0.0
+Similarity with root:0.0
+
+359: positioning
+From parent:position
+Similarity:0.0
+Similarity with root:0.0
+
+360: emplacement
+From parent:position
+Similarity:0.0
+Similarity with root:0.0
+
+361: stance
+From parent:position
+Similarity:0.0
+Similarity with root:0.0
+
+362: stead
+From parent:position
+Similarity:0.0
+Similarity with root:0.0
+
+363: lieu
+From parent:position
+Similarity:0.0
+Similarity with root:0.0
+
+364: linear perspective
+From parent:perspective
+Similarity:0.0
+Similarity with root:0.0
+
+365: chance
+From parent:prospect
+Similarity:0.0
+Similarity with root:0.0
+
+366: expectation
+From parent:prospect
+Similarity:0.11904763
+Similarity with root:0.0
+
+367: outlook
+From parent:prospect
+Similarity:0.06696428
+Similarity with root:0.0
+
+368: candidate
+From parent:prospect
+Similarity:0.014285715
+Similarity with root:0.0
+
+369: prognosis
+From parent:prospect
+Similarity:0.0
+Similarity with root:0.0
+
+370: medical prognosis
+From parent:prospect
+Similarity:0.0
+Similarity with root:0.0
+
+371: cyclorama
+From parent:panorama
+Similarity:0.0
+Similarity with root:0.0
+
+372: diorama
+From parent:panorama
+Similarity:0.0
+Similarity with root:0.0
+
+373: study
+From parent:survey
+Similarity:0.33333334
+Similarity with root:0.0
+
+374: sketch
+From parent:survey
+Similarity:0.03478261
+Similarity with root:0.0
+
+375: resume
+From parent:survey
+Similarity:0.4
+Similarity with root:0.0
+
+376: vision
+From parent:sight
+Similarity:0.034408603
+Similarity with root:0.0
+
+377: visual sense
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+378: visual modality
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+379: ken
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+380: batch
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+381: deal
+From parent:sight
+Similarity:0.002020202
+Similarity with root:0.0
+
+382: flock
+From parent:sight
+Similarity:0.0037037039
+Similarity with root:0.0
+
+383: good deal
+From parent:sight
+Similarity:0.022222223
+Similarity with root:0.0
+
+384: great deal
+From parent:sight
+Similarity:0.022222223
+Similarity with root:0.0
+
+385: hatful
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+386: heap
+From parent:sight
+Similarity:0.0055555557
+Similarity with root:0.0
+
+387: lot
+From parent:sight
+Similarity:0.017145462
+Similarity with root:0.0
+
+388: mass
+From parent:sight
+Similarity:0.0019690576
+Similarity with root:0.0
+
+389: mess
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+390: mickle
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+391: mint
+From parent:sight
+Similarity:0.022222223
+Similarity with root:0.0
+
+392: muckle
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+393: peck
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+394: pile
+From parent:sight
+Similarity:0.004761905
+Similarity with root:0.0
+
+395: plenty
+From parent:sight
+Similarity:0.0029629632
+Similarity with root:0.0
+
+396: pot
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+397: quite a little
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+398: raft
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+399: slew
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+400: spate
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+401: stack
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+402: tidy sum
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+403: wad
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+404: whole lot
+From parent:sight
+Similarity:0.022222223
+Similarity with root:0.0
+
+405: whole slew
+From parent:sight
+Similarity:0.0
+Similarity with root:0.0
+
+406: apparent horizon
+From parent:horizon
+Similarity:0.0
+Similarity with root:0.0
+
+407: visible horizon
+From parent:horizon
+Similarity:0.0
+Similarity with root:0.0
+
+408: sensible horizon
+From parent:horizon
+Similarity:0.0
+Similarity with root:0.0
+
+409: skyline
+From parent:horizon
+Similarity:0.0
+Similarity with root:0.0
+
+410: celestial horizon
+From parent:horizon
+Similarity:0.0
+Similarity with root:0.0
+
+411: estimate
+From parent:idea
+Similarity:0.04394451
+Similarity with root:0.0
+
+412: estimation
+From parent:idea
+Similarity:0.077747986
+Similarity with root:0.0
+
+413: approximation
+From parent:idea
+Similarity:0.05831099
+Similarity with root:0.0
+
+414: theme
+From parent:idea
+Similarity:0.0
+Similarity with root:0.0
+
+415: melodic theme
+From parent:idea
+Similarity:0.0
+Similarity with root:0.0
+
+416: musical theme
+From parent:idea
+Similarity:0.0
+Similarity with root:0.0
+
+417: head
+From parent:mind
+Similarity:0.02253139
+Similarity with root:0.0
+
+418: brain
+From parent:mind
+Similarity:0.116795376
+Similarity with root:0.0
+
+419: psyche
+From parent:mind
+Similarity:0.5450451
+Similarity with root:0.0
+
+420: nous
+From parent:mind
+Similarity:0.0
+Similarity with root:0.0
+
+421: thinker
+From parent:mind
+Similarity:0.02027027
+Similarity with root:0.0
+
+422: creative thinker
+From parent:mind
+Similarity:0.0
+Similarity with root:0.0
+
+423: intellect
+From parent:mind
+Similarity:0.0
+Similarity with root:0.0
+
+424: appraisal
+From parent:assessment
+Similarity:1.0
+Similarity with root:0.0
+
+425: shrewdness
+From parent:perspicacity
+Similarity:0.0
+Similarity with root:0.0
+
+426: astuteness
+From parent:perspicacity
+Similarity:0.0
+Similarity with root:0.0
+
+427: perspicaciousness
+From parent:perspicacity
+Similarity:0.0
+Similarity with root:0.0
+
+428: judiciousness
+From parent:sagacity
+Similarity:0.0
+Similarity with root:0.0
+
+429: understanding
+From parent:discernment
+Similarity:0.0
+Similarity with root:0.0
+
+430: savvy
+From parent:discernment
+Similarity:0.0
+Similarity with root:0.0
+
+431: taste
+From parent:discernment
+Similarity:0.0
+Similarity with root:0.0
+
+432: appreciation
+From parent:discernment
+Similarity:0.0
+Similarity with root:0.0
+
+433: perceptiveness
+From parent:discernment
+Similarity:0.0
+Similarity with root:0.0
+
+434: discretion
+From parent:discernment
+Similarity:0.0
+Similarity with root:0.0
+
+---------------------
+Seed Word:believer
+Iteration level:4

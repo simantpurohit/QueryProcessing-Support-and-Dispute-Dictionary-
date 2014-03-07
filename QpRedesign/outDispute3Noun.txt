@@ -1,0 +1,324 @@
+-----------------------------
+Seed Word:dispute
+Iteration level:3
+1: deviance
+From parent:deviation
+Similarity:0.0
+Similarity with root:0.0
+
+2: diversion
+From parent:deviation
+Similarity:0.0
+Similarity with root:0.0
+
+3: digression
+From parent:deviation
+Similarity:0.0
+Similarity with root:0.0
+
+4: deflection
+From parent:deviation
+Similarity:0.0
+Similarity with root:0.0
+
+5: deflexion
+From parent:deviation
+Similarity:0.0
+Similarity with root:0.0
+
+6: divagation
+From parent:deviation
+Similarity:0.0
+Similarity with root:0.0
+
+7: divergency
+From parent:divergence
+Similarity:0.0
+Similarity with root:0.0
+
+8: discrepancy
+From parent:divergence
+Similarity:0.0
+Similarity with root:0.0
+
+9: disagreement
+From parent:divergence
+Similarity:0.0
+Similarity with root:0.0
+
+10: variance
+From parent:divergence
+Similarity:0.0
+Similarity with root:0.0
+
+11: balance
+From parent:remainder
+Similarity:0.0
+Similarity with root:0.0
+
+12: residual
+From parent:remainder
+Similarity:0.0
+Similarity with root:0.0
+
+13: residue
+From parent:remainder
+Similarity:0.25
+Similarity with root:0.0
+
+14: residuum
+From parent:remainder
+Similarity:0.0
+Similarity with root:0.0
+
+15: end
+From parent:remainder
+Similarity:0.0
+Similarity with root:0.0
+
+16: remnant
+From parent:remainder
+Similarity:0.0
+Similarity with root:0.0
+
+17: oddment
+From parent:remainder
+Similarity:0.0
+Similarity with root:0.0
+
+18: fighting
+From parent:fight
+Similarity:0.47017545
+Similarity with root:0.0
+
+19: combat
+From parent:fight
+Similarity:0.031345032
+Similarity with root:0.0
+
+20: competitiveness
+From parent:fight
+Similarity:0.0
+Similarity with root:0.0
+
+21: date
+From parent:engagement
+Similarity:0.019410228
+Similarity with root:0.0
+
+22: appointment
+From parent:engagement
+Similarity:0.020833334
+Similarity with root:0.0
+
+23: betrothal
+From parent:engagement
+Similarity:0.0
+Similarity with root:0.0
+
+24: troth
+From parent:engagement
+Similarity:0.0
+Similarity with root:0.0
+
+25: employment
+From parent:engagement
+Similarity:0.02
+Similarity with root:0.0
+
+26: booking
+From parent:engagement
+Similarity:0.071428575
+Similarity with root:0.0
+
+27: mesh
+From parent:engagement
+Similarity:0.0
+Similarity with root:0.0
+
+28: meshing
+From parent:engagement
+Similarity:0.0
+Similarity with root:0.0
+
+29: interlocking
+From parent:engagement
+Similarity:0.0
+Similarity with root:0.0
+
+30: participation
+From parent:engagement
+Similarity:0.0
+Similarity with root:0.0
+
+31: involution
+From parent:engagement
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:disputation
+Iteration level:3
+1: contest
+From parent:competition
+Similarity:0.14222223
+Similarity with root:0.0
+
+2: rival
+From parent:competition
+Similarity:0.0
+Similarity with root:0.0
+
+3: challenger
+From parent:competition
+Similarity:0.0
+Similarity with root:0.0
+
+4: competitor
+From parent:competition
+Similarity:0.0
+Similarity with root:0.0
+
+5: contender
+From parent:competition
+Similarity:0.0
+Similarity with root:0.0
+
+6: listing
+From parent:list
+Similarity:0.0
+Similarity with root:0.0
+
+7: disposition
+From parent:inclination
+Similarity:0.0
+Similarity with root:0.0
+
+8: tendency
+From parent:inclination
+Similarity:0.23913044
+Similarity with root:0.0
+
+9: inclination of an orbit
+From parent:inclination
+Similarity:0.0
+Similarity with root:0.0
+
+10: angle of inclination
+From parent:inclination
+Similarity:0.0
+Similarity with root:0.0
+
+11: dip
+From parent:inclination
+Similarity:0.0
+Similarity with root:0.0
+
+12: angle of dip
+From parent:inclination
+Similarity:0.0
+Similarity with root:0.0
+
+13: magnetic dip
+From parent:inclination
+Similarity:0.0
+Similarity with root:0.0
+
+14: magnetic inclination
+From parent:inclination
+Similarity:0.0
+Similarity with root:0.0
+
+15: inclining
+From parent:inclination
+Similarity:0.0
+Similarity with root:0.0
+
+16: propensity
+From parent:leaning
+Similarity:0.0
+Similarity with root:0.0
+
+17: proclivity
+From parent:leaning
+Similarity:0.0
+Similarity with root:0.0
+
+18: stone
+From parent:rock
+Similarity:0.44491115
+Similarity with root:0.0
+
+19: Rock
+From parent:rock
+Similarity:0.58
+Similarity with root:0.0
+
+20: John Rock
+From parent:rock
+Similarity:0.0
+Similarity with root:0.0
+
+21: rock candy
+From parent:rock
+Similarity:0.0
+Similarity with root:0.0
+
+22: rock 'n' roll
+From parent:rock
+Similarity:0.0
+Similarity with root:0.0
+
+23: rock'n'roll
+From parent:rock
+Similarity:0.0
+Similarity with root:0.0
+
+24: rock-and-roll
+From parent:rock
+Similarity:0.0
+Similarity with root:0.0
+
+25: rock and roll
+From parent:rock
+Similarity:0.0
+Similarity with root:0.0
+
+26: rock music
+From parent:rock
+Similarity:0.0
+Similarity with root:0.0
+
+27: affirmation
+From parent:statement
+Similarity:0.0
+Similarity with root:0.0
+
+28: assertion
+From parent:statement
+Similarity:0.0
+Similarity with root:0.0
+
+29: instruction
+From parent:statement
+Similarity:0.0
+Similarity with root:0.0
+
+30: command
+From parent:statement
+Similarity:0.0
+Similarity with root:0.0
+
+31: program line
+From parent:statement
+Similarity:0.0
+Similarity with root:0.0
+
+32: financial statement
+From parent:statement
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:disputant
+Iteration level:3

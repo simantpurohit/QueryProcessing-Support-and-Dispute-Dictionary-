@@ -1,0 +1,8 @@
+------------------
+Seed Word:believable
+Iteration level:1
+1: credible
+From parent:believable
+Similarity:0.5
+Similarity with root:0.5
+

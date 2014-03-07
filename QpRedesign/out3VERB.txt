@@ -1,0 +1,1328 @@
+-------------
+Seed Word:believe
+Iteration level:3
+1: speak up
+From parent:opine
+Similarity:0.0
+Similarity with root:0.0
+
+2: animadvert
+From parent:opine
+Similarity:0.0
+Similarity with root:0.0
+
+3: sound off
+From parent:opine
+Similarity:0.0
+Similarity with root:0.0
+
+4: say
+From parent:suppose
+Similarity:0.012699874
+Similarity with root:1.8482395E-4
+
+5: speculate
+From parent:suppose
+Similarity:0.08947369
+Similarity with root:0.0013021295
+
+6: theorize
+From parent:suppose
+Similarity:0.17894737
+Similarity with root:0.002604259
+
+7: theorise
+From parent:suppose
+Similarity:0.0
+Similarity with root:0.0
+
+8: conjecture
+From parent:suppose
+Similarity:0.17894737
+Similarity with root:0.002604259
+
+9: hypothesize
+From parent:suppose
+Similarity:0.17894737
+Similarity with root:0.002604259
+
+10: hypothesise
+From parent:suppose
+Similarity:0.0
+Similarity with root:0.0
+
+11: hypothecate
+From parent:suppose
+Similarity:0.0
+Similarity with root:0.0
+
+12: presuppose
+From parent:suppose
+Similarity:0.0
+Similarity with root:0.0
+
+13: conceive of
+From parent:imagine
+Similarity:0.85714287
+Similarity with root:0.005461047
+
+14: ideate
+From parent:imagine
+Similarity:0.0
+Similarity with root:0.0
+
+15: envisage
+From parent:imagine
+Similarity:0.85714287
+Similarity with root:0.005461047
+
+16: calculate
+From parent:reckon
+Similarity:0.12068966
+Similarity with root:0.002691292
+
+17: estimate
+From parent:reckon
+Similarity:0.0627907
+Similarity with root:0.001400187
+
+18: count on
+From parent:reckon
+Similarity:0.3
+Similarity with root:0.0066897827
+
+19: figure
+From parent:reckon
+Similarity:0.18235296
+Similarity with root:0.0040663388
+
+20: forecast
+From parent:reckon
+Similarity:0.075
+Similarity with root:0.0016724457
+
+21: cipher
+From parent:reckon
+Similarity:0.0
+Similarity with root:0.0
+
+22: cypher
+From parent:reckon
+Similarity:0.0
+Similarity with root:0.0
+
+23: compute
+From parent:reckon
+Similarity:0.1
+Similarity with root:0.0022299276
+
+24: work out
+From parent:reckon
+Similarity:0.0
+Similarity with root:0.0
+
+25: bet
+From parent:reckon
+Similarity:0.0
+Similarity with root:0.0
+
+26: depend
+From parent:reckon
+Similarity:0.0
+Similarity with root:0.0
+
+27: look
+From parent:reckon
+Similarity:0.0
+Similarity with root:0.0
+
+28: venture
+From parent:guess
+Similarity:0.06944445
+Similarity with root:0.0020324863
+
+29: pretend
+From parent:guess
+Similarity:0.0
+Similarity with root:0.0
+
+30: hazard
+From parent:guess
+Similarity:0.15625
+Similarity with root:0.0045730937
+
+31: gauge
+From parent:guess
+Similarity:0.09375
+Similarity with root:0.002743856
+
+32: approximate
+From parent:guess
+Similarity:0.026785716
+Similarity with root:7.8395894E-4
+
+33: judge
+From parent:guess
+Similarity:0.021634616
+Similarity with root:6.331976E-4
+
+34: infer
+From parent:guess
+Similarity:0.0
+Similarity with root:0.0
+
+35: think of
+From parent:remember
+Similarity:0.106015995
+Similarity with root:1.1468762E-4
+
+36: think back
+From parent:remember
+Similarity:0.125
+Similarity with root:1.3522443E-4
+
+37: commend
+From parent:remember
+Similarity:0.0
+Similarity with root:0.0
+
+38: commemorate
+From parent:remember
+Similarity:0.0
+Similarity with root:0.0
+
+39: recover
+From parent:retrieve
+Similarity:0.5625
+Similarity with root:0.0
+
+40: find
+From parent:retrieve
+Similarity:0.0
+Similarity with root:0.0
+
+41: regain
+From parent:retrieve
+Similarity:1.0
+Similarity with root:0.0
+
+42: hark back
+From parent:recall
+Similarity:0.0
+Similarity with root:0.0
+
+43: return
+From parent:recall
+Similarity:0.002359047
+Similarity with root:3.855652E-6
+
+44: come back
+From parent:recall
+Similarity:0.002795248
+Similarity with root:4.568584E-6
+
+45: echo
+From parent:recall
+Similarity:0.0
+Similarity with root:0.0
+
+46: call in
+From parent:recall
+Similarity:0.0
+Similarity with root:0.0
+
+47: withdraw
+From parent:recall
+Similarity:0.0
+Similarity with root:0.0
+
+48: bring forward
+From parent:call up
+Similarity:0.25
+Similarity with root:1.173646E-4
+
+49: call
+From parent:call up
+Similarity:0.050296374
+Similarity with root:2.3612056E-5
+
+50: telephone
+From parent:call up
+Similarity:0.25
+Similarity with root:1.173646E-4
+
+51: phone
+From parent:call up
+Similarity:0.25
+Similarity with root:1.173646E-4
+
+52: ring
+From parent:call up
+Similarity:0.00862069
+Similarity with root:4.0470554E-6
+
+53: mobilize
+From parent:call up
+Similarity:0.0
+Similarity with root:0.0
+
+54: mobilise
+From parent:call up
+Similarity:0.0
+Similarity with root:0.0
+
+55: rally
+From parent:call up
+Similarity:0.0
+Similarity with root:0.0
+
+56: destine
+From parent:intend
+Similarity:0.04651163
+Similarity with root:1.6757305E-5
+
+57: designate
+From parent:intend
+Similarity:0.0
+Similarity with root:0.0
+
+58: specify
+From parent:intend
+Similarity:0.0
+Similarity with root:0.0
+
+59: signify
+From parent:intend
+Similarity:0.0
+Similarity with root:0.0
+
+60: stand for
+From parent:intend
+Similarity:0.0
+Similarity with root:0.0
+
+61: entail
+From parent:mean
+Similarity:0.22913669
+Similarity with root:1.044746E-5
+
+62: imply
+From parent:mean
+Similarity:0.009919338
+Similarity with root:4.5227105E-7
+
+63: have in mind
+From parent:mean
+Similarity:0.02877698
+Similarity with root:1.312083E-6
+
+64: understand
+From parent:see
+Similarity:0.024542259
+Similarity with root:9.893508E-7
+
+65: realize
+From parent:see
+Similarity:0.051588114
+Similarity with root:2.079627E-6
+
+66: realise
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+67: witness
+From parent:see
+Similarity:0.033709016
+Similarity with root:1.3588824E-6
+
+68: visualize
+From parent:see
+Similarity:0.047540985
+Similarity with root:1.9164786E-6
+
+69: visualise
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+70: envision
+From parent:see
+Similarity:0.027166279
+Similarity with root:1.0951306E-6
+
+71: project
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+72: fancy
+From parent:see
+Similarity:0.035655737
+Similarity with root:1.4373588E-6
+
+73: picture
+From parent:see
+Similarity:0.02641166
+Similarity with root:1.0647104E-6
+
+74: image
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+75: learn
+From parent:see
+Similarity:0.011139133
+Similarity with root:4.4904223E-7
+
+76: hear
+From parent:see
+Similarity:0.0055414448
+Similarity with root:2.2338746E-7
+
+77: get word
+From parent:see
+Similarity:0.032786883
+Similarity with root:1.3217092E-6
+
+78: get wind
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+79: pick up
+From parent:see
+Similarity:0.0018471483
+Similarity with root:7.446249E-8
+
+80: find out
+From parent:see
+Similarity:0.011583668
+Similarity with root:4.6696238E-7
+
+81: get a line
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+82: discover
+From parent:see
+Similarity:0.007650273
+Similarity with root:3.0839882E-7
+
+83: watch
+From parent:see
+Similarity:0.0034649777
+Similarity with root:1.3968065E-7
+
+84: catch
+From parent:see
+Similarity:2.7322405E-4
+Similarity with root:1.1014245E-8
+
+85: take in
+From parent:see
+Similarity:0.0021174864
+Similarity with root:8.53604E-8
+
+86: determine
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+87: check
+From parent:see
+Similarity:0.0022080964
+Similarity with root:8.901308E-8
+
+88: ascertain
+From parent:see
+Similarity:0.0036065576
+Similarity with root:1.4538803E-7
+
+89: meet
+From parent:see
+Similarity:0.0046494007
+Similarity with root:1.8742726E-7
+
+90: run into
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+91: encounter
+From parent:see
+Similarity:0.01244877
+Similarity with root:5.018365E-7
+
+92: run across
+From parent:see
+Similarity:0.022131147
+Similarity with root:8.9215376E-7
+
+93: come across
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+94: insure
+From parent:see
+Similarity:0.008655738
+Similarity with root:3.4893128E-7
+
+95: see to it
+From parent:see
+Similarity:0.018032787
+Similarity with root:7.2694013E-7
+
+96: ensure
+From parent:see
+Similarity:0.004508197
+Similarity with root:1.8173503E-7
+
+97: control
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+98: assure
+From parent:see
+Similarity:0.0022540984
+Similarity with root:9.0867516E-8
+
+99: visit
+From parent:see
+Similarity:0.0030474989
+Similarity with root:1.2285118E-7
+
+100: attend
+From parent:see
+Similarity:1.2893719E-4
+Similarity with root:5.1977334E-9
+
+101: take care
+From parent:see
+Similarity:0.0014344262
+Similarity with root:5.782478E-8
+
+102: go steady
+From parent:see
+Similarity:8.1967213E-4
+Similarity with root:3.304273E-8
+
+103: go out
+From parent:see
+Similarity:2.1017235E-5
+Similarity with root:8.472496E-10
+
+104: date
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+105: examine
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+106: experience
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+107: undergo
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+108: go through
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+109: escort
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+110: interpret
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+111: construe
+From parent:see
+Similarity:0.0
+Similarity with root:0.0
+
+112: involve
+From parent:regard
+Similarity:0.086065575
+Similarity with root:4.6436686E-5
+
+113: affect
+From parent:regard
+Similarity:0.010714286
+Similarity with root:5.7808934E-6
+
+114: analyze
+From parent:study
+Similarity:0.54106283
+Similarity with root:3.231949E-5
+
+115: analyse
+From parent:study
+Similarity:0.5925926
+Similarity with root:3.5397534E-5
+
+116: canvass
+From parent:study
+Similarity:0.0
+Similarity with root:0.0
+
+117: canvas
+From parent:study
+Similarity:0.0
+Similarity with root:0.0
+
+118: read
+From parent:study
+Similarity:0.0025839794
+Similarity with root:1.5434972E-7
+
+119: hit the books
+From parent:study
+Similarity:0.0
+Similarity with root:0.0
+
+120: meditate
+From parent:study
+Similarity:0.0
+Similarity with root:0.0
+
+121: contemplate
+From parent:study
+Similarity:0.0035273368
+Similarity with root:2.106996E-7
+
+122: occupy
+From parent:take
+Similarity:0.0042838785
+Similarity with root:4.97919E-8
+
+123: use up
+From parent:take
+Similarity:0.0
+Similarity with root:0.0
+
+124: lead
+From parent:take
+Similarity:0.019119332
+Similarity with root:2.2222568E-7
+
+125: direct
+From parent:take
+Similarity:0.0069834935
+Similarity with root:8.1169766E-8
+
+126: conduct
+From parent:take
+Similarity:0.0023899165
+Similarity with root:2.777821E-8
+
+127: guide
+From parent:take
+Similarity:0.03476943
+Similarity with root:4.0412817E-7
+
+128: get hold of
+From parent:take
+Similarity:0.069798656
+Similarity with root:8.11276E-7
+
+129: assume
+From parent:take
+Similarity:0.006864813
+Similarity with root:7.979033E-8
+
+130: acquire
+From parent:take
+Similarity:0.007304511
+Similarity with root:8.4900975E-8
+
+131: adopt
+From parent:take
+Similarity:0.0021366936
+Similarity with root:2.4834979E-8
+
+132: take on
+From parent:take
+Similarity:0.02671141
+Similarity with root:3.104691E-7
+
+133: bring
+From parent:take
+Similarity:0.020794718
+Similarity with root:2.4169884E-7
+
+134: convey
+From parent:take
+Similarity:0.0
+Similarity with root:0.0
+
+135: necessitate
+From parent:take
+Similarity:0.027181208
+Similarity with root:3.1592958E-7
+
+136: ask
+From parent:take
+Similarity:5.8881575E-5
+Similarity with root:6.8438577E-10
+
+137: postulate
+From parent:take
+Similarity:0.0
+Similarity with root:0.0
+
+138: need
+From parent:take
+Similarity:0.019146511
+Similarity with root:2.225416E-7
+
+139: require
+From parent:take
+Similarity:0.02875693
+Similarity with root:3.3424433E-7
+
+140: call for
+From parent:take
+Similarity:0.01691275
+Similarity with root:1.965784E-7
+
+141: demand
+From parent:take
+Similarity:0.010490992
+Similarity with root:1.2193773E-7
+
+142: choose
+From parent:take
+Similarity:0.026704343
+Similarity with root:3.1038695E-7
+
+143: select
+From parent:take
+Similarity:0.03624161
+Similarity with root:4.2123943E-7
+
+144: pick out
+From parent:take
+Similarity:0.024161074
+Similarity with root:2.808263E-7
+
+145: accept
+From parent:take
+Similarity:0.010560076
+Similarity with root:1.227407E-7
+
+146: have
+From parent:take
+Similarity:4.8509688E-4
+Similarity with root:5.638324E-9
+
+147: fill
+From parent:take
+Similarity:0.0015592163
+Similarity with root:1.812291E-8
+
+148: film
+From parent:take
+Similarity:0.02147651
+Similarity with root:2.4962338E-7
+
+149: shoot
+From parent:take
+Similarity:0.0015498513
+Similarity with root:1.8014058E-8
+
+150: remove
+From parent:take
+Similarity:0.01826507
+Similarity with root:2.1229653E-7
+
+151: take away
+From parent:take
+Similarity:0.0067114094
+Similarity with root:7.8007304E-8
+
+152: consume
+From parent:take
+Similarity:0.0067114094
+Similarity with root:7.8007304E-8
+
+153: ingest
+From parent:take
+Similarity:0.013422819
+Similarity with root:1.5601461E-7
+
+154: submit
+From parent:take
+Similarity:0.0010883367
+Similarity with root:1.2649834E-8
+
+155: strike
+From parent:take
+Similarity:0.0
+Similarity with root:0.0
+
+156: take up
+From parent:take
+Similarity:4.9714145E-4
+Similarity with root:5.778319E-9
+
+157: admit
+From parent:take
+Similarity:1.3945786E-4
+Similarity with root:1.6209311E-9
+
+158: claim
+From parent:take
+Similarity:1.9484737E-4
+Similarity with root:2.2647282E-9
+
+159: exact
+From parent:take
+Similarity:0.0
+Similarity with root:0.0
+
+160: make
+From parent:take
+Similarity:3.277856E-6
+Similarity with root:3.809881E-11
+
+161: aim
+From parent:take
+Similarity:0.0014811386
+Similarity with root:1.7215406E-8
+
+162: train
+From parent:take
+Similarity:1.4511157E-4
+Similarity with root:1.6866446E-9
+
+163: take aim
+From parent:take
+Similarity:0.0053691277
+Similarity with root:6.2405846E-8
+
+164: carry
+From parent:take
+Similarity:6.0402683E-4
+Similarity with root:7.0206574E-9
+
+165: pack
+From parent:take
+Similarity:0.0
+Similarity with root:0.0
+
+166: lease
+From parent:take
+Similarity:0.0
+Similarity with root:0.0
+
+167: rent
+From parent:take
+Similarity:2.9828487E-4
+Similarity with root:3.4669914E-9
+
+168: hire
+From parent:take
+Similarity:0.0
+Similarity with root:0.0
+
+169: charter
+From parent:take
+Similarity:0.0
+Similarity with root:0.0
+
+170: engage
+From parent:take
+Similarity:0.0
+Similarity with root:0.0
+
+171: subscribe
+From parent:take
+Similarity:0.0
+Similarity with root:0.0
+
+172: subscribe to
+From parent:take
+Similarity:0.0013422819
+Similarity with root:1.5601461E-8
+
+173: contain
+From parent:take
+Similarity:0.0
+Similarity with root:0.0
+
+174: hold
+From parent:take
+Similarity:0.0
+Similarity with root:0.0
+
+175: drive
+From parent:take
+Similarity:0.0
+Similarity with root:0.0
+
+176: contract
+From parent:take
+Similarity:0.0
+Similarity with root:0.0
+
+177: get
+From parent:take
+Similarity:0.0
+Similarity with root:0.0
+
+178: cover
+From parent:deal
+Similarity:0.041514043
+Similarity with root:2.6933951E-6
+
+179: treat
+From parent:deal
+Similarity:0.045015227
+Similarity with root:2.920549E-6
+
+180: handle
+From parent:deal
+Similarity:0.044471156
+Similarity with root:2.88525E-6
+
+181: plow
+From parent:deal
+Similarity:0.083028086
+Similarity with root:5.3867902E-6
+
+182: address
+From parent:deal
+Similarity:0.0
+Similarity with root:0.0
+
+183: cope
+From parent:deal
+Similarity:0.0989011
+Similarity with root:6.4166175E-6
+
+184: get by
+From parent:deal
+Similarity:0.059340663
+Similarity with root:3.8499707E-6
+
+185: make out
+From parent:deal
+Similarity:0.006593407
+Similarity with root:4.2777452E-7
+
+186: make do
+From parent:deal
+Similarity:0.0989011
+Similarity with root:6.4166175E-6
+
+187: contend
+From parent:deal
+Similarity:0.0
+Similarity with root:0.0
+
+188: grapple
+From parent:deal
+Similarity:0.059340663
+Similarity with root:3.8499707E-6
+
+189: manage
+From parent:deal
+Similarity:0.011538463
+Similarity with root:7.4860543E-7
+
+190: distribute
+From parent:deal
+Similarity:0.023245985
+Similarity with root:1.5081793E-6
+
+191: administer
+From parent:deal
+Similarity:0.006105006
+Similarity with root:3.960875E-7
+
+192: mete out
+From parent:deal
+Similarity:0.0
+Similarity with root:0.0
+
+193: parcel out
+From parent:deal
+Similarity:0.0
+Similarity with root:0.0
+
+194: lot
+From parent:deal
+Similarity:0.0
+Similarity with root:0.0
+
+195: dispense
+From parent:deal
+Similarity:0.054945055
+Similarity with root:3.5647874E-6
+
+196: shell out
+From parent:deal
+Similarity:0.0
+Similarity with root:0.0
+
+197: deal out
+From parent:deal
+Similarity:0.0
+Similarity with root:0.0
+
+198: dish out
+From parent:deal
+Similarity:0.0
+Similarity with root:0.0
+
+199: allot
+From parent:deal
+Similarity:0.00915751
+Similarity with root:5.941313E-7
+
+200: dole out
+From parent:deal
+Similarity:0.054945055
+Similarity with root:3.5647874E-6
+
+201: sell
+From parent:deal
+Similarity:0.0028944272
+Similarity with root:1.8778792E-7
+
+202: trade
+From parent:deal
+Similarity:0.0
+Similarity with root:0.0
+
+203: care
+From parent:deal
+Similarity:0.0015513899
+Similarity with root:1.00652834E-7
+
+204: carry on
+From parent:deal
+Similarity:0.0
+Similarity with root:0.0
+
+205: share
+From parent:deal
+Similarity:0.0
+Similarity with root:0.0
+
+206: divvy up
+From parent:deal
+Similarity:0.0
+Similarity with root:0.0
+
+207: portion out
+From parent:deal
+Similarity:0.0
+Similarity with root:0.0
+
+208: apportion
+From parent:deal
+Similarity:0.0
+Similarity with root:0.0
+
+209: number
+From parent:count
+Similarity:0.0
+Similarity with root:0.0
+
+210: enumerate
+From parent:count
+Similarity:0.0
+Similarity with root:0.0
+
+211: numerate
+From parent:count
+Similarity:0.0
+Similarity with root:0.0
+
+212: matter
+From parent:count
+Similarity:0.17073171
+Similarity with root:4.31743E-6
+
+213: librate
+From parent:weigh
+Similarity:0.0
+Similarity with root:0.0
+
+214: press
+From parent:weigh
+Similarity:0.0
+Similarity with root:0.0
+
+215: argue
+From parent:debate
+Similarity:0.06666667
+Similarity with root:1.9200002E-6
+
+216: fence
+From parent:debate
+Similarity:0.0
+Similarity with root:0.0
+
+217: pass
+From parent:turn over
+Similarity:0.04223522
+Similarity with root:0.0
+
+218: hand
+From parent:turn over
+Similarity:0.5555556
+Similarity with root:0.0
+
+219: reach
+From parent:turn over
+Similarity:0.002286237
+Similarity with root:0.0
+
+220: pass on
+From parent:turn over
+Similarity:0.22222224
+Similarity with root:0.0
+
+221: give
+From parent:turn over
+Similarity:0.0070323492
+Similarity with root:0.0
+
+222: overturn
+From parent:turn over
+Similarity:0.055555556
+Similarity with root:0.0
+
+223: tip over
+From parent:turn over
+Similarity:0.0
+Similarity with root:0.0
+
+224: upset
+From parent:turn over
+Similarity:0.0
+Similarity with root:0.0
+
+225: knock over
+From parent:turn over
+Similarity:0.22222222
+Similarity with root:0.0
+
+226: bowl over
+From parent:turn over
+Similarity:0.0
+Similarity with root:0.0
+
+227: tump over
+From parent:turn over
+Similarity:0.0
+Similarity with root:0.0
+
+228: roll
+From parent:turn over
+Similarity:0.047008548
+Similarity with root:0.0
+
+229: dig
+From parent:turn over
+Similarity:0.071428575
+Similarity with root:0.0
+
+230: delve
+From parent:turn over
+Similarity:0.11111111
+Similarity with root:0.0
+
+231: cut into
+From parent:turn over
+Similarity:0.0
+Similarity with root:0.0
+
+232: turn
+From parent:turn over
+Similarity:0.0
+Similarity with root:0.0
+
+233: flip
+From parent:turn over
+Similarity:0.0
+Similarity with root:0.0
+
+234: flip over
+From parent:turn over
+Similarity:0.0
+Similarity with root:0.0
+
+235: have a bun in the oven
+From parent:gestate
+Similarity:0.0
+Similarity with root:0.0
+
+236: bear
+From parent:gestate
+Similarity:0.0
+Similarity with root:0.0
+
+237: expect
+From parent:gestate
+Similarity:0.0
+Similarity with root:0.0
+
+238: curse
+From parent:swear
+Similarity:0.378198
+Similarity with root:0.0
+
+239: cuss
+From parent:swear
+Similarity:0.6451613
+Similarity with root:0.0
+
+240: blaspheme
+From parent:swear
+Similarity:0.6451613
+Similarity with root:0.0
+
+241: imprecate
+From parent:swear
+Similarity:0.0
+Similarity with root:0.0
+
+242: affirm
+From parent:swear
+Similarity:0.05529954
+Similarity with root:0.0
+
+243: verify
+From parent:swear
+Similarity:0.0
+Similarity with root:0.0
+
+244: assert
+From parent:swear
+Similarity:0.04994797
+Similarity with root:0.0
+
+245: avow
+From parent:swear
+Similarity:0.0
+Similarity with root:0.0
+
+246: aver
+From parent:swear
+Similarity:0.0
+Similarity with root:0.0
+
+247: swan
+From parent:swear
+Similarity:0.2580645
+Similarity with root:0.0
+
+248: depose
+From parent:swear
+Similarity:0.0
+Similarity with root:0.0
+
+249: depone
+From parent:swear
+Similarity:0.0
+Similarity with root:0.0
+
+250: deposit
+From parent:bank
+Similarity:0.0
+Similarity with root:0.0
+
+251: go for
+From parent:hope
+Similarity:0.06388889
+Similarity with root:5.0252744E-5
+
+252: want
+From parent:desire
+Similarity:0.76917356
+Similarity with root:8.344893E-5
+
+253: leave
+From parent:entrust
+Similarity:0.0
+Similarity with root:0.0
+
+254: perpetrate
+From parent:commit
+Similarity:0.41379312
+Similarity with root:1.1223277E-5
+
+255: pull
+From parent:commit
+Similarity:0.011994003
+Similarity with root:3.2531239E-7
+
+256: dedicate
+From parent:commit
+Similarity:0.41379312
+Similarity with root:1.1223277E-5
+
+257: consecrate
+From parent:commit
+Similarity:0.0
+Similarity with root:0.0
+
+258: devote
+From parent:commit
+Similarity:0.35467982
+Similarity with root:9.619953E-6
+
+259: institutionalize
+From parent:commit
+Similarity:0.10344828
+Similarity with root:2.8058193E-6
+
+260: institutionalise
+From parent:commit
+Similarity:0.0
+Similarity with root:0.0
+
+261: send
+From parent:commit
+Similarity:0.0020969245
+Similarity with root:5.6874715E-8
+
+262: charge
+From parent:commit
+Similarity:0.0
+Similarity with root:0.0
+
+263: invest
+From parent:commit
+Similarity:0.026819924
+Similarity with root:7.2743467E-7
+
+264: put
+From parent:commit
+Similarity:4.3834012E-4
+Similarity with root:1.1889064E-8
+
+265: place
+From parent:commit
+Similarity:0.0
+Similarity with root:0.0
+

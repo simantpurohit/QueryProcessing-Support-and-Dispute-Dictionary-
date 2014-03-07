@@ -1,0 +1,84 @@
+-----------------------------
+Seed Word:dispute
+Iteration level:1
+1: difference
+From parent:dispute
+Similarity:0.020833334
+Similarity with root:0.020833334
+
+2: difference of opinion
+From parent:dispute
+Similarity:1.0
+Similarity with root:1.0
+
+3: conflict
+From parent:dispute
+Similarity:0.0
+Similarity with root:0.0
+
+4: contravention
+From parent:dispute
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:disputation
+Iteration level:1
+1: debate
+From parent:disputation
+Similarity:0.0
+Similarity with root:0.0
+
+2: public debate
+From parent:disputation
+Similarity:0.0
+Similarity with root:0.0
+
+3: controversy
+From parent:disputation
+Similarity:0.0
+Similarity with root:0.0
+
+4: contention
+From parent:disputation
+Similarity:0.0
+Similarity with root:0.0
+
+5: contestation
+From parent:disputation
+Similarity:0.0
+Similarity with root:0.0
+
+6: disceptation
+From parent:disputation
+Similarity:0.0
+Similarity with root:0.0
+
+7: tilt
+From parent:disputation
+Similarity:0.0
+Similarity with root:0.0
+
+8: argument
+From parent:disputation
+Similarity:0.0
+Similarity with root:0.0
+
+9: arguing
+From parent:disputation
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:disputant
+Iteration level:1
+1: controversialist
+From parent:disputant
+Similarity:0.0
+Similarity with root:0.0
+
+2: eristic
+From parent:disputant
+Similarity:0.0
+Similarity with root:0.0
+

@@ -1,0 +1,171 @@
+---------------------
+Seed Word:belief
+Iteration level:2
+1: effect
+From parent:impression
+Similarity:0.030372595
+Similarity with root:0.004859615
+
+2: mental picture
+From parent:impression
+Similarity:0.04761905
+Similarity with root:0.0076190475
+
+3: picture
+From parent:impression
+Similarity:0.011027569
+Similarity with root:0.001764411
+
+4: depression
+From parent:impression
+Similarity:0.0
+Similarity with root:0.0
+
+5: imprint
+From parent:impression
+Similarity:0.0
+Similarity with root:0.0
+
+6: stamp
+From parent:impression
+Similarity:0.0
+Similarity with root:0.0
+
+7: printing
+From parent:impression
+Similarity:0.0
+Similarity with root:0.0
+
+8: spirit
+From parent:feeling
+Similarity:0.049548045
+Similarity with root:0.003232649
+
+9: tone
+From parent:feeling
+Similarity:0.011768168
+Similarity with root:7.677872E-4
+
+10: feel
+From parent:feeling
+Similarity:0.022191402
+Similarity with root:0.0014478273
+
+11: flavor
+From parent:feeling
+Similarity:0.0776699
+Similarity with root:0.0050673955
+
+12: flavour
+From parent:feeling
+Similarity:0.0
+Similarity with root:0.0
+
+13: look
+From parent:feeling
+Similarity:0.0
+Similarity with root:0.0
+
+14: smell
+From parent:feeling
+Similarity:0.010355988
+Similarity with root:6.7565276E-4
+
+15: touch
+From parent:feeling
+Similarity:0.0
+Similarity with root:0.0
+
+16: touch sensation
+From parent:feeling
+Similarity:0.0
+Similarity with root:0.0
+
+17: tactual sensation
+From parent:feeling
+Similarity:0.009708738
+Similarity with root:6.3342444E-4
+
+18: tactile sensation
+From parent:feeling
+Similarity:0.0
+Similarity with root:0.0
+
+19: intuitive feeling
+From parent:feeling
+Similarity:0.0
+Similarity with root:0.0
+
+20: whim
+From parent:notion
+Similarity:0.0
+Similarity with root:0.0
+
+21: whimsy
+From parent:notion
+Similarity:0.0
+Similarity with root:0.0
+
+22: whimsey
+From parent:notion
+Similarity:0.0
+Similarity with root:0.0
+
+23: sentiment
+From parent:opinion
+Similarity:0.32522917
+Similarity with root:0.0
+
+24: persuasion
+From parent:opinion
+Similarity:0.0
+Similarity with root:0.0
+
+25: view
+From parent:opinion
+Similarity:0.05654705
+Similarity with root:0.0
+
+26: thought
+From parent:opinion
+Similarity:0.0
+Similarity with root:0.0
+
+27: public opinion
+From parent:opinion
+Similarity:0.1312608
+Similarity with root:0.0
+
+28: popular opinion
+From parent:opinion
+Similarity:0.0
+Similarity with root:0.0
+
+29: vox populi
+From parent:opinion
+Similarity:0.0
+Similarity with root:0.0
+
+30: legal opinion
+From parent:opinion
+Similarity:0.0
+Similarity with root:0.0
+
+31: judgment
+From parent:opinion
+Similarity:0.0015056906
+Similarity with root:0.0
+
+32: judgement
+From parent:opinion
+Similarity:0.0
+Similarity with root:0.0
+
+33: ruling
+From parent:opinion
+Similarity:0.017271157
+Similarity with root:0.0
+
+---------------------
+Seed Word:believer
+Iteration level:2

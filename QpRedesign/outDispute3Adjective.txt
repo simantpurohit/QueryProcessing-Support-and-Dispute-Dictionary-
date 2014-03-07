@@ -1,0 +1,11 @@
+--------------------------
+Seed Word:disputatious
+Iteration level:3
+1: strained
+From parent:agonistic
+Similarity:0.0
+Similarity with root:0.0
+
+--------------------------
+Seed Word:disputative
+Iteration level:3

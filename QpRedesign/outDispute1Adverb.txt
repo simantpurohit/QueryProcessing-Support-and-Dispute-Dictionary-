@@ -1,0 +1,25 @@
+------------------
+Seed Word:aside
+Iteration level:1
+------------------
+Seed Word:last
+Iteration level:1
+------------------
+Seed Word:close
+Iteration level:1
+------------------
+Seed Word:way
+Iteration level:1
+1: right smart
+From parent:way
+Similarity:0.0
+Similarity with root:0.0
+
+------------------
+Seed Word:heavy
+Iteration level:1
+1: heavily
+From parent:heavy
+Similarity:0.0
+Similarity with root:0.0
+

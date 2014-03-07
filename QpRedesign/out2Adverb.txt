@@ -1,0 +1,517 @@
+-----------------------------
+Seed Word:direct
+Iteration level:2
+1: immediately
+From parent:directly
+Similarity:0.1387632
+Similarity with root:0.0
+
+2: instantly
+From parent:directly
+Similarity:0.09615385
+Similarity with root:0.0
+
+3: straightaway
+From parent:directly
+Similarity:0.15384616
+Similarity with root:0.0
+
+4: straight off
+From parent:directly
+Similarity:0.0
+Similarity with root:0.0
+
+5: now
+From parent:directly
+Similarity:0.0026380478
+Similarity with root:0.0
+
+6: right away
+From parent:directly
+Similarity:0.15384616
+Similarity with root:0.0
+
+7: at once
+From parent:directly
+Similarity:0.11188812
+Similarity with root:0.0
+
+8: forthwith
+From parent:directly
+Similarity:0.15384616
+Similarity with root:0.0
+
+9: in real time
+From parent:directly
+Similarity:0.0
+Similarity with root:0.0
+
+10: like a shot
+From parent:directly
+Similarity:0.0
+Similarity with root:0.0
+
+11: flat
+From parent:directly
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:plain
+Iteration level:2
+1: seemingly
+From parent:apparently
+Similarity:1.0
+Similarity with root:0.0
+
+2: ostensibly
+From parent:apparently
+Similarity:1.0
+Similarity with root:0.0
+
+3: on the face of it
+From parent:apparently
+Similarity:1.0
+Similarity with root:0.0
+
+4: simply
+From parent:plainly
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:round
+Iteration level:2
+1: about
+From parent:around
+Similarity:0.058067113
+Similarity with root:0.0
+
+2: approximately
+From parent:around
+Similarity:0.031746034
+Similarity with root:0.0
+
+3: close to
+From parent:around
+Similarity:0.031746034
+Similarity with root:0.0
+
+4: just about
+From parent:around
+Similarity:0.010582011
+Similarity with root:0.0
+
+5: some
+From parent:around
+Similarity:0.031746034
+Similarity with root:0.0
+
+6: roughly
+From parent:around
+Similarity:0.026862029
+Similarity with root:0.0
+
+7: more or less
+From parent:around
+Similarity:0.031746034
+Similarity with root:0.0
+
+8: or so
+From parent:around
+Similarity:0.031746034
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:cod
+Iteration level:2
+-----------------------------
+Seed Word:clear
+Iteration level:2
+1: the whole way
+From parent:all the way
+Similarity:0.0
+Similarity with root:0.0
+
+2: intelligibly
+From parent:clearly
+Similarity:0.0
+Similarity with root:0.0
+
+3: understandably
+From parent:clearly
+Similarity:0.0
+Similarity with root:0.0
+
+4: distinctly
+From parent:clearly
+Similarity:0.0952381
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:con
+Iteration level:2
+-----------------------------
+Seed Word:collect
+Iteration level:2
+-----------------------------
+Seed Word:live
+Iteration level:2
+-----------------------------
+Seed Word:down
+Iteration level:2
+-----------------------------
+Seed Word:express
+Iteration level:2
+-----------------------------
+Seed Word:off
+Iteration level:2
+1: out
+From parent:away
+Similarity:0.0
+Similarity with root:0.0
+
+2: aside
+From parent:away
+Similarity:0.03627232
+Similarity with root:0.010082843
+
+3: by
+From parent:away
+Similarity:0.0
+Similarity with root:0.0
+
+4: forward
+From parent:forth
+Similarity:0.015625
+Similarity with root:0.0040625003
+
+5: onward
+From parent:forth
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:bang
+Iteration level:2
+1: slam-bang
+From parent:slapdash
+Similarity:0.0
+Similarity with root:0.0
+
+2: rigidly
+From parent:bolt
+Similarity:1.0
+Similarity with root:0.0
+
+3: stiffly
+From parent:bolt
+Similarity:0.2857143
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:damn
+Iteration level:2
+-----------------------------
+Seed Word:back
+Iteration level:2
+-----------------------------
+Seed Word:light
+Iteration level:2
+1: softly
+From parent:lightly
+Similarity:0.020833334
+Similarity with root:0.0
+
+2: gently
+From parent:lightly
+Similarity:0.03846154
+Similarity with root:0.0
+
+3: thinly
+From parent:lightly
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:double
+Iteration level:2
+1: in two ways
+From parent:doubly
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:free
+Iteration level:2
+-----------------------------
+Seed Word:further
+Iteration level:2
+-----------------------------
+Seed Word:counter
+Iteration level:2
+-----------------------------
+Seed Word:sic
+Iteration level:2
+-----------------------------
+Seed Word:pop
+Iteration level:2
+-----------------------------
+Seed Word:smash
+Iteration level:2
+-----------------------------
+Seed Word:smack
+Iteration level:2
+-----------------------------
+Seed Word:better
+Iteration level:2
+1: thoroughly
+From parent:good
+Similarity:0.15384616
+Similarity with root:0.0
+
+2: soundly
+From parent:good
+Similarity:0.0
+Similarity with root:0.0
+
+3: easy
+From parent:easily
+Similarity:0.9230769
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:part
+Iteration level:2
+-----------------------------
+Seed Word:square
+Iteration level:2
+1: forthrightly
+From parent:squarely
+Similarity:0.0
+Similarity with root:0.0
+
+2: forthright
+From parent:squarely
+Similarity:0.0
+Similarity with root:0.0
+
+3: foursquare
+From parent:squarely
+Similarity:0.0
+Similarity with root:0.0
+
+4: straightforwardly
+From parent:squarely
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:slow
+Iteration level:2
+-----------------------------
+Seed Word:put together
+Iteration level:2
+1: in collaboration
+From parent:together
+Similarity:0.0
+Similarity with root:0.0
+
+2: unitedly
+From parent:together
+Similarity:0.0
+Similarity with root:0.0
+
+3: in concert
+From parent:together
+Similarity:0.010204081
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:last
+Iteration level:2
+1: eventually
+From parent:finally
+Similarity:0.14253396
+Similarity with root:0.0067074806
+
+2: at length
+From parent:finally
+Similarity:0.5294118
+Similarity with root:0.024913497
+
+3: ultimately
+From parent:finally
+Similarity:0.23529412
+Similarity with root:0.0110726645
+
+4: in the end
+From parent:finally
+Similarity:0.084033616
+Similarity with root:0.0039545232
+
+5: at last
+From parent:finally
+Similarity:0.23529412
+Similarity with root:0.0110726645
+
+6: at long last
+From parent:finally
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:course
+Iteration level:2
+1: by nature
+From parent:naturally
+Similarity:0.16435185
+Similarity with root:0.10119813
+
+-----------------------------
+Seed Word:plump
+Iteration level:2
+-----------------------------
+Seed Word:close
+Iteration level:2
+-----------------------------
+Seed Word:worst
+Iteration level:2
+-----------------------------
+Seed Word:best
+Iteration level:2
+-----------------------------
+Seed Word:close up
+Iteration level:2
+-----------------------------
+Seed Word:sheer
+Iteration level:2
+-----------------------------
+Seed Word:thin
+Iteration level:2
+-----------------------------
+Seed Word:right
+Iteration level:2
+1: by rights
+From parent:properly
+Similarity:0.0
+Similarity with root:0.0
+
+2: rightly
+From parent:justly
+Similarity:0.5
+Similarity with root:0.004237288
+
+3: justifiedly
+From parent:justly
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:multiply
+Iteration level:2
+-----------------------------
+Seed Word:flop
+Iteration level:2
+-----------------------------
+Seed Word:plunk
+Iteration level:2
+-----------------------------
+Seed Word:loose
+Iteration level:2
+-----------------------------
+Seed Word:flush
+Iteration level:2
+-----------------------------
+Seed Word:even
+Iteration level:2
+-----------------------------
+Seed Word:out
+Iteration level:2
+-----------------------------
+Seed Word:low
+Iteration level:2
+-----------------------------
+Seed Word:smack
+Iteration level:2
+-----------------------------
+Seed Word:heart and soul
+Iteration level:2
+-----------------------------
+Seed Word:double
+Iteration level:2
+-----------------------------
+Seed Word:Low
+Iteration level:2
+-----------------------------
+Seed Word:first
+Iteration level:2
+-----------------------------
+Seed Word:slap
+Iteration level:2
+-----------------------------
+Seed Word:plenty
+Iteration level:2
+-----------------------------
+Seed Word:second
+Iteration level:2
+-----------------------------
+Seed Word:counter
+Iteration level:2
+-----------------------------
+Seed Word:passing
+Iteration level:2
+1: highly
+From parent:extremely
+Similarity:0.65
+Similarity with root:0.0
+
+2: super
+From parent:extremely
+Similarity:0.05
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:forte
+Iteration level:2
+1: loud
+From parent:loudly
+Similarity:0.90909094
+Similarity with root:0.0
+
+2: aloud
+From parent:loudly
+Similarity:0.082644634
+Similarity with root:0.0
+
+3: obstreperously
+From parent:loudly
+Similarity:0.0
+Similarity with root:0.0
+
+4: clamorously
+From parent:loudly
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:part
+Iteration level:2
+-----------------------------
+Seed Word:course
+Iteration level:2
+-----------------------------
+Seed Word:broadside
+Iteration level:2
+-----------------------------
+Seed Word:roaring
+Iteration level:2
+-----------------------------
+Seed Word:home
+Iteration level:2
+-----------------------------
+Seed Word:item
+Iteration level:2
+-----------------------------
+Seed Word:down
+Iteration level:2

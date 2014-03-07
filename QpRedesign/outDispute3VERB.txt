@@ -1,0 +1,13 @@
+----------------
+Seed Word:dispute
+Iteration level:3
+1: pan
+From parent:trash
+Similarity:0.0
+Similarity with root:0.0
+
+2: tear apart
+From parent:trash
+Similarity:0.0
+Similarity with root:0.0
+

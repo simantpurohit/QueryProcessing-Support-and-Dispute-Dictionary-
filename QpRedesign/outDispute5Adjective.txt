@@ -1,0 +1,761 @@
+--------------------------
+Seed Word:disputatious
+Iteration level:5
+1: endeavor
+From parent:strive
+Similarity:0.22807018
+Similarity with root:0.0
+
+2: endeavour
+From parent:strive
+Similarity:0.0
+Similarity with root:0.0
+
+3: range
+From parent:reach
+Similarity:0.004436364
+Similarity with root:0.0
+
+4: scope
+From parent:reach
+Similarity:0.008
+Similarity with root:0.0
+
+5: orbit
+From parent:reach
+Similarity:5.0E-4
+Similarity with root:0.0
+
+6: compass
+From parent:reach
+Similarity:0.0032000002
+Similarity with root:0.0
+
+7: ambit
+From parent:reach
+Similarity:0.0
+Similarity with root:0.0
+
+8: reaching
+From parent:reach
+Similarity:0.0
+Similarity with root:0.0
+
+9: stretch
+From parent:reach
+Similarity:4.615385E-4
+Similarity with root:0.0
+
+10: grasp
+From parent:reach
+Similarity:0.0
+Similarity with root:0.0
+
+11: make
+From parent:reach
+Similarity:0.0013471629
+Similarity with root:0.0
+
+12: attain
+From parent:reach
+Similarity:0.096
+Similarity with root:0.0
+
+13: hit
+From parent:reach
+Similarity:0.06428148
+Similarity with root:0.0
+
+14: arrive at
+From parent:reach
+Similarity:0.444
+Similarity with root:0.0
+
+15: gain
+From parent:reach
+Similarity:0.03
+Similarity with root:0.0
+
+16: reach out
+From parent:reach
+Similarity:0.066285715
+Similarity with root:0.0
+
+17: get through
+From parent:reach
+Similarity:0.0
+Similarity with root:0.0
+
+18: get hold of
+From parent:reach
+Similarity:0.0
+Similarity with root:0.0
+
+19: contact
+From parent:reach
+Similarity:0.013968254
+Similarity with root:0.0
+
+20: achieve
+From parent:reach
+Similarity:0.072
+Similarity with root:0.0
+
+21: accomplish
+From parent:reach
+Similarity:0.021767441
+Similarity with root:0.0
+
+22: extend to
+From parent:reach
+Similarity:0.052
+Similarity with root:0.0
+
+23: touch
+From parent:reach
+Similarity:6.5E-4
+Similarity with root:0.0
+
+24: get to
+From parent:reach
+Similarity:0.02057143
+Similarity with root:0.0
+
+25: progress to
+From parent:reach
+Similarity:0.036
+Similarity with root:0.0
+
+26: pass
+From parent:reach
+Similarity:2.795699E-4
+Similarity with root:0.0
+
+27: hand
+From parent:reach
+Similarity:3.8759693E-4
+Similarity with root:0.0
+
+28: pass on
+From parent:reach
+Similarity:0.0016000001
+Similarity with root:0.0
+
+29: turn over
+From parent:reach
+Similarity:0.0022222225
+Similarity with root:0.0
+
+30: give
+From parent:reach
+Similarity:5.0568902E-5
+Similarity with root:0.0
+
+31: tune
+From parent:strain
+Similarity:0.089330025
+Similarity with root:0.0
+
+32: melody
+From parent:strain
+Similarity:0.06451613
+Similarity with root:0.0
+
+33: air
+From parent:strain
+Similarity:2.1284645E-4
+Similarity with root:0.0
+
+34: melodic line
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+35: line
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+36: melodic phrase
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+37: mental strain
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+38: nervous strain
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+39: breed
+From parent:strain
+Similarity:0.008064516
+Similarity with root:0.0
+
+40: stock
+From parent:strain
+Similarity:2.70319E-4
+Similarity with root:0.0
+
+41: form
+From parent:strain
+Similarity:8.444519E-5
+Similarity with root:0.0
+
+42: variant
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+43: var.
+From parent:strain
+Similarity:0.032258064
+Similarity with root:0.0
+
+44: tenor
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+45: striving
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+46: nisus
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+47: pains
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+48: straining
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+49: song
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+50: attempt
+From parent:try
+Similarity:0.40542734
+Similarity with root:0.0
+
+51: effort
+From parent:try
+Similarity:0.008046384
+Similarity with root:0.0
+
+52: seek
+From parent:try
+Similarity:0.25365317
+Similarity with root:0.0
+
+53: essay
+From parent:try
+Similarity:0.05796371
+Similarity with root:0.0
+
+54: assay
+From parent:try
+Similarity:0.0
+Similarity with root:0.0
+
+55: test
+From parent:try
+Similarity:0.0034077042
+Similarity with root:0.0
+
+56: prove
+From parent:try
+Similarity:0.0
+Similarity with root:0.0
+
+57: try out
+From parent:try
+Similarity:0.043010753
+Similarity with root:0.0
+
+58: examine
+From parent:try
+Similarity:0.0010490427
+Similarity with root:0.0
+
+59: judge
+From parent:try
+Similarity:0.0
+Similarity with root:0.0
+
+60: adjudicate
+From parent:try
+Similarity:0.0
+Similarity with root:0.0
+
+61: sample
+From parent:try
+Similarity:4.763849E-4
+Similarity with root:0.0
+
+62: taste
+From parent:try
+Similarity:5.812264E-4
+Similarity with root:0.0
+
+63: hear
+From parent:try
+Similarity:0.0
+Similarity with root:0.0
+
+64: render
+From parent:try
+Similarity:0.0
+Similarity with root:0.0
+
+65: try on
+From parent:try
+Similarity:0.0
+Similarity with root:0.0
+
+66: emphasis
+From parent:stress
+Similarity:0.0
+Similarity with root:0.0
+
+67: accent
+From parent:stress
+Similarity:0.0
+Similarity with root:0.0
+
+68: tension
+From parent:stress
+Similarity:0.006894429
+Similarity with root:0.0
+
+69: tenseness
+From parent:stress
+Similarity:0.0
+Similarity with root:0.0
+
+70: focus
+From parent:stress
+Similarity:0.0
+Similarity with root:0.0
+
+71: emphasize
+From parent:stress
+Similarity:0.25466892
+Similarity with root:0.0
+
+72: emphasise
+From parent:stress
+Similarity:0.0
+Similarity with root:0.0
+
+73: punctuate
+From parent:stress
+Similarity:0.0
+Similarity with root:0.0
+
+74: accentuate
+From parent:stress
+Similarity:0.2631579
+Similarity with root:0.0
+
+75: widen
+From parent:extend
+Similarity:0.0
+Similarity with root:0.0
+
+76: broaden
+From parent:extend
+Similarity:0.024154589
+Similarity with root:0.0
+
+77: run
+From parent:extend
+Similarity:0.016286172
+Similarity with root:0.0
+
+78: go
+From parent:extend
+Similarity:0.0038776598
+Similarity with root:0.0
+
+79: lead
+From parent:extend
+Similarity:0.013049752
+Similarity with root:0.0
+
+80: cover
+From parent:extend
+Similarity:0.018878719
+Similarity with root:0.0
+
+81: continue
+From parent:extend
+Similarity:0.0
+Similarity with root:0.0
+
+82: offer
+From parent:extend
+Similarity:8.469791E-4
+Similarity with root:0.0
+
+83: exsert
+From parent:extend
+Similarity:0.0
+Similarity with root:0.0
+
+84: stretch out
+From parent:extend
+Similarity:0.018115941
+Similarity with root:0.0
+
+85: put out
+From parent:extend
+Similarity:0.014492753
+Similarity with root:0.0
+
+86: hold out
+From parent:extend
+Similarity:0.032938078
+Similarity with root:0.0
+
+87: stretch forth
+From parent:extend
+Similarity:0.072463766
+Similarity with root:0.0
+
+88: poke out
+From parent:extend
+Similarity:0.0
+Similarity with root:0.0
+
+89: expand
+From parent:extend
+Similarity:0.0
+Similarity with root:0.0
+
+90: prolong
+From parent:extend
+Similarity:0.014492754
+Similarity with root:0.0
+
+91: protract
+From parent:extend
+Similarity:0.0
+Similarity with root:0.0
+
+92: draw out
+From parent:extend
+Similarity:0.007246377
+Similarity with root:0.0
+
+93: unfold
+From parent:extend
+Similarity:0.0
+Similarity with root:0.0
+
+94: gallop
+From parent:extend
+Similarity:0.0
+Similarity with root:0.0
+
+95: carry
+From parent:extend
+Similarity:0.0
+Similarity with root:0.0
+
+96: screen
+From parent:sieve
+Similarity:0.0
+Similarity with root:0.0
+
+97: screen out
+From parent:sieve
+Similarity:0.0
+Similarity with root:0.0
+
+98: sort
+From parent:sieve
+Similarity:0.0
+Similarity with root:0.0
+
+99: percolate
+From parent:filter
+Similarity:0.0
+Similarity with root:0.0
+
+100: sink in
+From parent:filter
+Similarity:0.0
+Similarity with root:0.0
+
+101: permeate
+From parent:filter
+Similarity:0.0
+Similarity with root:0.0
+
+102: trickle
+From parent:filter
+Similarity:0.0
+Similarity with root:0.0
+
+103: dribble
+From parent:filter
+Similarity:0.0
+Similarity with root:0.0
+
+104: contort
+From parent:deform
+Similarity:0.0
+Similarity with root:0.0
+
+105: wring
+From parent:deform
+Similarity:0.0
+Similarity with root:0.0
+
+106: flex
+From parent:deform
+Similarity:0.0
+Similarity with root:0.0
+
+107: bend
+From parent:deform
+Similarity:0.0
+Similarity with root:0.0
+
+108: twist
+From parent:deform
+Similarity:0.0
+Similarity with root:0.0
+
+109: turn
+From parent:deform
+Similarity:0.0
+Similarity with root:0.0
+
+110: change shape
+From parent:deform
+Similarity:0.0
+Similarity with root:0.0
+
+111: change form
+From parent:deform
+Similarity:0.0
+Similarity with root:0.0
+
+112: falsify
+From parent:distort
+Similarity:0.8333333
+Similarity with root:0.0
+
+113: garble
+From parent:distort
+Similarity:0.0
+Similarity with root:0.0
+
+114: warp
+From parent:distort
+Similarity:0.5555556
+Similarity with root:0.0
+
+115: twine
+From parent:distort
+Similarity:0.0
+Similarity with root:0.0
+
+116: tinge
+From parent:distort
+Similarity:0.0
+Similarity with root:0.0
+
+117: color
+From parent:distort
+Similarity:0.0
+Similarity with root:0.0
+
+118: colour
+From parent:distort
+Similarity:0.0
+Similarity with root:0.0
+
+119: tug
+From parent:labored
+Similarity:0.0
+Similarity with root:0.0
+
+120: labor
+From parent:labored
+Similarity:0.0
+Similarity with root:0.0
+
+121: labour
+From parent:labored
+Similarity:0.0
+Similarity with root:0.0
+
+122: push
+From parent:labored
+Similarity:0.0
+Similarity with root:0.0
+
+123: drive
+From parent:labored
+Similarity:0.0
+Similarity with root:0.0
+
+124: toil
+From parent:labored
+Similarity:0.0
+Similarity with root:0.0
+
+125: fag
+From parent:labored
+Similarity:0.0
+Similarity with root:0.0
+
+126: travail
+From parent:labored
+Similarity:0.0
+Similarity with root:0.0
+
+127: grind
+From parent:labored
+Similarity:0.0
+Similarity with root:0.0
+
+128: drudge
+From parent:labored
+Similarity:0.0
+Similarity with root:0.0
+
+129: dig
+From parent:labored
+Similarity:0.0
+Similarity with root:0.0
+
+130: moil
+From parent:labored
+Similarity:0.0
+Similarity with root:0.0
+
+131: heavy
+From parent:labored
+Similarity:0.0
+Similarity with root:0.0
+
+132: restrain
+From parent:constrained
+Similarity:0.0
+Similarity with root:0.0
+
+133: encumber
+From parent:constrained
+Similarity:0.0
+Similarity with root:0.0
+
+134: cumber
+From parent:constrained
+Similarity:0.0
+Similarity with root:0.0
+
+135: constrain
+From parent:constrained
+Similarity:0.0
+Similarity with root:0.0
+
+136: stiffen
+From parent:constrained
+Similarity:0.0
+Similarity with root:0.0
+
+137: tighten
+From parent:constrained
+Similarity:0.0
+Similarity with root:0.0
+
+138: tighten up
+From parent:constrained
+Similarity:0.0
+Similarity with root:0.0
+
+139: coerce
+From parent:forced
+Similarity:0.0
+Similarity with root:0.0
+
+140: hale
+From parent:forced
+Similarity:0.0
+Similarity with root:0.0
+
+141: squeeze
+From parent:forced
+Similarity:0.0
+Similarity with root:0.0
+
+142: pressure
+From parent:forced
+Similarity:0.0
+Similarity with root:0.0
+
+143: force
+From parent:forced
+Similarity:0.0
+Similarity with root:0.0
+
+144: impel
+From parent:forced
+Similarity:0.0
+Similarity with root:0.0
+
+145: thrust
+From parent:forced
+Similarity:0.0
+Similarity with root:0.0
+
+146: wedge
+From parent:forced
+Similarity:0.0
+Similarity with root:0.0
+
+147: ram
+From parent:forced
+Similarity:0.0
+Similarity with root:0.0
+
+148: pull
+From parent:forced
+Similarity:0.0
+Similarity with root:0.0
+
+149: draw
+From parent:forced
+Similarity:0.0
+Similarity with root:0.0
+
+150: storm
+From parent:forced
+Similarity:0.0
+Similarity with root:0.0
+
+151: unexpected
+From parent:forced
+Similarity:0.0
+Similarity with root:0.0
+
+--------------------------
+Seed Word:disputative
+Iteration level:5

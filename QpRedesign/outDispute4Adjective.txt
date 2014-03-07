@@ -1,0 +1,111 @@
+--------------------------
+Seed Word:disputatious
+Iteration level:4
+1: strive
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+2: reach
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+3: strain
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+4: try
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+5: stress
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+6: extend
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+7: sift
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+8: sieve
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+9: tense
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+10: tense up
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+11: filter
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+12: filtrate
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+13: separate out
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+14: filter out
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+15: puree
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+16: deform
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+17: distort
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+18: labored
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+19: laboured
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+20: constrained
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+21: forced
+From parent:strained
+Similarity:0.0
+Similarity with root:0.0
+
+--------------------------
+Seed Word:disputative
+Iteration level:4

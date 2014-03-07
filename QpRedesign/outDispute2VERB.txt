@@ -1,0 +1,18 @@
+----------------
+Seed Word:dispute
+Iteration level:2
+1: take exception
+From parent:challenge
+Similarity:0.04761905
+Similarity with root:0.018140592
+
+2: trash
+From parent:scrap
+Similarity:0.0
+Similarity with root:0.0
+
+3: junk
+From parent:scrap
+Similarity:1.0
+Similarity with root:0.0
+

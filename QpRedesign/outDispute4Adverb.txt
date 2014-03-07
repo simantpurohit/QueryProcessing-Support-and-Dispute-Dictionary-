@@ -1,0 +1,55 @@
+------------------
+Seed Word:aside
+Iteration level:4
+------------------
+Seed Word:last
+Iteration level:4
+------------------
+Seed Word:close
+Iteration level:4
+------------------
+Seed Word:way
+Iteration level:4
+------------------
+Seed Word:heavy
+Iteration level:4
+1: firm
+From parent:firmly
+Similarity:0.6111111
+Similarity with root:0.0
+
+2: steadfastly
+From parent:firmly
+Similarity:0.6111111
+Similarity with root:0.0
+
+3: unwaveringly
+From parent:firmly
+Similarity:0.0
+Similarity with root:0.0
+
+4: securely
+From parent:firmly
+Similarity:0.2777778
+Similarity with root:0.0
+
+5: badly
+From parent:severely
+Similarity:0.42424244
+Similarity with root:0.0
+
+6: gravely
+From parent:severely
+Similarity:0.0
+Similarity with root:0.0
+
+7: seriously
+From parent:severely
+Similarity:0.06349207
+Similarity with root:0.0
+
+8: sternly
+From parent:severely
+Similarity:0.25
+Similarity with root:0.0
+

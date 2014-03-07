@@ -1,0 +1,761 @@
+---------------------
+Seed Word:belief
+Iteration level:3
+1: consequence
+From parent:effect
+Similarity:0.55281925
+Similarity with root:0.002686489
+
+2: outcome
+From parent:effect
+Similarity:0.08405439
+Similarity with root:4.0847197E-4
+
+3: result
+From parent:effect
+Similarity:0.49580732
+Similarity with root:0.0024094328
+
+4: event
+From parent:effect
+Similarity:0.0
+Similarity with root:0.0
+
+5: issue
+From parent:effect
+Similarity:6.549693E-4
+Similarity with root:3.1828988E-6
+
+6: upshot
+From parent:effect
+Similarity:0.7564895
+Similarity with root:0.0036762478
+
+7: force
+From parent:effect
+Similarity:0.001725059
+Similarity with root:8.383123E-6
+
+8: essence
+From parent:effect
+Similarity:0.0
+Similarity with root:0.0
+
+9: burden
+From parent:effect
+Similarity:0.0
+Similarity with root:0.0
+
+10: core
+From parent:effect
+Similarity:0.0
+Similarity with root:0.0
+
+11: gist
+From parent:effect
+Similarity:0.0
+Similarity with root:0.0
+
+12: image
+From parent:picture
+Similarity:0.05362463
+Similarity with root:9.461588E-5
+
+13: icon
+From parent:picture
+Similarity:0.0
+Similarity with root:0.0
+
+14: ikon
+From parent:picture
+Similarity:0.0
+Similarity with root:0.0
+
+15: painting
+From parent:picture
+Similarity:0.12631579
+Similarity with root:2.2287296E-4
+
+16: scene
+From parent:picture
+Similarity:0.010233918
+Similarity with root:1.8056839E-5
+
+17: pictorial matter
+From parent:picture
+Similarity:0.0
+Similarity with root:0.0
+
+18: movie
+From parent:picture
+Similarity:0.031578947
+Similarity with root:5.571824E-5
+
+19: film
+From parent:picture
+Similarity:0.021426663
+Similarity with root:3.780544E-5
+
+20: moving picture
+From parent:picture
+Similarity:0.0
+Similarity with root:0.0
+
+21: moving-picture show
+From parent:picture
+Similarity:0.0
+Similarity with root:0.0
+
+22: motion picture
+From parent:picture
+Similarity:0.031578947
+Similarity with root:5.571824E-5
+
+23: motion-picture show
+From parent:picture
+Similarity:0.0
+Similarity with root:0.0
+
+24: picture show
+From parent:picture
+Similarity:0.0
+Similarity with root:0.0
+
+25: pic
+From parent:picture
+Similarity:0.0
+Similarity with root:0.0
+
+26: flick
+From parent:picture
+Similarity:0.0
+Similarity with root:0.0
+
+27: video
+From parent:picture
+Similarity:0.015789473
+Similarity with root:2.785912E-5
+
+28: word picture
+From parent:picture
+Similarity:0.0
+Similarity with root:0.0
+
+29: word-painting
+From parent:picture
+Similarity:0.0
+Similarity with root:0.0
+
+30: delineation
+From parent:picture
+Similarity:0.021052632
+Similarity with root:3.7145495E-5
+
+31: depiction
+From parent:picture
+Similarity:0.0
+Similarity with root:0.0
+
+32: characterization
+From parent:picture
+Similarity:0.021052632
+Similarity with root:3.7145495E-5
+
+33: characterisation
+From parent:picture
+Similarity:0.0
+Similarity with root:0.0
+
+34: slump
+From parent:depression
+Similarity:0.0
+Similarity with root:0.0
+
+35: economic crisis
+From parent:depression
+Similarity:0.0
+Similarity with root:0.0
+
+36: natural depression
+From parent:depression
+Similarity:0.0
+Similarity with root:0.0
+
+37: Depression
+From parent:depression
+Similarity:0.2892562
+Similarity with root:0.0
+
+38: Great Depression
+From parent:depression
+Similarity:0.0
+Similarity with root:0.0
+
+39: low
+From parent:depression
+Similarity:0.0
+Similarity with root:0.0
+
+40: low pressure
+From parent:depression
+Similarity:0.0
+Similarity with root:0.0
+
+41: depressive disorder
+From parent:depression
+Similarity:0.0
+Similarity with root:0.0
+
+42: clinical depression
+From parent:depression
+Similarity:0.0
+Similarity with root:0.0
+
+43: embossment
+From parent:imprint
+Similarity:0.0
+Similarity with root:0.0
+
+44: postage
+From parent:stamp
+Similarity:0.0
+Similarity with root:0.0
+
+45: postage stamp
+From parent:stamp
+Similarity:0.0
+Similarity with root:0.0
+
+46: cast
+From parent:stamp
+Similarity:0.0
+Similarity with root:0.0
+
+47: mold
+From parent:stamp
+Similarity:0.1
+Similarity with root:0.0
+
+48: pestle
+From parent:stamp
+Similarity:0.0
+Similarity with root:0.0
+
+49: seal
+From parent:stamp
+Similarity:0.0
+Similarity with root:0.0
+
+50: printing process
+From parent:printing
+Similarity:0.0
+Similarity with root:0.0
+
+51: disembodied spirit
+From parent:spirit
+Similarity:0.0
+Similarity with root:0.0
+
+52: emotional state
+From parent:spirit
+Similarity:0.05172414
+Similarity with root:1.6720599E-4
+
+53: intent
+From parent:spirit
+Similarity:0.0103448285
+Similarity with root:3.34412E-5
+
+54: purport
+From parent:spirit
+Similarity:0.0
+Similarity with root:0.0
+
+55: liveliness
+From parent:spirit
+Similarity:0.0
+Similarity with root:0.0
+
+56: life
+From parent:spirit
+Similarity:7.0383167E-4
+Similarity with root:2.2752408E-6
+
+57: sprightliness
+From parent:spirit
+Similarity:0.0
+Similarity with root:0.0
+
+58: heart
+From parent:spirit
+Similarity:2.0525452E-4
+Similarity with root:6.6351583E-7
+
+59: tone of voice
+From parent:tone
+Similarity:0.0
+Similarity with root:0.0
+
+60: timbre
+From parent:tone
+Similarity:0.16666667
+Similarity with root:1.2796454E-4
+
+61: timber
+From parent:tone
+Similarity:0.0
+Similarity with root:0.0
+
+62: quality
+From parent:tone
+Similarity:0.013157895
+Similarity with root:1.0102463E-5
+
+63: shade
+From parent:tone
+Similarity:0.007974482
+Similarity with root:6.1227056E-6
+
+64: tint
+From parent:tone
+Similarity:0.030303031
+Similarity with root:2.326628E-5
+
+65: tincture
+From parent:tone
+Similarity:0.0
+Similarity with root:0.0
+
+66: note
+From parent:tone
+Similarity:0.0015244852
+Similarity with root:1.1704802E-6
+
+67: musical note
+From parent:tone
+Similarity:0.0
+Similarity with root:0.0
+
+68: pure tone
+From parent:tone
+Similarity:0.0
+Similarity with root:0.0
+
+69: tonicity
+From parent:tone
+Similarity:0.0
+Similarity with root:0.0
+
+70: tonus
+From parent:tone
+Similarity:0.0
+Similarity with root:0.0
+
+71: whole tone
+From parent:tone
+Similarity:0.0
+Similarity with root:0.0
+
+72: step
+From parent:tone
+Similarity:0.0
+Similarity with root:0.0
+
+73: whole step
+From parent:tone
+Similarity:0.0
+Similarity with root:0.0
+
+74: tactile property
+From parent:feel
+Similarity:0.0
+Similarity with root:0.0
+
+75: relish
+From parent:flavor
+Similarity:0.0
+Similarity with root:0.0
+
+76: sapidity
+From parent:flavor
+Similarity:0.0
+Similarity with root:0.0
+
+77: savor
+From parent:flavor
+Similarity:0.0
+Similarity with root:0.0
+
+78: savour
+From parent:flavor
+Similarity:0.0
+Similarity with root:0.0
+
+79: smack
+From parent:flavor
+Similarity:0.0
+Similarity with root:0.0
+
+80: nip
+From parent:flavor
+Similarity:0.0
+Similarity with root:0.0
+
+81: tang
+From parent:flavor
+Similarity:0.25
+Similarity with root:0.0012668489
+
+82: expression
+From parent:look
+Similarity:0.16093296
+Similarity with root:0.0
+
+83: aspect
+From parent:look
+Similarity:0.0
+Similarity with root:0.0
+
+84: facial expression
+From parent:look
+Similarity:0.0
+Similarity with root:0.0
+
+85: face
+From parent:look
+Similarity:0.045608528
+Similarity with root:0.0
+
+86: looking
+From parent:look
+Similarity:0.3265306
+Similarity with root:0.0
+
+87: looking at
+From parent:look
+Similarity:0.3265306
+Similarity with root:0.0
+
+88: odor
+From parent:smell
+Similarity:0.42222226
+Similarity with root:2.8527563E-4
+
+89: odour
+From parent:smell
+Similarity:0.0
+Similarity with root:0.0
+
+90: olfactory sensation
+From parent:smell
+Similarity:0.0
+Similarity with root:0.0
+
+91: olfactory perception
+From parent:smell
+Similarity:0.0
+Similarity with root:0.0
+
+92: olfactory property
+From parent:smell
+Similarity:0.0
+Similarity with root:0.0
+
+93: aroma
+From parent:smell
+Similarity:0.4
+Similarity with root:2.702611E-4
+
+94: scent
+From parent:smell
+Similarity:0.080000006
+Similarity with root:5.4052223E-5
+
+95: sense of smell
+From parent:smell
+Similarity:0.0
+Similarity with root:0.0
+
+96: olfaction
+From parent:smell
+Similarity:0.0
+Similarity with root:0.0
+
+97: olfactory modality
+From parent:smell
+Similarity:0.0
+Similarity with root:0.0
+
+98: smelling
+From parent:smell
+Similarity:0.0
+Similarity with root:0.0
+
+99: touching
+From parent:touch
+Similarity:0.0
+Similarity with root:0.0
+
+100: sense of touch
+From parent:touch
+Similarity:0.2
+Similarity with root:0.0
+
+101: skin senses
+From parent:touch
+Similarity:0.0
+Similarity with root:0.0
+
+102: touch modality
+From parent:touch
+Similarity:0.0
+Similarity with root:0.0
+
+103: cutaneous senses
+From parent:touch
+Similarity:0.0
+Similarity with root:0.0
+
+104: trace
+From parent:touch
+Similarity:0.010000001
+Similarity with root:0.0
+
+105: ghost
+From parent:touch
+Similarity:0.0
+Similarity with root:0.0
+
+106: signature
+From parent:touch
+Similarity:0.05
+Similarity with root:0.0
+
+107: hint
+From parent:touch
+Similarity:0.0
+Similarity with root:0.0
+
+108: tinge
+From parent:touch
+Similarity:0.0
+Similarity with root:0.0
+
+109: mite
+From parent:touch
+Similarity:0.05
+Similarity with root:0.0
+
+110: pinch
+From parent:touch
+Similarity:0.0
+Similarity with root:0.0
+
+111: jot
+From parent:touch
+Similarity:0.0
+Similarity with root:0.0
+
+112: speck
+From parent:touch
+Similarity:0.010000001
+Similarity with root:0.0
+
+113: soupcon
+From parent:touch
+Similarity:0.0
+Similarity with root:0.0
+
+114: contact
+From parent:touch
+Similarity:0.0
+Similarity with root:0.0
+
+115: spot
+From parent:touch
+Similarity:0.0
+Similarity with root:0.0
+
+116: tactility
+From parent:tactual sensation
+Similarity:0.0
+Similarity with root:0.0
+
+117: touch perception
+From parent:tactual sensation
+Similarity:0.0
+Similarity with root:0.0
+
+118: skin perceptiveness
+From parent:tactual sensation
+Similarity:0.0
+Similarity with root:0.0
+
+119: caprice
+From parent:whim
+Similarity:0.0
+Similarity with root:0.0
+
+120: impulse
+From parent:whim
+Similarity:0.1764706
+Similarity with root:0.0
+
+121: flightiness
+From parent:whimsy
+Similarity:0.0
+Similarity with root:0.0
+
+122: arbitrariness
+From parent:whimsy
+Similarity:0.0
+Similarity with root:0.0
+
+123: whimsicality
+From parent:whimsy
+Similarity:0.0
+Similarity with root:0.0
+
+124: capriciousness
+From parent:whimsy
+Similarity:0.0
+Similarity with root:0.0
+
+125: suasion
+From parent:persuasion
+Similarity:0.0
+Similarity with root:0.0
+
+126: position
+From parent:view
+Similarity:0.061068702
+Similarity with root:0.0
+
+127: perspective
+From parent:view
+Similarity:0.3809524
+Similarity with root:0.0
+
+128: prospect
+From parent:view
+Similarity:0.0
+Similarity with root:0.0
+
+129: vista
+From parent:view
+Similarity:0.14814815
+Similarity with root:0.0
+
+130: panorama
+From parent:view
+Similarity:0.0
+Similarity with root:0.0
+
+131: survey
+From parent:view
+Similarity:0.011111111
+Similarity with root:0.0
+
+132: sight
+From parent:view
+Similarity:0.004938272
+Similarity with root:0.0
+
+133: eyeshot
+From parent:view
+Similarity:0.0
+Similarity with root:0.0
+
+134: horizon
+From parent:view
+Similarity:0.0
+Similarity with root:0.0
+
+135: purview
+From parent:view
+Similarity:0.0
+Similarity with root:0.0
+
+136: idea
+From parent:thought
+Similarity:0.49103308
+Similarity with root:0.0
+
+137: thinking
+From parent:thought
+Similarity:0.2038835
+Similarity with root:0.0
+
+138: thought process
+From parent:thought
+Similarity:0.0
+Similarity with root:0.0
+
+139: cerebration
+From parent:thought
+Similarity:0.0
+Similarity with root:0.0
+
+140: intellection
+From parent:thought
+Similarity:0.0
+Similarity with root:0.0
+
+141: mentation
+From parent:thought
+Similarity:0.0
+Similarity with root:0.0
+
+142: mind
+From parent:judgment
+Similarity:0.032917533
+Similarity with root:0.0
+
+143: assessment
+From parent:judgment
+Similarity:0.0
+Similarity with root:0.0
+
+144: judicial decision
+From parent:judgment
+Similarity:0.0
+Similarity with root:0.0
+
+145: judging
+From parent:judgment
+Similarity:0.0
+Similarity with root:0.0
+
+146: sound judgment
+From parent:judgment
+Similarity:0.0
+Similarity with root:0.0
+
+147: sound judgement
+From parent:judgment
+Similarity:0.0
+Similarity with root:0.0
+
+148: perspicacity
+From parent:judgment
+Similarity:0.0
+Similarity with root:0.0
+
+149: sagacity
+From parent:judgment
+Similarity:0.0
+Similarity with root:0.0
+
+150: sagaciousness
+From parent:judgment
+Similarity:0.0
+Similarity with root:0.0
+
+151: discernment
+From parent:judgment
+Similarity:0.0
+Similarity with root:0.0
+
+---------------------
+Seed Word:believer
+Iteration level:3

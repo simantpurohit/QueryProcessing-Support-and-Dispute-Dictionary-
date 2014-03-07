@@ -1,0 +1,25 @@
+------------------
+Seed Word:aside
+Iteration level:3
+------------------
+Seed Word:last
+Iteration level:3
+------------------
+Seed Word:close
+Iteration level:3
+------------------
+Seed Word:way
+Iteration level:3
+------------------
+Seed Word:heavy
+Iteration level:3
+1: firmly
+From parent:hard
+Similarity:0.018518519
+Similarity with root:0.0
+
+2: severely
+From parent:hard
+Similarity:0.0046296297
+Similarity with root:0.0
+

@@ -1,0 +1,406 @@
+-------------
+Seed Word:believe
+Iteration level:2
+1: opine
+From parent:think
+Similarity:0.0
+Similarity with root:0.0
+
+2: suppose
+From parent:think
+Similarity:0.10420168
+Similarity with root:0.014553211
+
+3: imagine
+From parent:think
+Similarity:0.04561825
+Similarity with root:0.0063712215
+
+4: reckon
+From parent:think
+Similarity:0.15966387
+Similarity with root:0.022299275
+
+5: guess
+From parent:think
+Similarity:0.20955883
+Similarity with root:0.0292678
+
+6: cogitate
+From parent:think
+Similarity:0.0
+Similarity with root:0.0
+
+7: cerebrate
+From parent:think
+Similarity:0.18655463
+Similarity with root:0.026054941
+
+8: remember
+From parent:think
+Similarity:0.007745707
+Similarity with root:0.0010817954
+
+9: retrieve
+From parent:think
+Similarity:0.0
+Similarity with root:0.0
+
+10: recall
+From parent:think
+Similarity:0.011702459
+Similarity with root:0.0016344108
+
+11: call back
+From parent:think
+Similarity:0.006722689
+Similarity with root:9.389168E-4
+
+12: call up
+From parent:think
+Similarity:0.0033613446
+Similarity with root:4.694584E-4
+
+13: recollect
+From parent:think
+Similarity:0.013445378
+Similarity with root:0.0018778336
+
+14: intend
+From parent:think
+Similarity:0.0025796366
+Similarity with root:3.6028205E-4
+
+15: mean
+From parent:think
+Similarity:3.2646154E-4
+Similarity with root:4.5594883E-5
+
+16: see
+From parent:consider
+Similarity:0.016796721
+Similarity with root:4.0312134E-5
+
+17: view
+From parent:consider
+Similarity:0.2301111
+Similarity with root:5.5226666E-4
+
+18: regard
+From parent:consider
+Similarity:0.2248125
+Similarity with root:5.3955003E-4
+
+19: study
+From parent:consider
+Similarity:0.02488889
+Similarity with root:5.973334E-5
+
+20: take
+From parent:consider
+Similarity:0.0048429533
+Similarity with root:1.16230885E-5
+
+21: deal
+From parent:consider
+Similarity:0.02703297
+Similarity with root:6.487913E-5
+
+22: look at
+From parent:consider
+Similarity:0.12121739
+Similarity with root:2.9092174E-4
+
+23: count
+From parent:consider
+Similarity:0.010536585
+Similarity with root:2.5287805E-5
+
+24: weigh
+From parent:consider
+Similarity:0.016615385
+Similarity with root:3.9876926E-5
+
+25: debate
+From parent:consider
+Similarity:0.012
+Similarity with root:2.8800001E-5
+
+26: moot
+From parent:consider
+Similarity:0.0
+Similarity with root:0.0
+
+27: turn over
+From parent:consider
+Similarity:0.0
+Similarity with root:0.0
+
+28: deliberate
+From parent:consider
+Similarity:0.0
+Similarity with root:0.0
+
+29: gestate
+From parent:conceive
+Similarity:0.0
+Similarity with root:0.0
+
+30: conceptualize
+From parent:conceive
+Similarity:0.0
+Similarity with root:0.0
+
+31: conceptualise
+From parent:conceive
+Similarity:0.0
+Similarity with root:0.0
+
+32: swear
+From parent:trust
+Similarity:0.0
+Similarity with root:0.0
+
+33: rely
+From parent:trust
+Similarity:0.5714286
+Similarity with root:0.012585035
+
+34: bank
+From parent:trust
+Similarity:0.0
+Similarity with root:0.0
+
+35: hope
+From parent:trust
+Similarity:0.035714287
+Similarity with root:7.8656466E-4
+
+36: desire
+From parent:trust
+Similarity:0.0049261088
+Similarity with root:1.0849168E-4
+
+37: entrust
+From parent:trust
+Similarity:0.035714287
+Similarity with root:7.8656466E-4
+
+38: intrust
+From parent:trust
+Similarity:0.035714287
+Similarity with root:7.8656466E-4
+
+39: confide
+From parent:trust
+Similarity:0.005102041
+Similarity with root:1.1236638E-4
+
+40: commit
+From parent:trust
+Similarity:0.0012315272
+Similarity with root:2.712292E-5
+
+-------------
+Seed Word:believe
+Iteration level:2
+1: opine
+From parent:think
+Similarity:0.0
+Similarity with root:0.0
+
+2: suppose
+From parent:think
+Similarity:0.10420168
+Similarity with root:0.014553211
+
+3: imagine
+From parent:think
+Similarity:0.04561825
+Similarity with root:0.0063712215
+
+4: reckon
+From parent:think
+Similarity:0.15966387
+Similarity with root:0.022299275
+
+5: guess
+From parent:think
+Similarity:0.20955883
+Similarity with root:0.0292678
+
+6: cogitate
+From parent:think
+Similarity:0.0
+Similarity with root:0.0
+
+7: cerebrate
+From parent:think
+Similarity:0.18655463
+Similarity with root:0.026054941
+
+8: remember
+From parent:think
+Similarity:0.007745707
+Similarity with root:0.0010817954
+
+9: retrieve
+From parent:think
+Similarity:0.0
+Similarity with root:0.0
+
+10: recall
+From parent:think
+Similarity:0.011702459
+Similarity with root:0.0016344108
+
+11: call back
+From parent:think
+Similarity:0.006722689
+Similarity with root:9.389168E-4
+
+12: call up
+From parent:think
+Similarity:0.0033613446
+Similarity with root:4.694584E-4
+
+13: recollect
+From parent:think
+Similarity:0.013445378
+Similarity with root:0.0018778336
+
+14: intend
+From parent:think
+Similarity:0.0025796366
+Similarity with root:3.6028205E-4
+
+15: mean
+From parent:think
+Similarity:3.2646154E-4
+Similarity with root:4.5594883E-5
+
+16: see
+From parent:consider
+Similarity:0.016796721
+Similarity with root:4.0312134E-5
+
+17: view
+From parent:consider
+Similarity:0.2301111
+Similarity with root:5.5226666E-4
+
+18: regard
+From parent:consider
+Similarity:0.2248125
+Similarity with root:5.3955003E-4
+
+19: study
+From parent:consider
+Similarity:0.02488889
+Similarity with root:5.973334E-5
+
+20: take
+From parent:consider
+Similarity:0.0048429533
+Similarity with root:1.16230885E-5
+
+21: deal
+From parent:consider
+Similarity:0.02703297
+Similarity with root:6.487913E-5
+
+22: look at
+From parent:consider
+Similarity:0.12121739
+Similarity with root:2.9092174E-4
+
+23: count
+From parent:consider
+Similarity:0.010536585
+Similarity with root:2.5287805E-5
+
+24: weigh
+From parent:consider
+Similarity:0.016615385
+Similarity with root:3.9876926E-5
+
+25: debate
+From parent:consider
+Similarity:0.012
+Similarity with root:2.8800001E-5
+
+26: moot
+From parent:consider
+Similarity:0.0
+Similarity with root:0.0
+
+27: turn over
+From parent:consider
+Similarity:0.0
+Similarity with root:0.0
+
+28: deliberate
+From parent:consider
+Similarity:0.0
+Similarity with root:0.0
+
+29: gestate
+From parent:conceive
+Similarity:0.0
+Similarity with root:0.0
+
+30: conceptualize
+From parent:conceive
+Similarity:0.0
+Similarity with root:0.0
+
+31: conceptualise
+From parent:conceive
+Similarity:0.0
+Similarity with root:0.0
+
+32: swear
+From parent:trust
+Similarity:0.0
+Similarity with root:0.0
+
+33: rely
+From parent:trust
+Similarity:0.5714286
+Similarity with root:0.012585035
+
+34: bank
+From parent:trust
+Similarity:0.0
+Similarity with root:0.0
+
+35: hope
+From parent:trust
+Similarity:0.035714287
+Similarity with root:7.8656466E-4
+
+36: desire
+From parent:trust
+Similarity:0.0049261088
+Similarity with root:1.0849168E-4
+
+37: entrust
+From parent:trust
+Similarity:0.035714287
+Similarity with root:7.8656466E-4
+
+38: intrust
+From parent:trust
+Similarity:0.035714287
+Similarity with root:7.8656466E-4
+
+39: confide
+From parent:trust
+Similarity:0.005102041
+Similarity with root:1.1236638E-4
+
+40: commit
+From parent:trust
+Similarity:0.0012315272
+Similarity with root:2.712292E-5
+

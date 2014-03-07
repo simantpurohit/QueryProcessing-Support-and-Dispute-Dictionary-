@@ -1,0 +1,46 @@
+-------------
+Seed Word:believe
+Iteration level:1
+1: think
+From parent:believe
+Similarity:0.13966388
+Similarity with root:0.13966388
+
+2: consider
+From parent:believe
+Similarity:0.0024
+Similarity with root:0.0024
+
+3: conceive
+From parent:believe
+Similarity:0.09090909
+Similarity with root:0.09090909
+
+4: trust
+From parent:believe
+Similarity:0.02202381
+Similarity with root:0.02202381
+
+-------------
+Seed Word:believe
+Iteration level:1
+1: think
+From parent:believe
+Similarity:0.13966388
+Similarity with root:0.13966388
+
+2: consider
+From parent:believe
+Similarity:0.0024
+Similarity with root:0.0024
+
+3: conceive
+From parent:believe
+Similarity:0.09090909
+Similarity with root:0.09090909
+
+4: trust
+From parent:believe
+Similarity:0.02202381
+Similarity with root:0.02202381
+

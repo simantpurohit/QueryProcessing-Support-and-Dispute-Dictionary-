@@ -1,0 +1,372 @@
+-----------------------------
+Seed Word:direct
+Iteration level:5
+1: rapidly
+From parent:quickly
+Similarity:0.6097561
+Similarity with root:0.0
+
+2: speedily
+From parent:quickly
+Similarity:0.6097561
+Similarity with root:0.0
+
+3: chop-chop
+From parent:quickly
+Similarity:0.0
+Similarity with root:0.0
+
+4: apace
+From parent:quickly
+Similarity:0.0
+Similarity with root:0.0
+
+5: cursorily
+From parent:quickly
+Similarity:0.0
+Similarity with root:0.0
+
+6: one time
+From parent:once
+Similarity:0.0
+Similarity with root:0.0
+
+7: in one case
+From parent:once
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:plain
+Iteration level:5
+1: incisively
+From parent:precisely
+Similarity:0.0
+Similarity with root:0.0
+
+2: on the nose
+From parent:precisely
+Similarity:0.0
+Similarity with root:0.0
+
+3: on the dot
+From parent:precisely
+Similarity:0.0
+Similarity with root:0.0
+
+4: on the button
+From parent:precisely
+Similarity:0.0
+Similarity with root:0.0
+
+5: scantily
+From parent:barely
+Similarity:0.0
+Similarity with root:0.0
+
+6: wholly
+From parent:entirely
+Similarity:0.95652175
+Similarity with root:0.0
+
+7: completely
+From parent:entirely
+Similarity:0.776046
+Similarity with root:0.0
+
+8: totally
+From parent:entirely
+Similarity:0.95652175
+Similarity with root:0.0
+
+9: all
+From parent:entirely
+Similarity:0.95652175
+Similarity with root:0.0
+
+10: altogether
+From parent:entirely
+Similarity:0.88294315
+Similarity with root:0.0
+
+11: whole
+From parent:entirely
+Similarity:0.95652175
+Similarity with root:0.0
+
+12: solo
+From parent:alone
+Similarity:0.0
+Similarity with root:0.0
+
+13: unaccompanied
+From parent:alone
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:round
+Iteration level:5
+1: tight
+From parent:closely
+Similarity:0.02
+Similarity with root:0.0
+
+2: well
+From parent:intimately
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:cod
+Iteration level:5
+-----------------------------
+Seed Word:clear
+Iteration level:5
+-----------------------------
+Seed Word:con
+Iteration level:5
+-----------------------------
+Seed Word:collect
+Iteration level:5
+-----------------------------
+Seed Word:live
+Iteration level:5
+-----------------------------
+Seed Word:down
+Iteration level:5
+-----------------------------
+Seed Word:express
+Iteration level:5
+-----------------------------
+Seed Word:off
+Iteration level:5
+1: earlier
+From parent:before
+Similarity:0.6923077
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:bang
+Iteration level:5
+-----------------------------
+Seed Word:damn
+Iteration level:5
+-----------------------------
+Seed Word:back
+Iteration level:5
+-----------------------------
+Seed Word:light
+Iteration level:5
+-----------------------------
+Seed Word:double
+Iteration level:5
+-----------------------------
+Seed Word:free
+Iteration level:5
+-----------------------------
+Seed Word:further
+Iteration level:5
+-----------------------------
+Seed Word:counter
+Iteration level:5
+-----------------------------
+Seed Word:sic
+Iteration level:5
+-----------------------------
+Seed Word:pop
+Iteration level:5
+-----------------------------
+Seed Word:smash
+Iteration level:5
+-----------------------------
+Seed Word:smack
+Iteration level:5
+-----------------------------
+Seed Word:better
+Iteration level:5
+1: behindhand
+From parent:behind
+Similarity:0.0
+Similarity with root:0.0
+
+2: in arrears
+From parent:behind
+Similarity:0.0
+Similarity with root:0.0
+
+3: deep
+From parent:late
+Similarity:0.0
+Similarity with root:0.0
+
+4: recently
+From parent:late
+Similarity:0.0
+Similarity with root:0.0
+
+5: lately
+From parent:late
+Similarity:0.0
+Similarity with root:0.0
+
+6: of late
+From parent:late
+Similarity:0.0
+Similarity with root:0.0
+
+7: latterly
+From parent:late
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:part
+Iteration level:5
+-----------------------------
+Seed Word:square
+Iteration level:5
+-----------------------------
+Seed Word:slow
+Iteration level:5
+-----------------------------
+Seed Word:put together
+Iteration level:5
+-----------------------------
+Seed Word:last
+Iteration level:5
+1: insofar
+From parent:so far
+Similarity:0.0
+Similarity with root:0.0
+
+2: in so far
+From parent:so far
+Similarity:0.0
+Similarity with root:0.0
+
+3: to that extent
+From parent:so far
+Similarity:0.0
+Similarity with root:0.0
+
+4: to that degree
+From parent:so far
+Similarity:0.0
+Similarity with root:0.0
+
+5: to date
+From parent:up to now
+Similarity:0.0
+Similarity with root:0.0
+
+6: stock-still
+From parent:still
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:course
+Iteration level:5
+-----------------------------
+Seed Word:plump
+Iteration level:5
+-----------------------------
+Seed Word:close
+Iteration level:5
+-----------------------------
+Seed Word:worst
+Iteration level:5
+-----------------------------
+Seed Word:best
+Iteration level:5
+-----------------------------
+Seed Word:close up
+Iteration level:5
+-----------------------------
+Seed Word:sheer
+Iteration level:5
+-----------------------------
+Seed Word:thin
+Iteration level:5
+-----------------------------
+Seed Word:right
+Iteration level:5
+-----------------------------
+Seed Word:multiply
+Iteration level:5
+-----------------------------
+Seed Word:flop
+Iteration level:5
+-----------------------------
+Seed Word:plunk
+Iteration level:5
+-----------------------------
+Seed Word:loose
+Iteration level:5
+-----------------------------
+Seed Word:flush
+Iteration level:5
+-----------------------------
+Seed Word:even
+Iteration level:5
+-----------------------------
+Seed Word:out
+Iteration level:5
+-----------------------------
+Seed Word:low
+Iteration level:5
+-----------------------------
+Seed Word:smack
+Iteration level:5
+-----------------------------
+Seed Word:heart and soul
+Iteration level:5
+-----------------------------
+Seed Word:double
+Iteration level:5
+-----------------------------
+Seed Word:Low
+Iteration level:5
+-----------------------------
+Seed Word:first
+Iteration level:5
+-----------------------------
+Seed Word:slap
+Iteration level:5
+-----------------------------
+Seed Word:plenty
+Iteration level:5
+-----------------------------
+Seed Word:second
+Iteration level:5
+-----------------------------
+Seed Word:counter
+Iteration level:5
+-----------------------------
+Seed Word:passing
+Iteration level:5
+-----------------------------
+Seed Word:forte
+Iteration level:5
+-----------------------------
+Seed Word:part
+Iteration level:5
+-----------------------------
+Seed Word:course
+Iteration level:5
+-----------------------------
+Seed Word:broadside
+Iteration level:5
+-----------------------------
+Seed Word:roaring
+Iteration level:5
+-----------------------------
+Seed Word:home
+Iteration level:5
+-----------------------------
+Seed Word:item
+Iteration level:5
+-----------------------------
+Seed Word:down
+Iteration level:5

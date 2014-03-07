@@ -1,0 +1,65 @@
+------------------
+Seed Word:aside
+Iteration level:5
+------------------
+Seed Word:last
+Iteration level:5
+------------------
+Seed Word:close
+Iteration level:5
+------------------
+Seed Word:way
+Iteration level:5
+------------------
+Seed Word:heavy
+Iteration level:5
+1: ill
+From parent:badly
+Similarity:0.36363637
+Similarity with root:0.0
+
+2: poorly
+From parent:badly
+Similarity:0.36363637
+Similarity with root:0.0
+
+3: mischievously
+From parent:badly
+Similarity:0.0
+Similarity with root:0.0
+
+4: naughtily
+From parent:badly
+Similarity:0.0
+Similarity with root:0.0
+
+5: bad
+From parent:badly
+Similarity:0.0
+Similarity with root:0.0
+
+6: disadvantageously
+From parent:badly
+Similarity:0.0
+Similarity with root:0.0
+
+7: soberly
+From parent:gravely
+Similarity:1.0
+Similarity with root:0.0
+
+8: staidly
+From parent:gravely
+Similarity:0.0
+Similarity with root:0.0
+
+9: earnestly
+From parent:seriously
+Similarity:0.9047619
+Similarity with root:0.0
+
+10: in earnest
+From parent:seriously
+Similarity:0.0
+Similarity with root:0.0
+

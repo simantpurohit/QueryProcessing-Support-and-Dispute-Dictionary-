@@ -1,0 +1,26 @@
+--------------------------
+Seed Word:disputatious
+Iteration level:2
+1: agonistic
+From parent:combative
+Similarity:0.0
+Similarity with root:0.0
+
+2: agonistical
+From parent:combative
+Similarity:0.0
+Similarity with root:0.0
+
+3: battleful
+From parent:combative
+Similarity:0.0
+Similarity with root:0.0
+
+4: bellicose
+From parent:combative
+Similarity:0.0
+Similarity with root:0.0
+
+--------------------------
+Seed Word:disputative
+Iteration level:2

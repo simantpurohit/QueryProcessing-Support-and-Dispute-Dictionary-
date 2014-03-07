@@ -1,0 +1,41 @@
+---------------------
+Seed Word:belief
+Iteration level:1
+1: impression
+From parent:belief
+Similarity:0.16
+Similarity with root:0.16
+
+2: feeling
+From parent:belief
+Similarity:0.065242715
+Similarity with root:0.065242715
+
+3: notion
+From parent:belief
+Similarity:0.111999996
+Similarity with root:0.111999996
+
+4: opinion
+From parent:belief
+Similarity:0.0
+Similarity with root:0.0
+
+---------------------
+Seed Word:believer
+Iteration level:1
+1: truster
+From parent:believer
+Similarity:0.0
+Similarity with root:0.0
+
+2: worshiper
+From parent:believer
+Similarity:0.0
+Similarity with root:0.0
+
+3: worshipper
+From parent:believer
+Similarity:0.5
+Similarity with root:0.5
+

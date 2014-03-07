@@ -1,0 +1,33 @@
+----------------
+Seed Word:dispute
+Iteration level:1
+1: challenge
+From parent:dispute
+Similarity:0.38095242
+Similarity with root:0.38095242
+
+2: gainsay
+From parent:dispute
+Similarity:0.0
+Similarity with root:0.0
+
+3: quarrel
+From parent:dispute
+Similarity:0.33333334
+Similarity with root:0.33333334
+
+4: scrap
+From parent:dispute
+Similarity:0.0
+Similarity with root:0.0
+
+5: argufy
+From parent:dispute
+Similarity:0.0
+Similarity with root:0.0
+
+6: altercate
+From parent:dispute
+Similarity:0.0
+Similarity with root:0.0
+

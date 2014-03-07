@@ -1,0 +1,13 @@
+----------------
+Seed Word:dispute
+Iteration level:4
+1: pan out
+From parent:pan
+Similarity:0.0
+Similarity with root:0.0
+
+2: pan off
+From parent:pan
+Similarity:0.0
+Similarity with root:0.0
+

@@ -1,0 +1,574 @@
+-----------------------------
+Seed Word:dispute
+Iteration level:4
+1: aberrance
+From parent:deviance
+Similarity:0.0
+Similarity with root:0.0
+
+2: aberrancy
+From parent:deviance
+Similarity:0.0
+Similarity with root:0.0
+
+3: aberration
+From parent:deviance
+Similarity:0.0
+Similarity with root:0.0
+
+4: recreation
+From parent:diversion
+Similarity:0.4
+Similarity with root:0.0
+
+5: diversionary attack
+From parent:diversion
+Similarity:0.2
+Similarity with root:0.0
+
+6: aside
+From parent:digression
+Similarity:0.0
+Similarity with root:0.0
+
+7: excursus
+From parent:digression
+Similarity:0.0
+Similarity with root:0.0
+
+8: parenthesis
+From parent:digression
+Similarity:0.0
+Similarity with root:0.0
+
+9: excursion
+From parent:digression
+Similarity:0.0
+Similarity with root:0.0
+
+10: warp
+From parent:deflection
+Similarity:0.0
+Similarity with root:0.0
+
+11: refraction
+From parent:deflection
+Similarity:0.0
+Similarity with root:0.0
+
+12: bending
+From parent:deflection
+Similarity:0.0
+Similarity with root:0.0
+
+13: dissension
+From parent:disagreement
+Similarity:0.0
+Similarity with root:0.0
+
+14: dissonance
+From parent:disagreement
+Similarity:0.0
+Similarity with root:0.0
+
+15: division
+From parent:variance
+Similarity:0.0
+Similarity with root:0.0
+
+16: variability
+From parent:variance
+Similarity:0.0
+Similarity with root:0.0
+
+17: variableness
+From parent:variance
+Similarity:0.0
+Similarity with root:0.0
+
+18: variation
+From parent:variance
+Similarity:0.0
+Similarity with root:0.0
+
+19: proportion
+From parent:balance
+Similarity:0.0
+Similarity with root:0.0
+
+20: proportionality
+From parent:balance
+Similarity:0.0
+Similarity with root:0.0
+
+21: equilibrium
+From parent:balance
+Similarity:0.0
+Similarity with root:0.0
+
+22: equipoise
+From parent:balance
+Similarity:0.0
+Similarity with root:0.0
+
+23: counterbalance
+From parent:balance
+Similarity:0.0
+Similarity with root:0.0
+
+24: Libra
+From parent:balance
+Similarity:0.0
+Similarity with root:0.0
+
+25: Balance
+From parent:balance
+Similarity:0.62499994
+Similarity with root:0.0
+
+26: Libra the Balance
+From parent:balance
+Similarity:0.0
+Similarity with root:0.0
+
+27: Libra the Scales
+From parent:balance
+Similarity:0.0
+Similarity with root:0.0
+
+28: symmetry
+From parent:balance
+Similarity:0.0
+Similarity with root:0.0
+
+29: symmetricalness
+From parent:balance
+Similarity:0.0
+Similarity with root:0.0
+
+30: correspondence
+From parent:balance
+Similarity:0.0
+Similarity with root:0.0
+
+31: counterweight
+From parent:balance
+Similarity:0.0
+Similarity with root:0.0
+
+32: counterpoise
+From parent:balance
+Similarity:0.0
+Similarity with root:0.0
+
+33: equalizer
+From parent:balance
+Similarity:0.0
+Similarity with root:0.0
+
+34: equaliser
+From parent:balance
+Similarity:0.0
+Similarity with root:0.0
+
+35: balance wheel
+From parent:balance
+Similarity:0.0
+Similarity with root:0.0
+
+36: last
+From parent:end
+Similarity:0.0
+Similarity with root:0.0
+
+37: final stage
+From parent:end
+Similarity:0.0
+Similarity with root:0.0
+
+38: goal
+From parent:end
+Similarity:0.080299206
+Similarity with root:0.0
+
+39: destruction
+From parent:end
+Similarity:0.0
+Similarity with root:0.0
+
+40: death
+From parent:end
+Similarity:2.51351E-4
+Similarity with root:0.0
+
+41: close
+From parent:end
+Similarity:0.0
+Similarity with root:0.0
+
+42: closing
+From parent:end
+Similarity:0.0
+Similarity with root:0.0
+
+43: leftover
+From parent:remnant
+Similarity:0.0
+Similarity with root:0.0
+
+44: curio
+From parent:oddment
+Similarity:0.0
+Similarity with root:0.0
+
+45: curiosity
+From parent:oddment
+Similarity:0.0
+Similarity with root:0.0
+
+46: oddity
+From parent:oddment
+Similarity:0.0
+Similarity with root:0.0
+
+47: peculiarity
+From parent:oddment
+Similarity:0.0
+Similarity with root:0.0
+
+48: rarity
+From parent:oddment
+Similarity:0.0
+Similarity with root:0.0
+
+49: armed combat
+From parent:combat
+Similarity:0.0
+Similarity with root:0.0
+
+50: day of the month
+From parent:date
+Similarity:0.0
+Similarity with root:0.0
+
+51: particular date
+From parent:date
+Similarity:0.0
+Similarity with root:0.0
+
+52: escort
+From parent:date
+Similarity:0.0
+Similarity with root:0.0
+
+53: assignment
+From parent:appointment
+Similarity:0.0
+Similarity with root:0.0
+
+54: designation
+From parent:appointment
+Similarity:0.0
+Similarity with root:0.0
+
+55: naming
+From parent:appointment
+Similarity:0.0
+Similarity with root:0.0
+
+56: fitting
+From parent:appointment
+Similarity:0.0
+Similarity with root:0.0
+
+57: appointee
+From parent:appointment
+Similarity:0.0
+Similarity with root:0.0
+
+58: espousal
+From parent:betrothal
+Similarity:0.0
+Similarity with root:0.0
+
+59: plight
+From parent:troth
+Similarity:0.0
+Similarity with root:0.0
+
+60: employ
+From parent:employment
+Similarity:0.36
+Similarity with root:0.0
+
+61: usage
+From parent:employment
+Similarity:0.03333333
+Similarity with root:0.0
+
+62: utilization
+From parent:employment
+Similarity:0.04
+Similarity with root:0.0
+
+63: utilisation
+From parent:employment
+Similarity:0.0
+Similarity with root:0.0
+
+64: exercise
+From parent:employment
+Similarity:0.0036363637
+Similarity with root:0.0
+
+65: reservation
+From parent:booking
+Similarity:0.017857144
+Similarity with root:0.0
+
+66: mesh topology
+From parent:mesh
+Similarity:0.0
+Similarity with root:0.0
+
+67: net
+From parent:mesh
+Similarity:0.0
+Similarity with root:0.0
+
+68: network
+From parent:mesh
+Similarity:0.0
+Similarity with root:0.0
+
+69: meshwork
+From parent:mesh
+Similarity:0.0
+Similarity with root:0.0
+
+70: interlock
+From parent:mesh
+Similarity:0.0
+Similarity with root:0.0
+
+71: elaborateness
+From parent:involution
+Similarity:0.0
+Similarity with root:0.0
+
+72: intricacy
+From parent:involution
+Similarity:0.0
+Similarity with root:0.0
+
+73: exponentiation
+From parent:involution
+Similarity:0.0
+Similarity with root:0.0
+
+74: enfolding
+From parent:involution
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:disputation
+Iteration level:4
+1: itemization
+From parent:listing
+Similarity:0.0
+Similarity with root:0.0
+
+2: itemisation
+From parent:listing
+Similarity:0.0
+Similarity with root:0.0
+
+3: temperament
+From parent:disposition
+Similarity:0.6666667
+Similarity with root:0.0
+
+4: disposal
+From parent:disposition
+Similarity:0.05555556
+Similarity with root:0.0
+
+5: pickpocket
+From parent:dip
+Similarity:0.0
+Similarity with root:0.0
+
+6: cutpurse
+From parent:dip
+Similarity:0.0
+Similarity with root:0.0
+
+7: fall
+From parent:dip
+Similarity:0.0
+Similarity with root:0.0
+
+8: free fall
+From parent:dip
+Similarity:0.0
+Similarity with root:0.0
+
+9: plunge
+From parent:dip
+Similarity:0.0
+Similarity with root:0.0
+
+10: aptness
+From parent:propensity
+Similarity:0.0
+Similarity with root:0.0
+
+11: gem
+From parent:stone
+Similarity:0.037156705
+Similarity with root:0.0
+
+12: gemstone
+From parent:stone
+Similarity:0.0
+Similarity with root:0.0
+
+13: pit
+From parent:stone
+Similarity:0.0
+Similarity with root:0.0
+
+14: endocarp
+From parent:stone
+Similarity:0.0
+Similarity with root:0.0
+
+15: Stone
+From parent:stone
+Similarity:0.36631337
+Similarity with root:0.0
+
+16: Harlan Stone
+From parent:stone
+Similarity:0.0
+Similarity with root:0.0
+
+17: Harlan F. Stone
+From parent:stone
+Similarity:0.0
+Similarity with root:0.0
+
+18: Harlan Fisk Stone
+From parent:stone
+Similarity:0.0
+Similarity with root:0.0
+
+19: Oliver Stone
+From parent:stone
+Similarity:0.0
+Similarity with root:0.0
+
+20: Lucy Stone
+From parent:stone
+Similarity:0.0
+Similarity with root:0.0
+
+21: I. F. Stone
+From parent:stone
+Similarity:0.0
+Similarity with root:0.0
+
+22: Isidor Feinstein Stone
+From parent:stone
+Similarity:0.0
+Similarity with root:0.0
+
+23: Harlan Fiske Stone
+From parent:stone
+Similarity:0.0
+Similarity with root:0.0
+
+24: Edward Durell Stone
+From parent:stone
+Similarity:0.0
+Similarity with root:0.0
+
+25: avowal
+From parent:affirmation
+Similarity:0.0
+Similarity with root:0.0
+
+26: avouchment
+From parent:affirmation
+Similarity:0.0
+Similarity with root:0.0
+
+27: averment
+From parent:assertion
+Similarity:0.0
+Similarity with root:0.0
+
+28: asseveration
+From parent:assertion
+Similarity:0.0
+Similarity with root:0.0
+
+29: direction
+From parent:instruction
+Similarity:0.015471168
+Similarity with root:0.0
+
+30: education
+From parent:instruction
+Similarity:0.16283526
+Similarity with root:0.0
+
+31: teaching
+From parent:instruction
+Similarity:0.09829061
+Similarity with root:0.0
+
+32: pedagogy
+From parent:instruction
+Similarity:0.0
+Similarity with root:0.0
+
+33: didactics
+From parent:instruction
+Similarity:0.0
+Similarity with root:0.0
+
+34: educational activity
+From parent:instruction
+Similarity:0.2777778
+Similarity with root:0.0
+
+35: bid
+From parent:command
+Similarity:0.26744187
+Similarity with root:0.0
+
+36: bidding
+From parent:command
+Similarity:0.53488374
+Similarity with root:0.0
+
+37: dictation
+From parent:command
+Similarity:0.0
+Similarity with root:0.0
+
+38: control
+From parent:command
+Similarity:7.267442E-4
+Similarity with root:0.0
+
+39: mastery
+From parent:command
+Similarity:0.018604651
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:disputant
+Iteration level:4

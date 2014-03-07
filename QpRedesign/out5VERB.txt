@@ -1,0 +1,11468 @@
+-------------
+Seed Word:believe
+Iteration level:5
+1: kick back
+From parent:kick
+Similarity:0.0
+Similarity with root:0.0
+
+2: recoil
+From parent:kick
+Similarity:0.0
+Similarity with root:0.0
+
+3: narrate
+From parent:tell
+Similarity:0.0
+Similarity with root:0.0
+
+4: recount
+From parent:tell
+Similarity:0.13345195
+Similarity with root:6.300178E-6
+
+5: evidence
+From parent:tell
+Similarity:5.0838845E-4
+Similarity with root:2.400068E-8
+
+6: separate
+From parent:tell
+Similarity:6.333313E-4
+Similarity with root:2.9899148E-8
+
+7: differentiate
+From parent:tell
+Similarity:0.004270463
+Similarity with root:2.016057E-7
+
+8: secern
+From parent:tell
+Similarity:0.0
+Similarity with root:0.0
+
+9: secernate
+From parent:tell
+Similarity:0.0
+Similarity with root:0.0
+
+10: severalize
+From parent:tell
+Similarity:0.0
+Similarity with root:0.0
+
+11: severalise
+From parent:tell
+Similarity:0.0
+Similarity with root:0.0
+
+12: prescribe
+From parent:order
+Similarity:0.09615385
+Similarity with root:2.9693137E-8
+
+13: dictate
+From parent:order
+Similarity:0.08547009
+Similarity with root:2.6393899E-8
+
+14: regularize
+From parent:order
+Similarity:0.0
+Similarity with root:0.0
+
+15: regularise
+From parent:order
+Similarity:0.0
+Similarity with root:0.0
+
+16: govern
+From parent:order
+Similarity:0.027591974
+Similarity with root:8.520639E-9
+
+17: joint
+From parent:articulate
+Similarity:0.0
+Similarity with root:0.0
+
+18: give voice
+From parent:articulate
+Similarity:0.0
+Similarity with root:0.0
+
+19: formulate
+From parent:articulate
+Similarity:0.07017544
+Similarity with root:1.0976108E-8
+
+20: word
+From parent:articulate
+Similarity:0.33333334
+Similarity with root:5.2136514E-8
+
+21: phrase
+From parent:articulate
+Similarity:0.33333334
+Similarity with root:5.2136514E-8
+
+22: vocalize
+From parent:articulate
+Similarity:0.0
+Similarity with root:0.0
+
+23: vocalise
+From parent:articulate
+Similarity:0.0
+Similarity with root:0.0
+
+24: feel out
+From parent:sound out
+Similarity:0.0
+Similarity with root:0.0
+
+25: invent
+From parent:excogitate
+Similarity:0.0
+Similarity with root:0.0
+
+26: devise
+From parent:excogitate
+Similarity:0.0
+Similarity with root:0.0
+
+27: forge
+From parent:excogitate
+Similarity:0.0
+Similarity with root:0.0
+
+28: subcontract
+From parent:job
+Similarity:0.0
+Similarity with root:0.0
+
+29: farm out
+From parent:job
+Similarity:0.0
+Similarity with root:0.0
+
+30: answer for
+From parent:account
+Similarity:0.0
+Similarity with root:0.0
+
+31: get in
+From parent:enter
+Similarity:0.43430933
+Similarity with root:2.246167E-5
+
+32: go into
+From parent:enter
+Similarity:0.5583977
+Similarity with root:2.887929E-5
+
+33: go in
+From parent:enter
+Similarity:0.6013514
+Similarity with root:3.1100775E-5
+
+34: move into
+From parent:enter
+Similarity:0.6013514
+Similarity with root:3.1100775E-5
+
+35: participate
+From parent:enter
+Similarity:0.0055917986
+Similarity with root:2.8919743E-7
+
+36: enroll
+From parent:enter
+Similarity:0.11486486
+Similarity with root:5.940597E-6
+
+37: enrol
+From parent:enter
+Similarity:0.11486486
+Similarity with root:5.940597E-6
+
+38: recruit
+From parent:enter
+Similarity:0.0670045
+Similarity with root:3.4653483E-6
+
+39: put down
+From parent:enter
+Similarity:0.0
+Similarity with root:0.0
+
+40: insert
+From parent:enter
+Similarity:0.0042674253
+Similarity with root:2.207033E-7
+
+41: infix
+From parent:enter
+Similarity:0.0
+Similarity with root:0.0
+
+42: introduce
+From parent:enter
+Similarity:1.2748598E-4
+Similarity with root:6.593338E-9
+
+43: signal
+From parent:betoken
+Similarity:0.0
+Similarity with root:0.0
+
+44: announce
+From parent:foretell
+Similarity:0.0
+Similarity with root:0.0
+
+45: annunciate
+From parent:foretell
+Similarity:0.0
+Similarity with root:0.0
+
+46: harbinger
+From parent:foretell
+Similarity:0.0
+Similarity with root:0.0
+
+47: herald
+From parent:foretell
+Similarity:0.0
+Similarity with root:0.0
+
+48: engrave
+From parent:inscribe
+Similarity:1.0
+Similarity with root:0.0
+
+49: grave
+From parent:inscribe
+Similarity:0.0
+Similarity with root:0.0
+
+50: autograph
+From parent:inscribe
+Similarity:0.0
+Similarity with root:0.0
+
+51: build up
+From parent:work up
+Similarity:0.32000002
+Similarity with root:0.0
+
+52: get up
+From parent:work up
+Similarity:0.006451613
+Similarity with root:0.0
+
+53: ramp up
+From parent:work up
+Similarity:0.0
+Similarity with root:0.0
+
+54: lucubrate
+From parent:elaborate
+Similarity:0.0
+Similarity with root:0.0
+
+55: expatiate
+From parent:elaborate
+Similarity:0.0
+Similarity with root:0.0
+
+56: exposit
+From parent:elaborate
+Similarity:0.0
+Similarity with root:0.0
+
+57: enlarge
+From parent:elaborate
+Similarity:0.07692308
+Similarity with root:0.0
+
+58: flesh out
+From parent:elaborate
+Similarity:0.0
+Similarity with root:0.0
+
+59: expand
+From parent:elaborate
+Similarity:0.0
+Similarity with root:0.0
+
+60: expound
+From parent:elaborate
+Similarity:1.0
+Similarity with root:0.0
+
+61: dilate
+From parent:elaborate
+Similarity:0.0
+Similarity with root:0.0
+
+62: complicate
+From parent:elaborate
+Similarity:0.0
+Similarity with root:0.0
+
+63: refine
+From parent:elaborate
+Similarity:0.0
+Similarity with root:0.0
+
+64: rarify
+From parent:elaborate
+Similarity:0.0
+Similarity with root:0.0
+
+65: exert
+From parent:exercise
+Similarity:0.35125446
+Similarity with root:0.0
+
+66: practice
+From parent:exercise
+Similarity:0.05873192
+Similarity with root:0.0
+
+67: practise
+From parent:exercise
+Similarity:0.0
+Similarity with root:0.0
+
+68: drill
+From parent:exercise
+Similarity:0.0
+Similarity with root:0.0
+
+69: resolve
+From parent:solve
+Similarity:0.0055555557
+Similarity with root:0.0
+
+70: cream
+From parent:lick
+Similarity:0.0
+Similarity with root:0.0
+
+71: bat
+From parent:lick
+Similarity:0.0
+Similarity with root:0.0
+
+72: clobber
+From parent:lick
+Similarity:0.0
+Similarity with root:0.0
+
+73: drub
+From parent:lick
+Similarity:0.0
+Similarity with root:0.0
+
+74: thrash
+From parent:lick
+Similarity:0.0
+Similarity with root:0.0
+
+75: lap
+From parent:lick
+Similarity:0.0875
+Similarity with root:0.0
+
+76: lap up
+From parent:lick
+Similarity:0.0
+Similarity with root:0.0
+
+77: do work
+From parent:work
+Similarity:0.26839826
+Similarity with root:0.0
+
+78: function
+From parent:work
+Similarity:0.059940062
+Similarity with root:0.0
+
+79: work on
+From parent:work
+Similarity:0.0074925073
+Similarity with root:0.0
+
+80: put to work
+From parent:work
+Similarity:0.008658009
+Similarity with root:0.0
+
+81: crop
+From parent:work
+Similarity:0.0
+Similarity with root:0.0
+
+82: act upon
+From parent:work
+Similarity:0.0
+Similarity with root:0.0
+
+83: mould
+From parent:work
+Similarity:0.0
+Similarity with root:0.0
+
+84: knead
+From parent:work
+Similarity:0.0
+Similarity with root:0.0
+
+85: exploit
+From parent:work
+Similarity:0.0
+Similarity with root:0.0
+
+86: spiel
+From parent:play
+Similarity:0.0
+Similarity with root:0.0
+
+87: act as
+From parent:play
+Similarity:0.0
+Similarity with root:0.0
+
+88: recreate
+From parent:play
+Similarity:0.0
+Similarity with root:0.0
+
+89: toy
+From parent:play
+Similarity:0.0
+Similarity with root:0.0
+
+90: fiddle
+From parent:play
+Similarity:0.0
+Similarity with root:0.0
+
+91: diddle
+From parent:play
+Similarity:0.0
+Similarity with root:0.0
+
+92: dally
+From parent:play
+Similarity:0.0
+Similarity with root:0.0
+
+93: trifle
+From parent:play
+Similarity:0.0
+Similarity with root:0.0
+
+94: flirt
+From parent:play
+Similarity:0.0
+Similarity with root:0.0
+
+95: roleplay
+From parent:play
+Similarity:0.0
+Similarity with root:0.0
+
+96: playact
+From parent:play
+Similarity:0.0
+Similarity with root:0.0
+
+97: come along
+From parent:appear
+Similarity:0.0200902
+Similarity with root:0.0
+
+98: seek
+From parent:search
+Similarity:0.15185186
+Similarity with root:0.0
+
+99: look for
+From parent:search
+Similarity:0.40925926
+Similarity with root:0.0
+
+100: research
+From parent:search
+Similarity:0.06666667
+Similarity with root:0.0
+
+101: explore
+From parent:search
+Similarity:0.07
+Similarity with root:0.0
+
+102: breast
+From parent:front
+Similarity:0.0
+Similarity with root:0.0
+
+103: confront
+From parent:face
+Similarity:0.27250192
+Similarity with root:0.0
+
+104: face up
+From parent:face
+Similarity:0.49122807
+Similarity with root:0.0
+
+105: hold off
+From parent:wait
+Similarity:0.0
+Similarity with root:0.0
+
+106: waitress
+From parent:wait
+Similarity:0.0
+Similarity with root:0.0
+
+107: bet on
+From parent:stake
+Similarity:0.4
+Similarity with root:0.0
+
+108: back
+From parent:stake
+Similarity:0.0
+Similarity with root:0.0
+
+109: gage
+From parent:stake
+Similarity:0.0
+Similarity with root:0.0
+
+110: game
+From parent:stake
+Similarity:0.0
+Similarity with root:0.0
+
+111: punt
+From parent:stake
+Similarity:0.0
+Similarity with root:0.0
+
+112: impale
+From parent:stake
+Similarity:0.0
+Similarity with root:0.0
+
+113: endanger
+From parent:jeopardize
+Similarity:0.3
+Similarity with root:0.0
+
+114: jeopardise
+From parent:jeopardize
+Similarity:0.0
+Similarity with root:0.0
+
+115: menace
+From parent:jeopardize
+Similarity:0.25
+Similarity with root:0.0
+
+116: threaten
+From parent:jeopardize
+Similarity:0.21296297
+Similarity with root:0.0
+
+117: imperil
+From parent:jeopardize
+Similarity:0.5
+Similarity with root:0.0
+
+118: peril
+From parent:jeopardize
+Similarity:0.0
+Similarity with root:0.0
+
+119: cloak
+From parent:dissemble
+Similarity:0.0
+Similarity with root:0.0
+
+120: mask
+From parent:dissemble
+Similarity:0.0
+Similarity with root:0.0
+
+121: concede
+From parent:profess
+Similarity:0.0625
+Similarity with root:0.0
+
+122: confess
+From parent:profess
+Similarity:0.028846154
+Similarity with root:0.0
+
+123: put on the line
+From parent:risk
+Similarity:0.0
+Similarity with root:0.0
+
+124: lay on the line
+From parent:risk
+Similarity:0.0
+Similarity with root:0.0
+
+125: measure
+From parent:evaluate
+Similarity:0.08695652
+Similarity with root:0.0
+
+126: valuate
+From parent:evaluate
+Similarity:0.0
+Similarity with root:0.0
+
+127: assess
+From parent:evaluate
+Similarity:1.0
+Similarity with root:0.0
+
+128: appraise
+From parent:evaluate
+Similarity:1.0
+Similarity with root:0.0
+
+129: value
+From parent:evaluate
+Similarity:0.0
+Similarity with root:0.0
+
+130: tag
+From parent:label
+Similarity:0.120000005
+Similarity with root:5.844902E-7
+
+131: attempt
+From parent:try
+Similarity:0.72311884
+Similarity with root:0.0
+
+132: assay
+From parent:try
+Similarity:0.0
+Similarity with root:0.0
+
+133: sample
+From parent:try
+Similarity:0.005449591
+Similarity with root:0.0
+
+134: taste
+From parent:try
+Similarity:0.0012822568
+Similarity with root:0.0
+
+135: stress
+From parent:try
+Similarity:0.0
+Similarity with root:0.0
+
+136: try on
+From parent:try
+Similarity:0.0
+Similarity with root:0.0
+
+137: subtract
+From parent:deduct
+Similarity:0.8125
+Similarity with root:0.0
+
+138: take off
+From parent:deduct
+Similarity:0.0
+Similarity with root:0.0
+
+139: withhold
+From parent:deduct
+Similarity:0.020833334
+Similarity with root:0.0
+
+140: educe
+From parent:derive
+Similarity:0.0
+Similarity with root:0.0
+
+141: descend
+From parent:derive
+Similarity:0.00390625
+Similarity with root:0.0
+
+142: popularize
+From parent:generalize
+Similarity:0.0
+Similarity with root:0.0
+
+143: popularise
+From parent:generalize
+Similarity:0.0
+Similarity with root:0.0
+
+144: vulgarize
+From parent:generalize
+Similarity:0.0
+Similarity with root:0.0
+
+145: vulgarise
+From parent:generalize
+Similarity:0.0
+Similarity with root:0.0
+
+146: interpolate
+From parent:extrapolate
+Similarity:0.0
+Similarity with root:0.0
+
+147: respect
+From parent:esteem
+Similarity:0.75
+Similarity with root:0.0
+
+148: prize
+From parent:esteem
+Similarity:0.0
+Similarity with root:0.0
+
+149: prise
+From parent:esteem
+Similarity:0.0
+Similarity with root:0.0
+
+150: cook up
+From parent:concoct
+Similarity:0.0
+Similarity with root:0.0
+
+151: trump up
+From parent:concoct
+Similarity:0.0
+Similarity with root:0.0
+
+152: advocate
+From parent:recommend
+Similarity:0.8035714
+Similarity with root:0.0
+
+153: stigmatize
+From parent:mark
+Similarity:0.0
+Similarity with root:0.0
+
+154: stigmatise
+From parent:mark
+Similarity:0.0
+Similarity with root:0.0
+
+155: brand
+From parent:mark
+Similarity:0.0
+Similarity with root:0.0
+
+156: denounce
+From parent:mark
+Similarity:0.00530504
+Similarity with root:0.0
+
+157: note
+From parent:mark
+Similarity:0.011494253
+Similarity with root:0.0
+
+158: scar
+From parent:mark
+Similarity:0.0
+Similarity with root:0.0
+
+159: pock
+From parent:mark
+Similarity:0.0
+Similarity with root:0.0
+
+160: pit
+From parent:mark
+Similarity:0.0
+Similarity with root:0.0
+
+161: nock
+From parent:mark
+Similarity:0.0
+Similarity with root:0.0
+
+162: cross off
+From parent:mark
+Similarity:0.0
+Similarity with root:0.0
+
+163: cross out
+From parent:mark
+Similarity:0.0
+Similarity with root:0.0
+
+164: strike out
+From parent:mark
+Similarity:0.0
+Similarity with root:0.0
+
+165: strike off
+From parent:mark
+Similarity:0.0
+Similarity with root:0.0
+
+166: punctuate
+From parent:mark
+Similarity:0.0
+Similarity with root:0.0
+
+167: eternize
+From parent:immortalize
+Similarity:0.0
+Similarity with root:0.0
+
+168: eternise
+From parent:immortalize
+Similarity:0.0
+Similarity with root:0.0
+
+169: eternalize
+From parent:immortalize
+Similarity:0.0
+Similarity with root:0.0
+
+170: eternalise
+From parent:immortalize
+Similarity:0.0
+Similarity with root:0.0
+
+171: tape
+From parent:record
+Similarity:0.0
+Similarity with root:0.0
+
+172: date back
+From parent:go back
+Similarity:0.08695652
+Similarity with root:0.0
+
+173: date from
+From parent:go back
+Similarity:0.08695652
+Similarity with root:0.0
+
+174: recur
+From parent:go back
+Similarity:0.014492754
+Similarity with root:0.0
+
+175: reimburse
+From parent:recoup
+Similarity:0.0
+Similarity with root:0.0
+
+176: repossess
+From parent:reclaim
+Similarity:0.0
+Similarity with root:0.0
+
+177: reform
+From parent:reclaim
+Similarity:0.0
+Similarity with root:0.0
+
+178: regenerate
+From parent:reclaim
+Similarity:0.0
+Similarity with root:0.0
+
+179: rectify
+From parent:reclaim
+Similarity:0.0
+Similarity with root:0.0
+
+180: domesticate
+From parent:reclaim
+Similarity:0.0
+Similarity with root:0.0
+
+181: domesticize
+From parent:reclaim
+Similarity:0.0
+Similarity with root:0.0
+
+182: domesticise
+From parent:reclaim
+Similarity:0.0
+Similarity with root:0.0
+
+183: tame
+From parent:reclaim
+Similarity:0.0
+Similarity with root:0.0
+
+184: befall
+From parent:happen
+Similarity:0.0
+Similarity with root:0.0
+
+185: bechance
+From parent:happen
+Similarity:0.0
+Similarity with root:0.0
+
+186: materialize
+From parent:happen
+Similarity:0.045918368
+Similarity with root:0.0
+
+187: materialise
+From parent:happen
+Similarity:0.0
+Similarity with root:0.0
+
+188: knock
+From parent:bump
+Similarity:0.11764706
+Similarity with root:0.0
+
+189: demote
+From parent:bump
+Similarity:0.0
+Similarity with root:0.0
+
+190: kick downstairs
+From parent:bump
+Similarity:0.0
+Similarity with root:0.0
+
+191: dislodge
+From parent:bump
+Similarity:0.0
+Similarity with root:0.0
+
+192: displace
+From parent:bump
+Similarity:0.0
+Similarity with root:0.0
+
+193: mention
+From parent:observe
+Similarity:0.03736264
+Similarity with root:0.0
+
+194: remark
+From parent:observe
+Similarity:0.18681319
+Similarity with root:0.0
+
+195: take note
+From parent:observe
+Similarity:0.14285715
+Similarity with root:0.0
+
+196: honor
+From parent:observe
+Similarity:0.0042538107
+Similarity with root:0.0
+
+197: honour
+From parent:observe
+Similarity:0.0
+Similarity with root:0.0
+
+198: abide by
+From parent:observe
+Similarity:0.0
+Similarity with root:0.0
+
+199: celebrate
+From parent:observe
+Similarity:0.019086178
+Similarity with root:0.0
+
+200: comment
+From parent:notice
+Similarity:0.015211641
+Similarity with root:0.0
+
+201: point out
+From parent:notice
+Similarity:0.012820513
+Similarity with root:0.0
+
+202: sense
+From parent:feel
+Similarity:0.12825279
+Similarity with root:0.0
+
+203: finger
+From parent:feel
+Similarity:0.003717472
+Similarity with root:0.0
+
+204: palpate
+From parent:feel
+Similarity:0.0
+Similarity with root:0.0
+
+205: queue up
+From parent:line up
+Similarity:0.0
+Similarity with root:0.0
+
+206: queue
+From parent:line up
+Similarity:0.0
+Similarity with root:0.0
+
+207: align
+From parent:line up
+Similarity:0.083333336
+Similarity with root:0.0
+
+208: aline
+From parent:line up
+Similarity:0.0
+Similarity with root:0.0
+
+209: adjust
+From parent:line up
+Similarity:0.03125
+Similarity with root:0.0
+
+210: dress
+From parent:line up
+Similarity:0.0
+Similarity with root:0.0
+
+211: arise
+From parent:come up
+Similarity:0.04264871
+Similarity with root:0.0
+
+212: surface
+From parent:come up
+Similarity:0.09090909
+Similarity with root:0.0
+
+213: rise up
+From parent:come up
+Similarity:0.09090909
+Similarity with root:0.0
+
+214: rise
+From parent:come up
+Similarity:0.0192604
+Similarity with root:0.0
+
+215: bob up
+From parent:come up
+Similarity:0.0
+Similarity with root:0.0
+
+216: move up
+From parent:come up
+Similarity:0.03463204
+Similarity with root:0.0
+
+217: go up
+From parent:come up
+Similarity:0.032900434
+Similarity with root:0.0
+
+218: uprise
+From parent:come up
+Similarity:0.0
+Similarity with root:0.0
+
+219: come on
+From parent:come up
+Similarity:0.0
+Similarity with root:0.0
+
+220: ascend
+From parent:come up
+Similarity:0.0
+Similarity with root:0.0
+
+221: scrape
+From parent:come up
+Similarity:0.0
+Similarity with root:0.0
+
+222: scrape up
+From parent:come up
+Similarity:0.0
+Similarity with root:0.0
+
+223: decree
+From parent:rule
+Similarity:0.0
+Similarity with root:0.0
+
+224: predominate
+From parent:rule
+Similarity:0.083333336
+Similarity with root:0.0
+
+225: dominate
+From parent:rule
+Similarity:0.035714287
+Similarity with root:0.0
+
+226: reign
+From parent:rule
+Similarity:0.020833334
+Similarity with root:0.0
+
+227: harness
+From parent:rule
+Similarity:0.0
+Similarity with root:0.0
+
+228: rein
+From parent:rule
+Similarity:0.0
+Similarity with root:0.0
+
+229: welcome
+From parent:receive
+Similarity:0.0016856301
+Similarity with root:0.0
+
+230: win back
+From parent:get back
+Similarity:0.17391305
+Similarity with root:3.7102055E-7
+
+231: get even
+From parent:get back
+Similarity:0.0
+Similarity with root:0.0
+
+232: supply
+From parent:render
+Similarity:0.28450364
+Similarity with root:2.49533E-10
+
+233: furnish
+From parent:render
+Similarity:0.32258064
+Similarity with root:2.8292965E-10
+
+234: hand over
+From parent:render
+Similarity:0.0
+Similarity with root:0.0
+
+235: fork over
+From parent:render
+Similarity:0.0
+Similarity with root:0.0
+
+236: fork out
+From parent:render
+Similarity:0.0
+Similarity with root:0.0
+
+237: fork up
+From parent:render
+Similarity:0.0
+Similarity with root:0.0
+
+238: turn in
+From parent:render
+Similarity:0.0
+Similarity with root:0.0
+
+239: retrograde
+From parent:regress
+Similarity:0.0
+Similarity with root:0.0
+
+240: retrogress
+From parent:regress
+Similarity:0.0
+Similarity with root:0.0
+
+241: relapse
+From parent:regress
+Similarity:0.0
+Similarity with root:0.0
+
+242: recidivate
+From parent:regress
+Similarity:0.0
+Similarity with root:0.0
+
+243: fall back
+From parent:regress
+Similarity:0.0
+Similarity with root:0.0
+
+244: backtrack
+From parent:turn back
+Similarity:0.0
+Similarity with root:0.0
+
+245: double back
+From parent:turn back
+Similarity:0.0
+Similarity with root:0.0
+
+246: chase away
+From parent:turn back
+Similarity:0.0
+Similarity with root:0.0
+
+247: drive out
+From parent:turn back
+Similarity:0.083333336
+Similarity with root:8.186097E-9
+
+248: drive away
+From parent:turn back
+Similarity:0.083333336
+Similarity with root:8.186097E-9
+
+249: dispel
+From parent:turn back
+Similarity:0.083333336
+Similarity with root:8.186097E-9
+
+250: drive off
+From parent:turn back
+Similarity:0.083333336
+Similarity with root:8.186097E-9
+
+251: run off
+From parent:turn back
+Similarity:0.020833334
+Similarity with root:2.0465243E-9
+
+252: invert
+From parent:turn back
+Similarity:0.0
+Similarity with root:0.0
+
+253: bring to
+From parent:bring back
+Similarity:0.0
+Similarity with root:0.0
+
+254: bring round
+From parent:bring back
+Similarity:0.0
+Similarity with root:0.0
+
+255: bring around
+From parent:bring back
+Similarity:0.0
+Similarity with root:0.0
+
+256: requite
+From parent:repay
+Similarity:0.0
+Similarity with root:0.0
+
+257: reward
+From parent:repay
+Similarity:0.0
+Similarity with root:0.0
+
+258: rescue
+From parent:deliver
+Similarity:0.06122449
+Similarity with root:3.068508E-11
+
+259: extradite
+From parent:deliver
+Similarity:0.0
+Similarity with root:0.0
+
+260: redeem
+From parent:deliver
+Similarity:0.0
+Similarity with root:0.0
+
+261: save
+From parent:deliver
+Similarity:0.0
+Similarity with root:0.0
+
+262: drive home
+From parent:deliver
+Similarity:0.0
+Similarity with root:0.0
+
+263: surrender
+From parent:deliver
+Similarity:0.0
+Similarity with root:0.0
+
+264: cede
+From parent:deliver
+Similarity:0.0
+Similarity with root:0.0
+
+265: give up
+From parent:deliver
+Similarity:0.0
+Similarity with root:0.0
+
+266: go down
+From parent:fall
+Similarity:0.08369565
+Similarity with root:0.0
+
+267: come down
+From parent:fall
+Similarity:0.13796297
+Similarity with root:0.0
+
+268: precipitate
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+269: decrease
+From parent:fall
+Similarity:0.02948718
+Similarity with root:0.0
+
+270: diminish
+From parent:fall
+Similarity:0.02820513
+Similarity with root:0.0
+
+271: lessen
+From parent:fall
+Similarity:0.020833334
+Similarity with root:0.0
+
+272: accrue
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+273: light
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+274: fall down
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+275: flow
+From parent:fall
+Similarity:0.0
+Similarity with root:0.0
+
+276: deteriorate
+From parent:devolve
+Similarity:0.0
+Similarity with root:0.0
+
+277: drop
+From parent:devolve
+Similarity:0.0
+Similarity with root:0.0
+
+278: degenerate
+From parent:devolve
+Similarity:0.0
+Similarity with root:0.0
+
+279: relent
+From parent:yield
+Similarity:0.08695652
+Similarity with root:0.0
+
+280: soften
+From parent:yield
+Similarity:0.0
+Similarity with root:0.0
+
+281: succumb
+From parent:yield
+Similarity:0.0
+Similarity with root:0.0
+
+282: knuckle under
+From parent:yield
+Similarity:0.0
+Similarity with root:0.0
+
+283: buckle under
+From parent:yield
+Similarity:0.0
+Similarity with root:0.0
+
+284: reiterate
+From parent:repeat
+Similarity:0.515625
+Similarity with root:0.0
+
+285: ingeminate
+From parent:repeat
+Similarity:0.0
+Similarity with root:0.0
+
+286: iterate
+From parent:repeat
+Similarity:0.0
+Similarity with root:0.0
+
+287: restate
+From parent:repeat
+Similarity:0.515625
+Similarity with root:0.0
+
+288: retell
+From parent:repeat
+Similarity:0.0
+Similarity with root:0.0
+
+289: duplicate
+From parent:repeat
+Similarity:0.203125
+Similarity with root:0.0
+
+290: reduplicate
+From parent:repeat
+Similarity:0.0
+Similarity with root:0.0
+
+291: double
+From parent:repeat
+Similarity:0.0
+Similarity with root:0.0
+
+292: replicate
+From parent:repeat
+Similarity:0.0
+Similarity with root:0.0
+
+293: reprise
+From parent:repeat
+Similarity:0.0
+Similarity with root:0.0
+
+294: reprize
+From parent:repeat
+Similarity:0.0
+Similarity with root:0.0
+
+295: recapitulate
+From parent:repeat
+Similarity:0.0
+Similarity with root:0.0
+
+296: make noise
+From parent:resound
+Similarity:0.0
+Similarity with root:0.0
+
+297: noise
+From parent:resound
+Similarity:0.0
+Similarity with root:0.0
+
+298: bounce
+From parent:reverberate
+Similarity:0.0
+Similarity with root:0.0
+
+299: resile
+From parent:reverberate
+Similarity:0.0
+Similarity with root:0.0
+
+300: take a hop
+From parent:reverberate
+Similarity:0.0
+Similarity with root:0.0
+
+301: spring
+From parent:reverberate
+Similarity:0.0
+Similarity with root:0.0
+
+302: bound
+From parent:reverberate
+Similarity:0.0
+Similarity with root:0.0
+
+303: ricochet
+From parent:reverberate
+Similarity:0.0
+Similarity with root:0.0
+
+304: retract
+From parent:draw back
+Similarity:0.0
+Similarity with root:0.0
+
+305: lose
+From parent:recede
+Similarity:0.0
+Similarity with root:0.0
+
+306: drop off
+From parent:recede
+Similarity:0.0
+Similarity with root:0.0
+
+307: fall behind
+From parent:recede
+Similarity:0.0
+Similarity with root:0.0
+
+308: pension off
+From parent:retire
+Similarity:0.0
+Similarity with root:0.0
+
+309: put out
+From parent:retire
+Similarity:0.0
+Similarity with root:0.0
+
+310: go to bed
+From parent:retire
+Similarity:0.0
+Similarity with root:0.0
+
+311: crawl in
+From parent:retire
+Similarity:0.0
+Similarity with root:0.0
+
+312: kip down
+From parent:retire
+Similarity:0.0
+Similarity with root:0.0
+
+313: hit the hay
+From parent:retire
+Similarity:0.0
+Similarity with root:0.0
+
+314: hit the sack
+From parent:retire
+Similarity:0.0
+Similarity with root:0.0
+
+315: sack out
+From parent:retire
+Similarity:0.0
+Similarity with root:0.0
+
+316: go to sleep
+From parent:retire
+Similarity:0.0
+Similarity with root:0.0
+
+317: free
+From parent:disengage
+Similarity:0.0
+Similarity with root:0.0
+
+318: immerse
+From parent:swallow
+Similarity:0.0
+Similarity with root:0.0
+
+319: swallow up
+From parent:swallow
+Similarity:0.11111111
+Similarity with root:0.0
+
+320: bury
+From parent:swallow
+Similarity:0.0061728396
+Similarity with root:0.0
+
+321: impound
+From parent:sequester
+Similarity:0.0
+Similarity with root:0.0
+
+322: attach
+From parent:sequester
+Similarity:0.0
+Similarity with root:0.0
+
+323: confiscate
+From parent:sequester
+Similarity:0.0
+Similarity with root:0.0
+
+324: keep apart
+From parent:sequester
+Similarity:0.0
+Similarity with root:0.0
+
+325: isolate
+From parent:sequester
+Similarity:0.0
+Similarity with root:0.0
+
+326: recess
+From parent:adjourn
+Similarity:0.0
+Similarity with root:0.0
+
+327: break up
+From parent:adjourn
+Similarity:0.0
+Similarity with root:0.0
+
+328: chicken out
+From parent:bow out
+Similarity:0.0
+Similarity with root:0.0
+
+329: back off
+From parent:bow out
+Similarity:0.0
+Similarity with root:0.0
+
+330: back down
+From parent:bow out
+Similarity:0.0
+Similarity with root:0.0
+
+331: reap
+From parent:draw
+Similarity:0.023809524
+Similarity with root:0.0
+
+332: trace
+From parent:draw
+Similarity:0.026455028
+Similarity with root:0.0
+
+333: line
+From parent:draw
+Similarity:0.0
+Similarity with root:0.0
+
+334: puff
+From parent:draw
+Similarity:0.011904762
+Similarity with root:0.0
+
+335: drag
+From parent:draw
+Similarity:0.0014430016
+Similarity with root:0.0
+
+336: quarter
+From parent:draw
+Similarity:0.0
+Similarity with root:0.0
+
+337: draw and quarter
+From parent:draw
+Similarity:0.0
+Similarity with root:0.0
+
+338: string
+From parent:draw
+Similarity:0.0
+Similarity with root:0.0
+
+339: thread
+From parent:draw
+Similarity:0.0
+Similarity with root:0.0
+
+340: tie
+From parent:draw
+Similarity:0.0
+Similarity with root:0.0
+
+341: disembowel
+From parent:draw
+Similarity:0.0
+Similarity with root:0.0
+
+342: eviscerate
+From parent:draw
+Similarity:0.0
+Similarity with root:0.0
+
+343: unpack
+From parent:take out
+Similarity:0.2857143
+Similarity with root:0.0
+
+344: ask out
+From parent:take out
+Similarity:0.04761905
+Similarity with root:0.0
+
+345: invite out
+From parent:take out
+Similarity:0.0
+Similarity with root:0.0
+
+346: buy food
+From parent:take out
+Similarity:0.0
+Similarity with root:0.0
+
+347: excerpt
+From parent:take out
+Similarity:0.0
+Similarity with root:0.0
+
+348: exclude
+From parent:take out
+Similarity:0.0
+Similarity with root:0.0
+
+349: except
+From parent:take out
+Similarity:0.0
+Similarity with root:0.0
+
+350: leave out
+From parent:take out
+Similarity:0.0
+Similarity with root:0.0
+
+351: leave off
+From parent:take out
+Similarity:0.0
+Similarity with root:0.0
+
+352: omit
+From parent:take out
+Similarity:0.0
+Similarity with root:0.0
+
+353: draw away
+From parent:draw off
+Similarity:0.0
+Similarity with root:0.0
+
+354: throw out
+From parent:advance
+Similarity:0.015625
+Similarity with root:1.1461387E-7
+
+355: boost
+From parent:advance
+Similarity:0.040178575
+Similarity with root:2.947214E-7
+
+356: supercharge
+From parent:advance
+Similarity:0.0
+Similarity with root:0.0
+
+357: promote
+From parent:advance
+Similarity:0.10197368
+Similarity with root:7.480063E-7
+
+358: further
+From parent:advance
+Similarity:0.027777778
+Similarity with root:2.0375799E-7
+
+359: encourage
+From parent:advance
+Similarity:0.10037879
+Similarity with root:7.363073E-7
+
+360: pull ahead
+From parent:advance
+Similarity:0.0
+Similarity with root:0.0
+
+361: make headway
+From parent:advance
+Similarity:0.0
+Similarity with root:0.0
+
+362: get ahead
+From parent:advance
+Similarity:0.09375
+Similarity with root:6.876832E-7
+
+363: gain ground
+From parent:advance
+Similarity:0.0
+Similarity with root:0.0
+
+364: get on
+From parent:advance
+Similarity:0.008928572
+Similarity with root:6.5493644E-8
+
+365: shape up
+From parent:advance
+Similarity:0.0
+Similarity with root:0.0
+
+366: upgrade
+From parent:advance
+Similarity:0.0
+Similarity with root:0.0
+
+367: kick upstairs
+From parent:advance
+Similarity:0.0
+Similarity with root:0.0
+
+368: raise
+From parent:advance
+Similarity:0.0
+Similarity with root:0.0
+
+369: elevate
+From parent:advance
+Similarity:0.0
+Similarity with root:0.0
+
+370: set ahead
+From parent:advance
+Similarity:0.0
+Similarity with root:0.0
+
+371: bring up
+From parent:name
+Similarity:0.0
+Similarity with root:0.0
+
+372: cite
+From parent:name
+Similarity:0.0
+Similarity with root:0.0
+
+373: refer
+From parent:name
+Similarity:0.0
+Similarity with root:0.0
+
+374: diagnose
+From parent:name
+Similarity:0.0
+Similarity with root:0.0
+
+375: exclaim
+From parent:shout
+Similarity:0.020860497
+Similarity with root:6.7067134E-9
+
+376: cry out
+From parent:shout
+Similarity:0.033898305
+Similarity with root:1.0898408E-8
+
+377: outcry
+From parent:shout
+Similarity:0.0
+Similarity with root:0.0
+
+378: call out
+From parent:shout
+Similarity:0.02259887
+Similarity with root:7.265606E-9
+
+379: abuse
+From parent:shout
+Similarity:0.0
+Similarity with root:0.0
+
+380: clapperclaw
+From parent:shout
+Similarity:0.0
+Similarity with root:0.0
+
+381: blackguard
+From parent:shout
+Similarity:0.0
+Similarity with root:0.0
+
+382: vociferate
+From parent:shout out
+Similarity:0.0
+Similarity with root:0.0
+
+383: weep
+From parent:cry
+Similarity:0.2857143
+Similarity with root:1.2186983E-7
+
+384: blazon out
+From parent:cry
+Similarity:0.0
+Similarity with root:0.0
+
+385: holler out
+From parent:holler
+Similarity:0.5
+Similarity with root:1.7563593E-7
+
+386: gripe
+From parent:holler
+Similarity:0.0
+Similarity with root:0.0
+
+387: grouse
+From parent:holler
+Similarity:0.0
+Similarity with root:0.0
+
+388: crab
+From parent:holler
+Similarity:0.0
+Similarity with root:0.0
+
+389: beef
+From parent:holler
+Similarity:0.0
+Similarity with root:0.0
+
+390: squawk
+From parent:holler
+Similarity:0.0
+Similarity with root:0.0
+
+391: bellyache
+From parent:holler
+Similarity:0.0
+Similarity with root:0.0
+
+392: waul
+From parent:squall
+Similarity:0.0
+Similarity with root:0.0
+
+393: wawl
+From parent:squall
+Similarity:0.0
+Similarity with root:0.0
+
+394: forestall
+From parent:anticipate
+Similarity:0.0
+Similarity with root:0.0
+
+395: counter
+From parent:anticipate
+Similarity:0.072463766
+Similarity with root:1.5563202E-10
+
+396: previse
+From parent:anticipate
+Similarity:0.0
+Similarity with root:0.0
+
+397: foreknow
+From parent:anticipate
+Similarity:0.17391305
+Similarity with root:3.7351688E-10
+
+398: look to
+From parent:anticipate
+Similarity:0.028985508
+Similarity with root:6.2252814E-11
+
+399: cancel
+From parent:call off
+Similarity:1.0
+Similarity with root:0.0
+
+400: scrub
+From parent:call off
+Similarity:0.0
+Similarity with root:0.0
+
+401: offer
+From parent:bid
+Similarity:0.0026666669
+Similarity with root:0.0
+
+402: tender
+From parent:bid
+Similarity:0.0
+Similarity with root:0.0
+
+403: skirt
+From parent:surround
+Similarity:0.0
+Similarity with root:0.0
+
+404: border
+From parent:surround
+Similarity:0.15652174
+Similarity with root:1.3295846E-8
+
+405: smother
+From parent:surround
+Similarity:0.04347826
+Similarity with root:3.6932906E-9
+
+406: besiege
+From parent:surround
+Similarity:0.04347826
+Similarity with root:3.6932906E-9
+
+407: beleaguer
+From parent:surround
+Similarity:0.0
+Similarity with root:0.0
+
+408: hem in
+From parent:surround
+Similarity:0.02173913
+Similarity with root:1.8466453E-9
+
+409: circumvent
+From parent:surround
+Similarity:0.0
+Similarity with root:0.0
+
+410: gird
+From parent:encircle
+Similarity:0.0
+Similarity with root:0.0
+
+411: round out
+From parent:round
+Similarity:0.0
+Similarity with root:0.0
+
+412: round off
+From parent:round
+Similarity:0.25
+Similarity with root:0.0
+
+413: labialize
+From parent:round
+Similarity:0.0
+Similarity with root:0.0
+
+414: labialise
+From parent:round
+Similarity:0.0
+Similarity with root:0.0
+
+415: attack
+From parent:round
+Similarity:0.0
+Similarity with root:0.0
+
+416: assail
+From parent:round
+Similarity:0.0
+Similarity with root:0.0
+
+417: lash out
+From parent:round
+Similarity:0.0
+Similarity with root:0.0
+
+418: snipe
+From parent:round
+Similarity:0.0
+Similarity with root:0.0
+
+419: assault
+From parent:round
+Similarity:0.0
+Similarity with root:0.0
+
+420: polish
+From parent:round
+Similarity:0.0
+Similarity with root:0.0
+
+421: polish up
+From parent:round
+Similarity:0.0
+Similarity with root:0.0
+
+422: brush up
+From parent:round
+Similarity:0.0
+Similarity with root:0.0
+
+423: round down
+From parent:round
+Similarity:0.0
+Similarity with root:0.0
+
+424: summons
+From parent:summon
+Similarity:0.0
+Similarity with root:0.0
+
+425: go around
+From parent:circulate
+Similarity:0.16666667
+Similarity with root:0.0
+
+426: work over
+From parent:beat up
+Similarity:0.0
+Similarity with root:0.0
+
+427: badger
+From parent:tease
+Similarity:0.6666667
+Similarity with root:0.0
+
+428: pester
+From parent:tease
+Similarity:0.6666667
+Similarity with root:0.0
+
+429: bug
+From parent:tease
+Similarity:0.6666667
+Similarity with root:0.0
+
+430: tease apart
+From parent:tease
+Similarity:0.0
+Similarity with root:0.0
+
+431: loosen
+From parent:tease
+Similarity:0.0
+Similarity with root:0.0
+
+432: card
+From parent:tease
+Similarity:0.0
+Similarity with root:0.0
+
+433: fluff
+From parent:tease
+Similarity:0.0
+Similarity with root:0.0
+
+434: torment
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+435: bedevil
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+436: crucify
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+437: dun
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+438: frustrate
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+439: annoy
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+440: bother
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+441: get at
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+442: irritate
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+443: rile
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+444: nark
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+445: nettle
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+446: chafe
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+447: devil
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+448: call on the carpet
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+449: take to task
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+450: rebuke
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+451: trounce
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+452: reproof
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+453: lecture
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+454: reprimand
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+455: dress down
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+456: call down
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+457: scold
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+458: chide
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+459: berate
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+460: bawl out
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+461: remonstrate
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+462: chew out
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+463: chew up
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+464: have words
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+465: lambaste
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+466: lambast
+From parent:rag
+Similarity:0.0
+Similarity with root:0.0
+
+467: sit
+From parent:ride
+Similarity:0.0032555284
+Similarity with root:0.0
+
+468: depend on
+From parent:ride
+Similarity:0.0
+Similarity with root:0.0
+
+469: devolve on
+From parent:ride
+Similarity:0.0
+Similarity with root:0.0
+
+470: depend upon
+From parent:ride
+Similarity:0.0
+Similarity with root:0.0
+
+471: hinge on
+From parent:ride
+Similarity:0.0
+Similarity with root:0.0
+
+472: hinge upon
+From parent:ride
+Similarity:0.0
+Similarity with root:0.0
+
+473: mount
+From parent:ride
+Similarity:0.0
+Similarity with root:0.0
+
+474: sentence
+From parent:doom
+Similarity:0.0
+Similarity with root:0.0
+
+475: condemn
+From parent:doom
+Similarity:0.0
+Similarity with root:0.0
+
+476: deputize
+From parent:depute
+Similarity:0.0
+Similarity with root:0.0
+
+477: deputise
+From parent:depute
+Similarity:0.0
+Similarity with root:0.0
+
+478: impute
+From parent:assign
+Similarity:0.15555556
+Similarity with root:0.0
+
+479: ascribe
+From parent:assign
+Similarity:0.15555556
+Similarity with root:0.0
+
+480: attribute
+From parent:assign
+Similarity:0.15555556
+Similarity with root:0.0
+
+481: measure up
+From parent:qualify
+Similarity:0.7
+Similarity with root:0.0
+
+482: restrict
+From parent:qualify
+Similarity:0.010000001
+Similarity with root:0.0
+
+483: dispose
+From parent:qualify
+Similarity:0.0
+Similarity with root:0.0
+
+484: characterize
+From parent:qualify
+Similarity:0.0
+Similarity with root:0.0
+
+485: characterise
+From parent:qualify
+Similarity:0.0
+Similarity with root:0.0
+
+486: modify
+From parent:qualify
+Similarity:0.0
+Similarity with root:0.0
+
+487: limn
+From parent:delineate
+Similarity:0.0
+Similarity with root:0.0
+
+488: outline
+From parent:delineate
+Similarity:0.0
+Similarity with root:0.0
+
+489: subtend
+From parent:delimit
+Similarity:0.0
+Similarity with root:0.0
+
+490: demarcate
+From parent:delimit
+Similarity:0.0
+Similarity with root:0.0
+
+491: gear up
+From parent:set
+Similarity:0.0
+Similarity with root:0.0
+
+492: go under
+From parent:set
+Similarity:0.0
+Similarity with root:0.0
+
+493: plant
+From parent:set
+Similarity:0.012432014
+Similarity with root:0.0
+
+494: jell
+From parent:set
+Similarity:0.0
+Similarity with root:0.0
+
+495: congeal
+From parent:set
+Similarity:0.008547009
+Similarity with root:0.0
+
+496: typeset
+From parent:set
+Similarity:0.0
+Similarity with root:0.0
+
+497: countersink
+From parent:set
+Similarity:0.0
+Similarity with root:0.0
+
+498: sic
+From parent:set
+Similarity:0.0
+Similarity with root:0.0
+
+499: rig
+From parent:set
+Similarity:0.0
+Similarity with root:0.0
+
+500: lay out
+From parent:set
+Similarity:0.0
+Similarity with root:0.0
+
+501: correct
+From parent:set
+Similarity:0.0
+Similarity with root:0.0
+
+502: fructify
+From parent:set
+Similarity:0.0
+Similarity with root:0.0
+
+503: coif
+From parent:set
+Similarity:0.0
+Similarity with root:0.0
+
+504: coiffe
+From parent:set
+Similarity:0.0
+Similarity with root:0.0
+
+505: coiffure
+From parent:set
+Similarity:0.0
+Similarity with root:0.0
+
+506: repair
+From parent:fix
+Similarity:0.25
+Similarity with root:0.0
+
+507: mend
+From parent:fix
+Similarity:0.20833333
+Similarity with root:0.0
+
+508: bushel
+From parent:fix
+Similarity:0.0
+Similarity with root:0.0
+
+509: doctor
+From parent:fix
+Similarity:0.0
+Similarity with root:0.0
+
+510: furbish up
+From parent:fix
+Similarity:0.0
+Similarity with root:0.0
+
+511: restore
+From parent:fix
+Similarity:0.013157895
+Similarity with root:0.0
+
+512: fasten
+From parent:fix
+Similarity:0.13304093
+Similarity with root:0.0
+
+513: fixate
+From parent:fix
+Similarity:0.0
+Similarity with root:0.0
+
+514: sterilize
+From parent:fix
+Similarity:0.0
+Similarity with root:0.0
+
+515: sterilise
+From parent:fix
+Similarity:0.0
+Similarity with root:0.0
+
+516: desex
+From parent:fix
+Similarity:0.0
+Similarity with root:0.0
+
+517: unsex
+From parent:fix
+Similarity:0.0
+Similarity with root:0.0
+
+518: desexualize
+From parent:fix
+Similarity:0.0
+Similarity with root:0.0
+
+519: desexualise
+From parent:fix
+Similarity:0.0
+Similarity with root:0.0
+
+520: trammel
+From parent:limit
+Similarity:0.0
+Similarity with root:0.0
+
+521: throttle
+From parent:limit
+Similarity:0.51111114
+Similarity with root:0.0
+
+522: circumscribe
+From parent:limit
+Similarity:0.11666667
+Similarity with root:0.0
+
+523: speciate
+From parent:specialize
+Similarity:0.0
+Similarity with root:0.0
+
+524: pin up
+From parent:pin down
+Similarity:0.0
+Similarity with root:0.0
+
+525: peg
+From parent:peg down
+Similarity:0.0
+Similarity with root:0.0
+
+526: finalize
+From parent:nail down
+Similarity:0.0
+Similarity with root:0.0
+
+527: finalise
+From parent:nail down
+Similarity:0.0
+Similarity with root:0.0
+
+528: constringe
+From parent:narrow
+Similarity:0.0
+Similarity with root:0.0
+
+529: epitomize
+From parent:typify
+Similarity:1.0
+Similarity with root:0.0
+
+530: epitomise
+From parent:typify
+Similarity:0.0
+Similarity with root:0.0
+
+531: exemplify
+From parent:represent
+Similarity:0.03305785
+Similarity with root:0.0
+
+532: be
+From parent:represent
+Similarity:4.6773406E-4
+Similarity with root:0.0
+
+533: stage
+From parent:represent
+Similarity:0.0
+Similarity with root:0.0
+
+534: map
+From parent:represent
+Similarity:0.0
+Similarity with root:0.0
+
+535: equate
+From parent:correspond
+Similarity:0.03508772
+Similarity with root:0.0
+
+536: predicate
+From parent:connote
+Similarity:0.0
+Similarity with root:0.0
+
+537: impeach
+From parent:incriminate
+Similarity:0.0
+Similarity with root:0.0
+
+538: criminate
+From parent:incriminate
+Similarity:0.0
+Similarity with root:0.0
+
+539: transform
+From parent:translate
+Similarity:0.0
+Similarity with root:0.0
+
+540: commiserate
+From parent:sympathize
+Similarity:0.0
+Similarity with root:0.0
+
+541: accredit
+From parent:recognize
+Similarity:0.018691588
+Similarity with root:5.812565E-9
+
+542: greet
+From parent:recognize
+Similarity:0.011214953
+Similarity with root:3.487539E-9
+
+543: incarnate
+From parent:substantiate
+Similarity:0.0
+Similarity with root:0.0
+
+544: body forth
+From parent:substantiate
+Similarity:0.0
+Similarity with root:0.0
+
+545: embody
+From parent:substantiate
+Similarity:0.0
+Similarity with root:0.0
+
+546: profit
+From parent:gain
+Similarity:0.05645161
+Similarity with root:3.944835E-11
+
+547: benefit
+From parent:gain
+Similarity:0.07363254
+Similarity with root:5.145437E-11
+
+548: unclutter
+From parent:clear
+Similarity:0.0
+Similarity with root:0.0
+
+549: clear up
+From parent:clear
+Similarity:0.0
+Similarity with root:0.0
+
+550: light up
+From parent:clear
+Similarity:0.0
+Similarity with root:0.0
+
+551: brighten
+From parent:clear
+Similarity:0.0
+Similarity with root:0.0
+
+552: shed light on
+From parent:clear
+Similarity:0.03125
+Similarity with root:0.0
+
+553: crystallize
+From parent:clear
+Similarity:0.00625
+Similarity with root:0.0
+
+554: crystallise
+From parent:clear
+Similarity:0.0
+Similarity with root:0.0
+
+555: crystalize
+From parent:clear
+Similarity:0.0
+Similarity with root:0.0
+
+556: crystalise
+From parent:clear
+Similarity:0.0
+Similarity with root:0.0
+
+557: straighten out
+From parent:clear
+Similarity:0.0
+Similarity with root:0.0
+
+558: sort out
+From parent:clear
+Similarity:0.0125
+Similarity with root:0.0
+
+559: enlighten
+From parent:clear
+Similarity:0.0
+Similarity with root:0.0
+
+560: illuminate
+From parent:clear
+Similarity:0.011160715
+Similarity with root:0.0
+
+561: elucidate
+From parent:clear
+Similarity:0.0
+Similarity with root:0.0
+
+562: net
+From parent:clear
+Similarity:0.0
+Similarity with root:0.0
+
+563: sack
+From parent:clear
+Similarity:0.0
+Similarity with root:0.0
+
+564: sack up
+From parent:clear
+Similarity:0.0
+Similarity with root:0.0
+
+565: assoil
+From parent:clear
+Similarity:0.0
+Similarity with root:0.0
+
+566: discharge
+From parent:clear
+Similarity:0.0
+Similarity with root:0.0
+
+567: exonerate
+From parent:clear
+Similarity:0.0
+Similarity with root:0.0
+
+568: exculpate
+From parent:clear
+Similarity:0.0
+Similarity with root:0.0
+
+569: garner
+From parent:earn
+Similarity:0.44117647
+Similarity with root:1.0681475E-8
+
+570: move in
+From parent:pull in
+Similarity:0.0
+Similarity with root:0.0
+
+571: leap out
+From parent:stick out
+Similarity:0.0
+Similarity with root:0.0
+
+572: jump out
+From parent:stick out
+Similarity:0.0
+Similarity with root:0.0
+
+573: jump
+From parent:stick out
+Similarity:0.0
+Similarity with root:0.0
+
+574: stand out
+From parent:stick out
+Similarity:0.0
+Similarity with root:0.0
+
+575: pop
+From parent:protrude
+Similarity:0.0
+Similarity with root:0.0
+
+576: pop out
+From parent:protrude
+Similarity:0.0
+Similarity with root:0.0
+
+577: bulge
+From parent:protrude
+Similarity:0.0
+Similarity with root:0.0
+
+578: bulge out
+From parent:protrude
+Similarity:0.0
+Similarity with root:0.0
+
+579: bug out
+From parent:protrude
+Similarity:0.0
+Similarity with root:0.0
+
+580: pouch
+From parent:protrude
+Similarity:0.0
+Similarity with root:0.0
+
+581: be after
+From parent:plan
+Similarity:0.4888889
+Similarity with root:0.0
+
+582: suggest
+From parent:propose
+Similarity:0.20649058
+Similarity with root:0.0
+
+583: advise
+From parent:propose
+Similarity:0.07245283
+Similarity with root:0.0
+
+584: declare oneself
+From parent:propose
+Similarity:0.0
+Similarity with root:0.0
+
+585: pop the question
+From parent:propose
+Similarity:0.0
+Similarity with root:0.0
+
+586: hurl
+From parent:cast
+Similarity:0.035714287
+Similarity with root:0.0
+
+587: hurtle
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+588: shed
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+589: cast off
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+590: shake off
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+591: throw off
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+592: throw away
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+593: vomit
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+594: vomit up
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+595: purge
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+596: sick
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+597: cat
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+598: be sick
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+599: disgorge
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+600: regorge
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+601: retch
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+602: puke
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+603: barf
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+604: spew
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+605: spue
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+606: chuck
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+607: upchuck
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+608: honk
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+609: regurgitate
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+610: throw up
+From parent:cast
+Similarity:0.0
+Similarity with root:0.0
+
+611: thrust
+From parent:throw
+Similarity:0.0
+Similarity with root:0.0
+
+612: bemuse
+From parent:throw
+Similarity:0.0
+Similarity with root:0.0
+
+613: discombobulate
+From parent:throw
+Similarity:0.0
+Similarity with root:0.0
+
+614: confuse
+From parent:throw
+Similarity:0.0
+Similarity with root:0.0
+
+615: fox
+From parent:throw
+Similarity:0.0
+Similarity with root:0.0
+
+616: befuddle
+From parent:throw
+Similarity:0.0
+Similarity with root:0.0
+
+617: fuddle
+From parent:throw
+Similarity:0.0
+Similarity with root:0.0
+
+618: confound
+From parent:throw
+Similarity:0.0
+Similarity with root:0.0
+
+619: despatch
+From parent:send off
+Similarity:0.0
+Similarity with root:0.0
+
+620: exteriorize
+From parent:externalize
+Similarity:0.0
+Similarity with root:0.0
+
+621: exteriorise
+From parent:externalize
+Similarity:0.0
+Similarity with root:0.0
+
+622: objectify
+From parent:externalize
+Similarity:0.0
+Similarity with root:0.0
+
+623: portray
+From parent:depict
+Similarity:0.02857143
+Similarity with root:6.3093957E-9
+
+624: demo
+From parent:show
+Similarity:0.0
+Similarity with root:0.0
+
+625: exhibit
+From parent:show
+Similarity:0.043694463
+Similarity with root:1.7108152E-9
+
+626: demonstrate
+From parent:show
+Similarity:0.22565244
+Similarity with root:8.835206E-9
+
+627: shew
+From parent:show
+Similarity:0.0
+Similarity with root:0.0
+
+628: testify
+From parent:show
+Similarity:0.009625127
+Similarity with root:3.7686268E-10
+
+629: bear witness
+From parent:show
+Similarity:0.06737588
+Similarity with root:2.6380387E-9
+
+630: evince
+From parent:show
+Similarity:0.0
+Similarity with root:0.0
+
+631: display
+From parent:show
+Similarity:0.0026129154
+Similarity with root:1.0230622E-10
+
+632: show up
+From parent:show
+Similarity:0.008668243
+Similarity with root:3.3939682E-10
+
+633: usher
+From parent:show
+Similarity:0.0047281324
+Similarity with root:1.8512553E-10
+
+634: victimize
+From parent:con
+Similarity:0.0
+Similarity with root:0.0
+
+635: swindle
+From parent:con
+Similarity:1.0
+Similarity with root:0.0
+
+636: rook
+From parent:con
+Similarity:0.0
+Similarity with root:0.0
+
+637: goldbrick
+From parent:con
+Similarity:0.0
+Similarity with root:0.0
+
+638: nobble
+From parent:con
+Similarity:0.0
+Similarity with root:0.0
+
+639: bunco
+From parent:con
+Similarity:0.0
+Similarity with root:0.0
+
+640: defraud
+From parent:con
+Similarity:1.0
+Similarity with root:0.0
+
+641: scam
+From parent:con
+Similarity:0.0
+Similarity with root:0.0
+
+642: mulct
+From parent:con
+Similarity:0.0
+Similarity with root:0.0
+
+643: gyp
+From parent:con
+Similarity:0.0
+Similarity with root:0.0
+
+644: gip
+From parent:con
+Similarity:0.0
+Similarity with root:0.0
+
+645: hornswoggle
+From parent:con
+Similarity:0.0
+Similarity with root:0.0
+
+646: short-change
+From parent:con
+Similarity:0.0
+Similarity with root:0.0
+
+647: apprise
+From parent:instruct
+Similarity:0.0
+Similarity with root:0.0
+
+648: apprize
+From parent:instruct
+Similarity:0.0
+Similarity with root:0.0
+
+649: heed
+From parent:listen
+Similarity:0.040816326
+Similarity with root:0.0
+
+650: accumulate
+From parent:collect
+Similarity:0.16363636
+Similarity with root:3.1203E-11
+
+651: pile up
+From parent:collect
+Similarity:0.0
+Similarity with root:0.0
+
+652: amass
+From parent:collect
+Similarity:0.0
+Similarity with root:0.0
+
+653: compile
+From parent:collect
+Similarity:0.16363636
+Similarity with root:3.1203E-11
+
+654: hoard
+From parent:collect
+Similarity:0.0
+Similarity with root:0.0
+
+655: pull together
+From parent:collect
+Similarity:0.21818182
+Similarity with root:4.1603998E-11
+
+656: smash
+From parent:nail
+Similarity:0.04958678
+Similarity with root:2.8366367E-11
+
+657: boom
+From parent:nail
+Similarity:0.015151516
+Similarity with root:8.667501E-12
+
+658: blast
+From parent:nail
+Similarity:0.030303031
+Similarity with root:1.7335001E-11
+
+659: breeze through
+From parent:nail
+Similarity:0.0
+Similarity with root:0.0
+
+660: ace
+From parent:nail
+Similarity:0.0
+Similarity with root:0.0
+
+661: pass with flying colors
+From parent:nail
+Similarity:0.0
+Similarity with root:0.0
+
+662: sweep through
+From parent:nail
+Similarity:0.0
+Similarity with root:0.0
+
+663: sail through
+From parent:nail
+Similarity:0.0
+Similarity with root:0.0
+
+664: pinpoint
+From parent:nail
+Similarity:0.0
+Similarity with root:0.0
+
+665: quail at
+From parent:apprehend
+Similarity:0.0
+Similarity with root:0.0
+
+666: hook
+From parent:cop
+Similarity:0.0
+Similarity with root:0.0
+
+667: snitch
+From parent:cop
+Similarity:0.0
+Similarity with root:0.0
+
+668: thieve
+From parent:cop
+Similarity:0.0
+Similarity with root:0.0
+
+669: knock off
+From parent:cop
+Similarity:0.0
+Similarity with root:0.0
+
+670: glom
+From parent:cop
+Similarity:0.0
+Similarity with root:0.0
+
+671: soak
+From parent:intoxicate
+Similarity:0.0
+Similarity with root:0.0
+
+672: inebriate
+From parent:intoxicate
+Similarity:0.0
+Similarity with root:0.0
+
+673: swing around
+From parent:turn around
+Similarity:1.0
+Similarity with root:0.0
+
+674: swing about
+From parent:turn around
+Similarity:0.0
+Similarity with root:0.0
+
+675: pick
+From parent:peck
+Similarity:0.0
+Similarity with root:0.0
+
+676: beak
+From parent:peck
+Similarity:0.0
+Similarity with root:0.0
+
+677: smack
+From parent:peck
+Similarity:0.0
+Similarity with root:0.0
+
+678: pick at
+From parent:peck
+Similarity:0.0
+Similarity with root:0.0
+
+679: peck at
+From parent:peck
+Similarity:0.0
+Similarity with root:0.0
+
+680: nag
+From parent:peck
+Similarity:0.0
+Similarity with root:0.0
+
+681: hen-peck
+From parent:peck
+Similarity:0.0
+Similarity with root:0.0
+
+682: arouse
+From parent:perk up
+Similarity:0.0
+Similarity with root:0.0
+
+683: brace
+From parent:perk up
+Similarity:0.0
+Similarity with root:0.0
+
+684: energize
+From parent:perk up
+Similarity:0.0
+Similarity with root:0.0
+
+685: energise
+From parent:perk up
+Similarity:0.0
+Similarity with root:0.0
+
+686: leach
+From parent:percolate
+Similarity:0.0
+Similarity with root:0.0
+
+687: sink in
+From parent:percolate
+Similarity:0.0
+Similarity with root:0.0
+
+688: permeate
+From parent:percolate
+Similarity:0.0
+Similarity with root:0.0
+
+689: filter
+From parent:percolate
+Similarity:0.0
+Similarity with root:0.0
+
+690: enter upon
+From parent:come upon
+Similarity:0.0
+Similarity with root:0.0
+
+691: luck into
+From parent:come upon
+Similarity:0.09090909
+Similarity with root:1.6991673E-9
+
+692: undo
+From parent:unwrap
+Similarity:0.0
+Similarity with root:0.0
+
+693: uncover
+From parent:bring out
+Similarity:0.5538462
+Similarity with root:0.0
+
+694: unveil
+From parent:bring out
+Similarity:0.0
+Similarity with root:0.0
+
+695: publish
+From parent:bring out
+Similarity:0.018893389
+Similarity with root:0.0
+
+696: set off
+From parent:bring out
+Similarity:0.011834321
+Similarity with root:0.0
+
+697: bring on
+From parent:bring out
+Similarity:0.0
+Similarity with root:0.0
+
+698: queer
+From parent:expose
+Similarity:0.0
+Similarity with root:0.0
+
+699: scupper
+From parent:expose
+Similarity:0.0
+Similarity with root:0.0
+
+700: debunk
+From parent:expose
+Similarity:0.0
+Similarity with root:0.0
+
+701: interrupt
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+702: split up
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+703: fall apart
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+704: come apart
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+705: bust
+From parent:break
+Similarity:0.08080808
+Similarity with root:2.2375863E-11
+
+706: transgress
+From parent:break
+Similarity:0.060606062
+Similarity with root:1.6781899E-11
+
+707: offend
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+708: infract
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+709: violate
+From parent:break
+Similarity:0.033189036
+Similarity with root:9.190087E-12
+
+710: go against
+From parent:break
+Similarity:0.02020202
+Similarity with root:5.593966E-12
+
+711: breach
+From parent:break
+Similarity:0.030303031
+Similarity with root:8.390949E-12
+
+712: break out
+From parent:break
+Similarity:0.0073461896
+Similarity with root:2.0341695E-12
+
+713: break away
+From parent:break
+Similarity:0.016161617
+Similarity with root:4.475173E-12
+
+714: burst
+From parent:break
+Similarity:0.008570555
+Similarity with root:2.3731978E-12
+
+715: erupt
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+716: break off
+From parent:break
+Similarity:0.016161617
+Similarity with root:4.475173E-12
+
+717: discontinue
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+718: break in
+From parent:break
+Similarity:0.010101011
+Similarity with root:2.7969831E-12
+
+719: better
+From parent:break
+Similarity:0.006734007
+Similarity with root:1.8646553E-12
+
+720: fail
+From parent:break
+Similarity:5.6116725E-4
+Similarity with root:1.5538795E-13
+
+721: go bad
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+722: conk out
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+723: dampen
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+724: damp
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+725: weaken
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+726: part
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+727: split
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+728: bankrupt
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+729: ruin
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+730: break dance
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+731: break-dance
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+732: wear out
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+733: snap off
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+734: get around
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+735: pause
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+736: intermit
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+737: recrudesce
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+738: fracture
+From parent:break
+Similarity:0.0
+Similarity with root:0.0
+
+739: tell on
+From parent:give away
+Similarity:0.0
+Similarity with root:0.0
+
+740: rat
+From parent:give away
+Similarity:0.0
+Similarity with root:0.0
+
+741: grass
+From parent:give away
+Similarity:0.0
+Similarity with root:0.0
+
+742: shop
+From parent:give away
+Similarity:0.0
+Similarity with root:0.0
+
+743: stag
+From parent:give away
+Similarity:0.0
+Similarity with root:0.0
+
+744: utter
+From parent:let out
+Similarity:0.15
+Similarity with root:1.0279961E-9
+
+745: emit
+From parent:let out
+Similarity:0.0
+Similarity with root:0.0
+
+746: let loose
+From parent:let out
+Similarity:0.5
+Similarity with root:3.4266536E-9
+
+747: widen
+From parent:let out
+Similarity:0.0
+Similarity with root:0.0
+
+748: signalize
+From parent:distinguish
+Similarity:0.0
+Similarity with root:0.0
+
+749: signalise
+From parent:distinguish
+Similarity:0.0
+Similarity with root:0.0
+
+750: postdate
+From parent:follow
+Similarity:0.0
+Similarity with root:0.0
+
+751: travel along
+From parent:follow
+Similarity:0.07326008
+Similarity with root:4.0891176E-11
+
+752: comply
+From parent:follow
+Similarity:0.06593407
+Similarity with root:3.6802058E-11
+
+753: come after
+From parent:follow
+Similarity:0.062271062
+Similarity with root:3.47575E-11
+
+754: take after
+From parent:follow
+Similarity:0.0
+Similarity with root:0.0
+
+755: succeed
+From parent:follow
+Similarity:0.0021978023
+Similarity with root:1.2267353E-12
+
+756: play along
+From parent:follow
+Similarity:0.0
+Similarity with root:0.0
+
+757: accompany
+From parent:follow
+Similarity:3.434066E-4
+Similarity with root:1.9167738E-13
+
+758: keep up
+From parent:follow
+Similarity:4.309416E-4
+Similarity with root:2.4053632E-13
+
+759: keep abreast
+From parent:follow
+Similarity:0.0036630037
+Similarity with root:2.0445587E-12
+
+760: surveil
+From parent:follow
+Similarity:0.0
+Similarity with root:0.0
+
+761: survey
+From parent:follow
+Similarity:0.0
+Similarity with root:0.0
+
+762: stick to
+From parent:follow
+Similarity:0.0
+Similarity with root:0.0
+
+763: stick with
+From parent:follow
+Similarity:0.0
+Similarity with root:0.0
+
+764: snap up
+From parent:grab
+Similarity:0.125
+Similarity with root:1.1241857E-10
+
+765: snaffle
+From parent:grab
+Similarity:0.0
+Similarity with root:0.0
+
+766: appropriate
+From parent:capture
+Similarity:0.0052083335
+Similarity with root:1.3878836E-12
+
+767: conquer
+From parent:capture
+Similarity:0.008928572
+Similarity with root:2.3792292E-12
+
+768: limp
+From parent:hitch
+Similarity:0.1875
+Similarity with root:7.772148E-11
+
+769: gimp
+From parent:hitch
+Similarity:0.0
+Similarity with root:0.0
+
+770: hobble
+From parent:hitch
+Similarity:0.16666667
+Similarity with root:6.9085765E-11
+
+771: jerk
+From parent:hitch
+Similarity:0.0
+Similarity with root:0.0
+
+772: hitchhike
+From parent:hitch
+Similarity:0.0
+Similarity with root:0.0
+
+773: overwhelm
+From parent:overtake
+Similarity:0.083333336
+Similarity with root:9.869395E-12
+
+774: overpower
+From parent:overtake
+Similarity:0.05555556
+Similarity with root:6.579597E-12
+
+775: sweep over
+From parent:overtake
+Similarity:0.16666667
+Similarity with root:1.973879E-11
+
+776: whelm
+From parent:overtake
+Similarity:0.0
+Similarity with root:0.0
+
+777: overcome
+From parent:overtake
+Similarity:0.041666668
+Similarity with root:4.9346976E-12
+
+778: trip
+From parent:trip up
+Similarity:0.0
+Similarity with root:0.0
+
+779: stumble
+From parent:trip up
+Similarity:0.0
+Similarity with root:0.0
+
+780: slip up
+From parent:trip up
+Similarity:0.0
+Similarity with root:0.0
+
+781: juggle
+From parent:beguile
+Similarity:0.0
+Similarity with root:0.0
+
+782: hoodwink
+From parent:beguile
+Similarity:0.0
+Similarity with root:0.0
+
+783: tempt
+From parent:charm
+Similarity:0.0
+Similarity with root:0.0
+
+784: intrigue
+From parent:fascinate
+Similarity:0.5
+Similarity with root:0.0
+
+785: transfix
+From parent:fascinate
+Similarity:0.5
+Similarity with root:0.0
+
+786: spellbind
+From parent:fascinate
+Similarity:0.0
+Similarity with root:0.0
+
+787: magnetize
+From parent:bewitch
+Similarity:0.0
+Similarity with root:0.0
+
+788: mesmerize
+From parent:bewitch
+Similarity:0.0
+Similarity with root:0.0
+
+789: mesmerise
+From parent:bewitch
+Similarity:0.0
+Similarity with root:0.0
+
+790: magnetise
+From parent:bewitch
+Similarity:0.0
+Similarity with root:0.0
+
+791: hex
+From parent:bewitch
+Similarity:0.0
+Similarity with root:0.0
+
+792: glamour
+From parent:bewitch
+Similarity:0.0
+Similarity with root:0.0
+
+793: witch
+From parent:bewitch
+Similarity:0.0
+Similarity with root:0.0
+
+794: jinx
+From parent:bewitch
+Similarity:0.0
+Similarity with root:0.0
+
+795: enrapture
+From parent:enchant
+Similarity:0.0
+Similarity with root:0.0
+
+796: enthrall
+From parent:enchant
+Similarity:1.0
+Similarity with root:0.0
+
+797: ravish
+From parent:enchant
+Similarity:0.0
+Similarity with root:0.0
+
+798: enthral
+From parent:enchant
+Similarity:0.0
+Similarity with root:0.0
+
+799: delight
+From parent:enchant
+Similarity:0.0
+Similarity with root:0.0
+
+800: horse around
+From parent:fool
+Similarity:0.0
+Similarity with root:0.0
+
+801: arse around
+From parent:fool
+Similarity:0.0
+Similarity with root:0.0
+
+802: fool around
+From parent:fool
+Similarity:0.0
+Similarity with root:0.0
+
+803: steep
+From parent:absorb
+Similarity:0.03448276
+Similarity with root:5.074935E-11
+
+804: engulf
+From parent:absorb
+Similarity:0.020689655
+Similarity with root:3.044961E-11
+
+805: plunge
+From parent:absorb
+Similarity:0.0
+Similarity with root:0.0
+
+806: ask for
+From parent:invite
+Similarity:0.21875
+Similarity with root:0.0
+
+807: ask over
+From parent:invite
+Similarity:0.0
+Similarity with root:0.0
+
+808: ask round
+From parent:invite
+Similarity:0.0
+Similarity with root:0.0
+
+809: pay for
+From parent:invite
+Similarity:0.0
+Similarity with root:0.0
+
+810: ask in
+From parent:invite
+Similarity:0.0
+Similarity with root:0.0
+
+811: breastfeed
+From parent:suck
+Similarity:0.0
+Similarity with root:0.0
+
+812: bottle-feed
+From parent:suck
+Similarity:0.0
+Similarity with root:0.0
+
+813: suckle
+From parent:suck
+Similarity:0.0
+Similarity with root:0.0
+
+814: wet-nurse
+From parent:suck
+Similarity:0.0
+Similarity with root:0.0
+
+815: lactate
+From parent:suck
+Similarity:0.0
+Similarity with root:0.0
+
+816: give suck
+From parent:suck
+Similarity:0.0
+Similarity with root:0.0
+
+817: drink
+From parent:imbibe
+Similarity:0.0
+Similarity with root:0.0
+
+818: cozy up
+From parent:suck up
+Similarity:0.0
+Similarity with root:0.0
+
+819: cotton up
+From parent:suck up
+Similarity:0.0
+Similarity with root:0.0
+
+820: shine up
+From parent:suck up
+Similarity:0.0
+Similarity with root:0.0
+
+821: play up
+From parent:suck up
+Similarity:0.0
+Similarity with root:0.0
+
+822: sidle up
+From parent:suck up
+Similarity:0.0
+Similarity with root:0.0
+
+823: fawn
+From parent:suck up
+Similarity:0.0
+Similarity with root:0.0
+
+824: toady
+From parent:suck up
+Similarity:0.0
+Similarity with root:0.0
+
+825: truckle
+From parent:suck up
+Similarity:0.0
+Similarity with root:0.0
+
+826: bootlick
+From parent:suck up
+Similarity:0.0
+Similarity with root:0.0
+
+827: kowtow
+From parent:suck up
+Similarity:0.0
+Similarity with root:0.0
+
+828: kotow
+From parent:suck up
+Similarity:0.0
+Similarity with root:0.0
+
+829: model
+From parent:mold
+Similarity:0.26666668
+Similarity with root:0.0
+
+830: mildew
+From parent:mold
+Similarity:0.0
+Similarity with root:0.0
+
+831: modulate
+From parent:regulate
+Similarity:0.0
+Similarity with root:0.0
+
+832: settle down
+From parent:settle
+Similarity:0.1388889
+Similarity with root:0.0
+
+833: patch up
+From parent:settle
+Similarity:0.0
+Similarity with root:0.0
+
+834: conciliate
+From parent:settle
+Similarity:0.0
+Similarity with root:0.0
+
+835: take root
+From parent:settle
+Similarity:0.046875
+Similarity with root:0.0
+
+836: steady down
+From parent:settle
+Similarity:0.0
+Similarity with root:0.0
+
+837: subside
+From parent:settle
+Similarity:0.0
+Similarity with root:0.0
+
+838: ensconce
+From parent:settle
+Similarity:0.0
+Similarity with root:0.0
+
+839: square
+From parent:square up
+Similarity:0.4
+Similarity with root:0.0
+
+840: jog
+From parent:square up
+Similarity:0.0
+Similarity with root:0.0
+
+841: even up
+From parent:square up
+Similarity:0.0
+Similarity with root:0.0
+
+842: investigate
+From parent:look into
+Similarity:0.46551722
+Similarity with root:5.919589E-9
+
+843: run down
+From parent:check out
+Similarity:0.0
+Similarity with root:0.0
+
+844: cheque
+From parent:check out
+Similarity:0.0
+Similarity with root:0.0
+
+845: review
+From parent:go over
+Similarity:0.06
+Similarity with root:6.103754E-10
+
+846: go off
+From parent:go over
+Similarity:0.0
+Similarity with root:0.0
+
+847: come off
+From parent:go over
+Similarity:0.06666667
+Similarity with root:6.7819494E-10
+
+848: fall over
+From parent:go over
+Similarity:0.1
+Similarity with root:1.0172924E-9
+
+849: enclose
+From parent:hold in
+Similarity:0.16666667
+Similarity with root:7.56914E-10
+
+850: conceal
+From parent:hold in
+Similarity:0.0
+Similarity with root:0.0
+
+851: suppress
+From parent:curb
+Similarity:0.33333334
+Similarity with root:1.513828E-9
+
+852: stamp down
+From parent:curb
+Similarity:0.5
+Similarity with root:2.2707418E-9
+
+853: inhibit
+From parent:curb
+Similarity:0.42857143
+Similarity with root:1.9463502E-9
+
+854: subdue
+From parent:curb
+Similarity:0.25
+Similarity with root:1.1353709E-9
+
+855: curtail
+From parent:curb
+Similarity:0.0
+Similarity with root:0.0
+
+856: cut back
+From parent:curb
+Similarity:0.0
+Similarity with root:0.0
+
+857: mince
+From parent:moderate
+Similarity:0.0
+Similarity with root:0.0
+
+858: tone down
+From parent:moderate
+Similarity:0.0
+Similarity with root:0.0
+
+859: chasten
+From parent:moderate
+Similarity:0.0
+Similarity with root:0.0
+
+860: temper
+From parent:moderate
+Similarity:0.0
+Similarity with root:0.0
+
+861: mark out
+From parent:mark off
+Similarity:0.0
+Similarity with root:0.0
+
+862: click
+From parent:tick
+Similarity:0.06666667
+Similarity with root:0.0
+
+863: ticktock
+From parent:tick
+Similarity:0.0
+Similarity with root:0.0
+
+864: ticktack
+From parent:tick
+Similarity:0.0
+Similarity with root:0.0
+
+865: retick
+From parent:tick
+Similarity:0.0
+Similarity with root:0.0
+
+866: decelerate
+From parent:retard
+Similarity:0.0
+Similarity with root:0.0
+
+867: slow
+From parent:retard
+Similarity:0.0
+Similarity with root:0.0
+
+868: slow down
+From parent:retard
+Similarity:0.0
+Similarity with root:0.0
+
+869: slow up
+From parent:retard
+Similarity:0.0
+Similarity with root:0.0
+
+870: detain
+From parent:delay
+Similarity:0.0
+Similarity with root:0.0
+
+871: stay
+From parent:delay
+Similarity:0.0042694495
+Similarity with root:0.0
+
+872: mate
+From parent:match
+Similarity:0.017441861
+Similarity with root:0.0
+
+873: couple
+From parent:match
+Similarity:0.08720931
+Similarity with root:0.0
+
+874: pair
+From parent:match
+Similarity:0.055813957
+Similarity with root:0.0
+
+875: twin
+From parent:match
+Similarity:0.0
+Similarity with root:0.0
+
+876: equal
+From parent:match
+Similarity:0.0068399454
+Similarity with root:0.0
+
+877: rival
+From parent:match
+Similarity:0.11627907
+Similarity with root:0.0
+
+878: oppose
+From parent:match
+Similarity:0.0
+Similarity with root:0.0
+
+879: play off
+From parent:match
+Similarity:0.0
+Similarity with root:0.0
+
+880: equalize
+From parent:match
+Similarity:0.0
+Similarity with root:0.0
+
+881: equalise
+From parent:match
+Similarity:0.0
+Similarity with root:0.0
+
+882: suit
+From parent:fit
+Similarity:0.20940173
+Similarity with root:0.0
+
+883: equip
+From parent:fit
+Similarity:0.017628206
+Similarity with root:0.0
+
+884: fit out
+From parent:fit
+Similarity:0.01923077
+Similarity with root:0.0
+
+885: outfit
+From parent:fit
+Similarity:0.0
+Similarity with root:0.0
+
+886: gybe
+From parent:jibe
+Similarity:0.0
+Similarity with root:0.0
+
+887: jib
+From parent:jibe
+Similarity:0.0
+Similarity with root:0.0
+
+888: change course
+From parent:jibe
+Similarity:0.0
+Similarity with root:0.0
+
+889: jeer
+From parent:gibe
+Similarity:0.0
+Similarity with root:0.0
+
+890: scoff
+From parent:gibe
+Similarity:0.0
+Similarity with root:0.0
+
+891: flout
+From parent:gibe
+Similarity:0.0
+Similarity with root:0.0
+
+892: barrack
+From parent:gibe
+Similarity:0.0
+Similarity with root:0.0
+
+893: rack up
+From parent:tally
+Similarity:0.0
+Similarity with root:0.0
+
+894: chalk up
+From parent:tally
+Similarity:0.0
+Similarity with root:0.0
+
+895: tot
+From parent:tally
+Similarity:0.0
+Similarity with root:0.0
+
+896: tot up
+From parent:tally
+Similarity:0.0
+Similarity with root:0.0
+
+897: sum
+From parent:tally
+Similarity:0.0
+Similarity with root:0.0
+
+898: sum up
+From parent:tally
+Similarity:0.0
+Similarity with root:0.0
+
+899: summate
+From parent:tally
+Similarity:0.0
+Similarity with root:0.0
+
+900: tote up
+From parent:tally
+Similarity:0.0
+Similarity with root:0.0
+
+901: add together
+From parent:tally
+Similarity:0.0
+Similarity with root:0.0
+
+902: harmonize
+From parent:agree
+Similarity:0.0
+Similarity with root:0.0
+
+903: harmonise
+From parent:agree
+Similarity:0.0
+Similarity with root:0.0
+
+904: consort
+From parent:agree
+Similarity:0.0
+Similarity with root:0.0
+
+905: fit in
+From parent:agree
+Similarity:0.010752688
+Similarity with root:0.0
+
+906: cease
+From parent:stop
+Similarity:0.27825055
+Similarity with root:0.0
+
+907: quit
+From parent:stop
+Similarity:0.3006135
+Similarity with root:0.0
+
+908: lay off
+From parent:stop
+Similarity:0.2576687
+Similarity with root:0.0
+
+909: block
+From parent:stop
+Similarity:0.012781187
+Similarity with root:0.0
+
+910: kibosh
+From parent:stop
+Similarity:0.0
+Similarity with root:0.0
+
+911: stop over
+From parent:stop
+Similarity:0.0
+Similarity with root:0.0
+
+912: intercept
+From parent:stop
+Similarity:0.012269938
+Similarity with root:0.0
+
+913: end
+From parent:stop
+Similarity:0.0035342756
+Similarity with root:0.0
+
+914: finish
+From parent:stop
+Similarity:7.1130076E-4
+Similarity with root:0.0
+
+915: terminate
+From parent:stop
+Similarity:0.0012269939
+Similarity with root:0.0
+
+916: barricade
+From parent:stop
+Similarity:0.0
+Similarity with root:0.0
+
+917: blockade
+From parent:stop
+Similarity:0.0
+Similarity with root:0.0
+
+918: block off
+From parent:stop
+Similarity:0.0
+Similarity with root:0.0
+
+919: block up
+From parent:stop
+Similarity:0.0
+Similarity with root:0.0
+
+920: bar
+From parent:stop
+Similarity:0.0
+Similarity with root:0.0
+
+921: hold on
+From parent:stop
+Similarity:0.0
+Similarity with root:0.0
+
+922: forbear
+From parent:hold back
+Similarity:0.0
+Similarity with root:0.0
+
+923: tinkle
+From parent:chink
+Similarity:0.0
+Similarity with root:0.0
+
+924: tink
+From parent:chink
+Similarity:0.0
+Similarity with root:0.0
+
+925: clink
+From parent:chink
+Similarity:0.0
+Similarity with root:0.0
+
+926: break through
+From parent:crack
+Similarity:0.083333336
+Similarity with root:0.0
+
+927: crack up
+From parent:crack
+Similarity:0.0
+Similarity with root:0.0
+
+928: crock up
+From parent:crack
+Similarity:0.0
+Similarity with root:0.0
+
+929: collaborate
+From parent:get together
+Similarity:0.33333334
+Similarity with root:3.3250405E-9
+
+930: join forces
+From parent:get together
+Similarity:0.33333334
+Similarity with root:3.3250405E-9
+
+931: cooperate
+From parent:get together
+Similarity:0.33333334
+Similarity with root:3.3250405E-9
+
+932: join
+From parent:get together
+Similarity:0.0
+Similarity with root:0.0
+
+933: live up to
+From parent:satisfy
+Similarity:0.44827586
+Similarity with root:2.2398605E-9
+
+934: gratify
+From parent:satisfy
+Similarity:0.27586207
+Similarity with root:1.3783757E-9
+
+935: carry through
+From parent:fulfill
+Similarity:0.625
+Similarity with root:2.1225843E-9
+
+936: execute
+From parent:fulfill
+Similarity:0.15625
+Similarity with root:5.306461E-10
+
+937: action
+From parent:fulfill
+Similarity:0.0
+Similarity with root:0.0
+
+938: cumulate
+From parent:gather
+Similarity:0.0
+Similarity with root:0.0
+
+939: conglomerate
+From parent:gather
+Similarity:0.0
+Similarity with root:0.0
+
+940: pucker
+From parent:gather
+Similarity:0.0
+Similarity with root:0.0
+
+941: tuck
+From parent:gather
+Similarity:0.0
+Similarity with root:0.0
+
+942: piece
+From parent:assemble
+Similarity:0.0
+Similarity with root:0.0
+
+943: put together
+From parent:assemble
+Similarity:0.51724136
+Similarity with root:2.5563627E-9
+
+944: tack together
+From parent:assemble
+Similarity:0.0
+Similarity with root:0.0
+
+945: hurt
+From parent:suffer
+Similarity:0.0
+Similarity with root:0.0
+
+946: ache
+From parent:suffer
+Similarity:0.005514706
+Similarity with root:1.915978E-13
+
+947: stir
+From parent:touch
+Similarity:0.0025641029
+Similarity with root:3.028883E-13
+
+948: pertain
+From parent:touch
+Similarity:0.044999998
+Similarity with root:5.315689E-12
+
+949: relate
+From parent:touch
+Similarity:0.012162163
+Similarity with root:1.4366728E-12
+
+950: allude
+From parent:touch
+Similarity:0.0
+Similarity with root:0.0
+
+951: tint
+From parent:touch
+Similarity:0.0
+Similarity with root:0.0
+
+952: tinct
+From parent:touch
+Similarity:0.0
+Similarity with root:0.0
+
+953: tinge
+From parent:touch
+Similarity:0.0
+Similarity with root:0.0
+
+954: edge
+From parent:adjoin
+Similarity:0.0
+Similarity with root:0.0
+
+955: abut
+From parent:adjoin
+Similarity:0.0
+Similarity with root:0.0
+
+956: march
+From parent:adjoin
+Similarity:0.0
+Similarity with root:0.0
+
+957: butt
+From parent:adjoin
+Similarity:0.5
+Similarity with root:0.0
+
+958: butt on
+From parent:adjoin
+Similarity:0.0
+Similarity with root:0.0
+
+959: vibrate
+From parent:resonate
+Similarity:0.0
+Similarity with root:0.0
+
+960: vouch
+From parent:guarantee
+Similarity:0.0
+Similarity with root:0.0
+
+961: warrant
+From parent:guarantee
+Similarity:0.0
+Similarity with root:0.0
+
+962: procure
+From parent:secure
+Similarity:0.7407407
+Similarity with root:3.82915E-9
+
+963: plug
+From parent:secure
+Similarity:0.0
+Similarity with root:0.0
+
+964: stop up
+From parent:secure
+Similarity:0.0
+Similarity with root:0.0
+
+965: batten
+From parent:secure
+Similarity:0.0
+Similarity with root:0.0
+
+966: batten down
+From parent:secure
+Similarity:0.0
+Similarity with root:0.0
+
+967: subvention
+From parent:underwrite
+Similarity:0.0
+Similarity with root:0.0
+
+968: subvent
+From parent:underwrite
+Similarity:0.0
+Similarity with root:0.0
+
+969: overlook
+From parent:command
+Similarity:0.0
+Similarity with root:0.0
+
+970: overtop
+From parent:command
+Similarity:0.0
+Similarity with root:0.0
+
+971: operate on
+From parent:operate
+Similarity:0.0
+Similarity with root:0.0
+
+972: pull strings
+From parent:manipulate
+Similarity:0.0
+Similarity with root:0.0
+
+973: pull wires
+From parent:manipulate
+Similarity:0.0
+Similarity with root:0.0
+
+974: fudge
+From parent:manipulate
+Similarity:0.0
+Similarity with root:0.0
+
+975: fake
+From parent:manipulate
+Similarity:0.0
+Similarity with root:0.0
+
+976: falsify
+From parent:manipulate
+Similarity:0.0
+Similarity with root:0.0
+
+977: misrepresent
+From parent:manipulate
+Similarity:0.0
+Similarity with root:0.0
+
+978: get the hang
+From parent:master
+Similarity:0.0
+Similarity with root:0.0
+
+979: surmount
+From parent:master
+Similarity:0.19047621
+Similarity with root:0.0
+
+980: audit
+From parent:inspect
+Similarity:0.0
+Similarity with root:0.0
+
+981: scrutinize
+From parent:inspect
+Similarity:0.0
+Similarity with root:0.0
+
+982: scrutinise
+From parent:inspect
+Similarity:0.0
+Similarity with root:0.0
+
+983: lower
+From parent:bring down
+Similarity:0.3692308
+Similarity with root:3.4892647E-10
+
+984: take down
+From parent:bring down
+Similarity:0.6
+Similarity with root:5.6700544E-10
+
+985: let down
+From parent:bring down
+Similarity:0.6
+Similarity with root:5.6700544E-10
+
+986: cut down
+From parent:bring down
+Similarity:0.0
+Similarity with root:0.0
+
+987: trim
+From parent:bring down
+Similarity:0.0
+Similarity with root:0.0
+
+988: trim down
+From parent:bring down
+Similarity:0.0
+Similarity with root:0.0
+
+989: trim back
+From parent:bring down
+Similarity:0.0
+Similarity with root:0.0
+
+990: enforce
+From parent:impose
+Similarity:0.16695651
+Similarity with root:2.4009303E-10
+
+991: levy
+From parent:impose
+Similarity:0.17391305
+Similarity with root:2.5009692E-10
+
+992: confer
+From parent:confabulate
+Similarity:0.0
+Similarity with root:0.0
+
+993: consult
+From parent:confabulate
+Similarity:0.0
+Similarity with root:0.0
+
+994: piffle
+From parent:chatter
+Similarity:0.0
+Similarity with root:0.0
+
+995: palaver
+From parent:chatter
+Similarity:0.0
+Similarity with root:0.0
+
+996: prate
+From parent:chatter
+Similarity:0.0
+Similarity with root:0.0
+
+997: tittle-tattle
+From parent:chatter
+Similarity:0.0
+Similarity with root:0.0
+
+998: twaddle
+From parent:chatter
+Similarity:0.0
+Similarity with root:0.0
+
+999: clack
+From parent:chatter
+Similarity:0.0
+Similarity with root:0.0
+
+1000: maunder
+From parent:chatter
+Similarity:0.0
+Similarity with root:0.0
+
+1001: prattle
+From parent:chatter
+Similarity:0.25
+Similarity with root:9.8438445E-11
+
+1002: blab
+From parent:chatter
+Similarity:0.0
+Similarity with root:0.0
+
+1003: gibber
+From parent:chatter
+Similarity:0.0
+Similarity with root:0.0
+
+1004: tattle
+From parent:chatter
+Similarity:0.0
+Similarity with root:0.0
+
+1005: blabber
+From parent:chatter
+Similarity:0.0
+Similarity with root:0.0
+
+1006: gabble
+From parent:chatter
+Similarity:0.25
+Similarity with root:9.8438445E-11
+
+1007: haggle
+From parent:chaffer
+Similarity:0.0
+Similarity with root:0.0
+
+1008: higgle
+From parent:chaffer
+Similarity:0.0
+Similarity with root:0.0
+
+1009: huckster
+From parent:chaffer
+Similarity:0.0
+Similarity with root:0.0
+
+1010: dish the dirt
+From parent:gossip
+Similarity:0.0
+Similarity with root:0.0
+
+1011: yack
+From parent:jaw
+Similarity:0.0
+Similarity with root:0.0
+
+1012: yack away
+From parent:jaw
+Similarity:0.0
+Similarity with root:0.0
+
+1013: rattle on
+From parent:jaw
+Similarity:0.0
+Similarity with root:0.0
+
+1014: yap away
+From parent:jaw
+Similarity:0.0
+Similarity with root:0.0
+
+1015: chew
+From parent:jaw
+Similarity:0.0
+Similarity with root:0.0
+
+1016: masticate
+From parent:jaw
+Similarity:0.0
+Similarity with root:0.0
+
+1017: manducate
+From parent:jaw
+Similarity:0.0
+Similarity with root:0.0
+
+1018: service
+From parent:serve
+Similarity:0.080607474
+Similarity with root:6.599435E-14
+
+1019: help
+From parent:serve
+Similarity:3.7924963E-4
+Similarity with root:3.1049644E-16
+
+1020: serve well
+From parent:serve
+Similarity:0.0
+Similarity with root:0.0
+
+1021: swear out
+From parent:serve
+Similarity:0.014018691
+Similarity with root:1.1477279E-14
+
+1022: suffice
+From parent:serve
+Similarity:0.0
+Similarity with root:0.0
+
+1023: answer
+From parent:serve
+Similarity:0.0
+Similarity with root:0.0
+
+1024: take to heart
+From parent:attend to
+Similarity:1.0
+Similarity with root:0.0
+
+1025: aid
+From parent:assist
+Similarity:0.8172973
+Similarity with root:0.0
+
+1026: hang up
+From parent:hang
+Similarity:0.04054054
+Similarity with root:3.1994976E-14
+
+1027: string up
+From parent:hang
+Similarity:0.0
+Similarity with root:0.0
+
+1028: cling
+From parent:hang
+Similarity:0.0016891892
+Similarity with root:1.3331241E-15
+
+1029: beware
+From parent:mind
+Similarity:0.0
+Similarity with root:0.0
+
+1030: bear in mind
+From parent:mind
+Similarity:0.0
+Similarity with root:0.0
+
+1031: dig into
+From parent:probe
+Similarity:0.22222222
+Similarity with root:0.0
+
+1032: poke into
+From parent:probe
+Similarity:0.0
+Similarity with root:0.0
+
+1033: screen
+From parent:test
+Similarity:0.09
+Similarity with root:0.0
+
+1034: quiz
+From parent:test
+Similarity:0.0
+Similarity with root:0.0
+
+1035: turn up
+From parent:prove
+Similarity:0.0
+Similarity with root:0.0
+
+1036: leaven
+From parent:prove
+Similarity:0.0
+Similarity with root:0.0
+
+1037: experiment
+From parent:try out
+Similarity:0.0
+Similarity with root:0.0
+
+1038: audition
+From parent:try out
+Similarity:0.0
+Similarity with root:0.0
+
+1039: cognize
+From parent:know
+Similarity:0.0
+Similarity with root:0.0
+
+1040: cognise
+From parent:know
+Similarity:0.0
+Similarity with root:0.0
+
+1041: dwell
+From parent:live
+Similarity:0.16219513
+Similarity with root:0.0
+
+1042: survive
+From parent:live
+Similarity:0.08376448
+Similarity with root:0.0
+
+1043: last
+From parent:live
+Similarity:0.032833025
+Similarity with root:0.0
+
+1044: live on
+From parent:live
+Similarity:0.0
+Similarity with root:0.0
+
+1045: hold out
+From parent:live
+Similarity:0.0
+Similarity with root:0.0
+
+1046: exist
+From parent:live
+Similarity:0.0027559598
+Similarity with root:0.0
+
+1047: subsist
+From parent:live
+Similarity:0.06504065
+Similarity with root:0.0
+
+1048: guttle
+From parent:devour
+Similarity:0.0
+Similarity with root:0.0
+
+1049: raven
+From parent:devour
+Similarity:0.0
+Similarity with root:0.0
+
+1050: pig
+From parent:devour
+Similarity:0.0
+Similarity with root:0.0
+
+1051: toss off
+From parent:down
+Similarity:0.0
+Similarity with root:0.0
+
+1052: bolt down
+From parent:down
+Similarity:0.0
+Similarity with root:0.0
+
+1053: belt down
+From parent:down
+Similarity:0.0
+Similarity with root:0.0
+
+1054: pour down
+From parent:down
+Similarity:0.0
+Similarity with root:0.0
+
+1055: drink down
+From parent:down
+Similarity:0.0
+Similarity with root:0.0
+
+1056: kill
+From parent:down
+Similarity:0.0
+Similarity with root:0.0
+
+1057: knock down
+From parent:down
+Similarity:0.0
+Similarity with root:0.0
+
+1058: push down
+From parent:down
+Similarity:0.0
+Similarity with root:0.0
+
+1059: pull down
+From parent:down
+Similarity:0.0
+Similarity with root:0.0
+
+1060: fine-tune
+From parent:down
+Similarity:0.0
+Similarity with root:0.0
+
+1061: counsel
+From parent:rede
+Similarity:0.0
+Similarity with root:0.0
+
+1062: ingrain
+From parent:impress
+Similarity:0.0
+Similarity with root:0.0
+
+1063: instill
+From parent:impress
+Similarity:0.0
+Similarity with root:0.0
+
+1064: imprint
+From parent:impress
+Similarity:0.0
+Similarity with root:0.0
+
+1065: print
+From parent:impress
+Similarity:0.0
+Similarity with root:0.0
+
+1066: shanghai
+From parent:impress
+Similarity:0.0
+Similarity with root:0.0
+
+1067: yarn-dye
+From parent:impress
+Similarity:0.0
+Similarity with root:0.0
+
+1068: travel
+From parent:move
+Similarity:0.30285382
+Similarity with root:0.0
+
+1069: locomote
+From parent:move
+Similarity:0.0
+Similarity with root:0.0
+
+1070: be active
+From parent:move
+Similarity:0.0
+Similarity with root:0.0
+
+1071: motivate
+From parent:move
+Similarity:0.00990099
+Similarity with root:0.0
+
+1072: actuate
+From parent:move
+Similarity:0.0
+Similarity with root:0.0
+
+1073: propel
+From parent:move
+Similarity:0.0
+Similarity with root:0.0
+
+1074: prompt
+From parent:move
+Similarity:0.0081008095
+Similarity with root:0.0
+
+1075: incite
+From parent:move
+Similarity:0.004950495
+Similarity with root:0.0
+
+1076: make a motion
+From parent:move
+Similarity:0.0
+Similarity with root:0.0
+
+1077: crush
+From parent:break down
+Similarity:0.0
+Similarity with root:0.0
+
+1078: lose it
+From parent:break down
+Similarity:0.0
+Similarity with root:0.0
+
+1079: decompose
+From parent:break down
+Similarity:0.13333334
+Similarity with root:1.2490625E-7
+
+1080: crumble
+From parent:break down
+Similarity:0.06666667
+Similarity with root:6.2453125E-8
+
+1081: crumple
+From parent:break down
+Similarity:0.06666667
+Similarity with root:6.2453125E-8
+
+1082: tumble
+From parent:break down
+Similarity:0.004166667
+Similarity with root:3.9033203E-9
+
+1083: disassemble
+From parent:take apart
+Similarity:0.5
+Similarity with root:0.0
+
+1084: dismantle
+From parent:take apart
+Similarity:0.0
+Similarity with root:0.0
+
+1085: break apart
+From parent:take apart
+Similarity:0.0
+Similarity with root:0.0
+
+1086: dismember
+From parent:take apart
+Similarity:0.0
+Similarity with root:0.0
+
+1087: discerp
+From parent:take apart
+Similarity:0.0
+Similarity with root:0.0
+
+1088: pollard
+From parent:poll
+Similarity:0.0
+Similarity with root:0.0
+
+1089: skim
+From parent:scan
+Similarity:0.0
+Similarity with root:0.0
+
+1090: rake
+From parent:scan
+Similarity:0.0
+Similarity with root:0.0
+
+1091: glance over
+From parent:scan
+Similarity:0.0
+Similarity with root:0.0
+
+1092: cross-file
+From parent:register
+Similarity:0.0
+Similarity with root:0.0
+
+1093: shack
+From parent:reside
+Similarity:0.0
+Similarity with root:0.0
+
+1094: domicile
+From parent:reside
+Similarity:0.0
+Similarity with root:0.0
+
+1095: domiciliate
+From parent:reside
+Similarity:0.0
+Similarity with root:0.0
+
+1096: rest
+From parent:reside
+Similarity:0.0
+Similarity with root:0.0
+
+1097: repose
+From parent:reside
+Similarity:0.0
+Similarity with root:0.0
+
+1098: matter to
+From parent:interest
+Similarity:0.125
+Similarity with root:6.621263E-11
+
+1099: intrude on
+From parent:invade
+Similarity:0.0
+Similarity with root:0.0
+
+1100: obtrude upon
+From parent:invade
+Similarity:0.36363637
+Similarity with root:4.9030185E-10
+
+1101: encroach upon
+From parent:invade
+Similarity:0.36363637
+Similarity with root:4.9030185E-10
+
+1102: overrun
+From parent:invade
+Similarity:0.0
+Similarity with root:0.0
+
+1103: infest
+From parent:invade
+Similarity:0.0
+Similarity with root:0.0
+
+1104: eat on
+From parent:eat
+Similarity:0.00882353
+Similarity with root:0.0
+
+1105: corrode
+From parent:eat
+Similarity:0.0014705883
+Similarity with root:0.0
+
+1106: rust
+From parent:eat
+Similarity:0.0
+Similarity with root:0.0
+
+1107: wash up
+From parent:exhaust
+Similarity:0.0
+Similarity with root:0.0
+
+1108: tucker
+From parent:exhaust
+Similarity:0.0
+Similarity with root:0.0
+
+1109: tucker out
+From parent:exhaust
+Similarity:0.0
+Similarity with root:0.0
+
+1110: play out
+From parent:exhaust
+Similarity:0.0
+Similarity with root:0.0
+
+1111: sap
+From parent:exhaust
+Similarity:0.125
+Similarity with root:0.0
+
+1112: tire
+From parent:exhaust
+Similarity:0.0
+Similarity with root:0.0
+
+1113: evacuate
+From parent:exhaust
+Similarity:0.0
+Similarity with root:0.0
+
+1114: annihilate
+From parent:wipe out
+Similarity:0.5
+Similarity with root:0.0
+
+1115: extinguish
+From parent:wipe out
+Similarity:0.0
+Similarity with root:0.0
+
+1116: eradicate
+From parent:wipe out
+Similarity:0.5
+Similarity with root:0.0
+
+1117: decimate
+From parent:wipe out
+Similarity:0.0
+Similarity with root:0.0
+
+1118: sweep away
+From parent:wipe out
+Similarity:0.0
+Similarity with root:0.0
+
+1119: erase
+From parent:wipe out
+Similarity:0.0
+Similarity with root:0.0
+
+1120: obliterate
+From parent:wipe out
+Similarity:0.0
+Similarity with root:0.0
+
+1121: cancel out
+From parent:wipe out
+Similarity:0.0
+Similarity with root:0.0
+
+1122: ensue
+From parent:result
+Similarity:0.5294118
+Similarity with root:9.992561E-9
+
+1123: head up
+From parent:head
+Similarity:0.036363635
+Similarity with root:2.1358033E-10
+
+1124: scat
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1125: scarper
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1126: turn tail
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1127: lam
+From parent:run
+Similarity:0.09382716
+Similarity with root:1.0321807E-10
+
+1128: run away
+From parent:run
+Similarity:0.12991452
+Similarity with root:1.4291732E-10
+
+1129: hightail it
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1130: bunk
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1131: head for the hills
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1132: take to the woods
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1133: fly the coop
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1134: course
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1135: tend
+From parent:run
+Similarity:0.010416667
+Similarity with root:1.1459243E-11
+
+1136: be given
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1137: lean
+From parent:run
+Similarity:9.803922E-4
+Similarity with root:1.078517E-12
+
+1138: incline
+From parent:run
+Similarity:0.011111111
+Similarity with root:1.2223193E-11
+
+1139: persist
+From parent:run
+Similarity:0.004074074
+Similarity with root:4.481837E-12
+
+1140: die hard
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1141: black market
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1142: bleed
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1143: run for
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1144: ply
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1145: hunt
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1146: hunt down
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1147: track down
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1148: race
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1149: melt
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1150: melt down
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1151: ladder
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1152: unravel
+From parent:run
+Similarity:0.0
+Similarity with root:0.0
+
+1153: sound
+From parent:go
+Similarity:0.001097408
+Similarity with root:2.5861317E-13
+
+1154: run low
+From parent:go
+Similarity:0.0
+Similarity with root:0.0
+
+1155: run short
+From parent:go
+Similarity:0.0
+Similarity with root:0.0
+
+1156: belong
+From parent:go
+Similarity:1.7916865E-4
+Similarity with root:4.222256E-14
+
+1157: get going
+From parent:go
+Similarity:0.0016722408
+Similarity with root:3.9407724E-13
+
+1158: blend
+From parent:go
+Similarity:0.0
+Similarity with root:0.0
+
+1159: blend in
+From parent:go
+Similarity:0.0
+Similarity with root:0.0
+
+1160: rifle
+From parent:go
+Similarity:0.0
+Similarity with root:0.0
+
+1161: plump
+From parent:go
+Similarity:0.0
+Similarity with root:0.0
+
+1162: broaden
+From parent:extend
+Similarity:0.024154589
+Similarity with root:7.8932215E-11
+
+1163: exsert
+From parent:extend
+Similarity:0.0
+Similarity with root:0.0
+
+1164: stretch out
+From parent:extend
+Similarity:0.018115941
+Similarity with root:5.919916E-11
+
+1165: stretch forth
+From parent:extend
+Similarity:0.072463766
+Similarity with root:2.3679664E-10
+
+1166: poke out
+From parent:extend
+Similarity:0.0
+Similarity with root:0.0
+
+1167: stretch
+From parent:extend
+Similarity:0.0077766
+Similarity with root:2.5412325E-11
+
+1168: prolong
+From parent:extend
+Similarity:0.014492754
+Similarity with root:4.735933E-11
+
+1169: protract
+From parent:extend
+Similarity:0.0
+Similarity with root:0.0
+
+1170: unfold
+From parent:extend
+Similarity:0.0
+Similarity with root:0.0
+
+1171: gallop
+From parent:extend
+Similarity:0.0
+Similarity with root:0.0
+
+1172: pinch
+From parent:top
+Similarity:0.0
+Similarity with root:0.0
+
+1173: crown
+From parent:top
+Similarity:0.0
+Similarity with root:0.0
+
+1174: top off
+From parent:top
+Similarity:0.0
+Similarity with root:0.0
+
+1175: predate
+From parent:precede
+Similarity:0.0
+Similarity with root:0.0
+
+1176: forego
+From parent:precede
+Similarity:0.47368422
+Similarity with root:5.4051246E-11
+
+1177: forgo
+From parent:precede
+Similarity:0.0
+Similarity with root:0.0
+
+1178: antecede
+From parent:precede
+Similarity:0.0
+Similarity with root:0.0
+
+1179: antedate
+From parent:precede
+Similarity:0.0
+Similarity with root:0.0
+
+1180: come before
+From parent:precede
+Similarity:0.0
+Similarity with root:0.0
+
+1181: preface
+From parent:precede
+Similarity:0.0
+Similarity with root:0.0
+
+1182: premise
+From parent:precede
+Similarity:0.0
+Similarity with root:0.0
+
+1183: chairman
+From parent:chair
+Similarity:0.0
+Similarity with root:0.0
+
+1184: orient
+From parent:point
+Similarity:0.068085104
+Similarity with root:0.0
+
+1185: luff
+From parent:point
+Similarity:0.0
+Similarity with root:0.0
+
+1186: sharpen
+From parent:point
+Similarity:0.0
+Similarity with root:0.0
+
+1187: taper
+From parent:point
+Similarity:0.0
+Similarity with root:0.0
+
+1188: repoint
+From parent:point
+Similarity:0.0
+Similarity with root:0.0
+
+1189: coordinate
+From parent:organize
+Similarity:0.08275862
+Similarity with root:0.0
+
+1190: machinate
+From parent:organize
+Similarity:0.0
+Similarity with root:0.0
+
+1191: unionize
+From parent:organize
+Similarity:0.0
+Similarity with root:0.0
+
+1192: unionise
+From parent:organize
+Similarity:0.0
+Similarity with root:0.0
+
+1193: expatriate
+From parent:deport
+Similarity:0.0
+Similarity with root:0.0
+
+1194: exile
+From parent:deport
+Similarity:0.0
+Similarity with root:0.0
+
+1195: canalize
+From parent:channel
+Similarity:0.0
+Similarity with root:0.0
+
+1196: canalise
+From parent:channel
+Similarity:0.0
+Similarity with root:0.0
+
+1197: finish off
+From parent:get through
+Similarity:0.0
+Similarity with root:0.0
+
+1198: mop up
+From parent:get through
+Similarity:0.0
+Similarity with root:0.0
+
+1199: finish up
+From parent:get through
+Similarity:0.33333334
+Similarity with root:0.0
+
+1200: while away
+From parent:get through
+Similarity:0.16666667
+Similarity with root:0.0
+
+1201: come through
+From parent:get through
+Similarity:0.023809526
+Similarity with root:0.0
+
+1202: dawn
+From parent:get through
+Similarity:0.0
+Similarity with root:0.0
+
+1203: come home
+From parent:get through
+Similarity:0.0
+Similarity with root:0.0
+
+1204: penetrate
+From parent:get through
+Similarity:0.0
+Similarity with root:0.0
+
+1205: fall into place
+From parent:get through
+Similarity:0.0
+Similarity with root:0.0
+
+1206: prehend
+From parent:seize
+Similarity:0.0
+Similarity with root:0.0
+
+1207: cling to
+From parent:clutch
+Similarity:0.05882353
+Similarity with root:0.0
+
+1208: hold close
+From parent:clutch
+Similarity:0.0
+Similarity with root:0.0
+
+1209: hold tight
+From parent:clutch
+Similarity:0.0
+Similarity with root:0.0
+
+1210: make bold
+From parent:presume
+Similarity:0.0
+Similarity with root:0.0
+
+1211: dare
+From parent:presume
+Similarity:0.0
+Similarity with root:0.0
+
+1212: relieve
+From parent:take over
+Similarity:0.027210886
+Similarity with root:7.916631E-11
+
+1213: buy out
+From parent:take over
+Similarity:0.08571429
+Similarity with root:2.4937388E-10
+
+1214: buy up
+From parent:take over
+Similarity:0.08571429
+Similarity with root:2.4937388E-10
+
+1215: imitate
+From parent:simulate
+Similarity:0.6666667
+Similarity with root:0.0
+
+1216: copy
+From parent:simulate
+Similarity:0.5
+Similarity with root:0.0
+
+1217: have on
+From parent:wear
+Similarity:0.720339
+Similarity with root:0.0
+
+1218: wear off
+From parent:wear
+Similarity:0.016949153
+Similarity with root:0.0
+
+1219: wear down
+From parent:wear
+Similarity:0.0
+Similarity with root:0.0
+
+1220: wear thin
+From parent:wear
+Similarity:0.016949153
+Similarity with root:0.0
+
+1221: wear upon
+From parent:wear
+Similarity:0.0
+Similarity with root:0.0
+
+1222: tire out
+From parent:wear
+Similarity:0.0
+Similarity with root:0.0
+
+1223: weary
+From parent:wear
+Similarity:0.0
+Similarity with root:0.0
+
+1224: jade
+From parent:wear
+Similarity:0.0
+Similarity with root:0.0
+
+1225: outwear
+From parent:wear
+Similarity:0.0
+Similarity with root:0.0
+
+1226: fag out
+From parent:wear
+Similarity:0.0
+Similarity with root:0.0
+
+1227: fatigue
+From parent:wear
+Similarity:0.0
+Similarity with root:0.0
+
+1228: tangle with
+From parent:get into
+Similarity:0.45833334
+Similarity with root:0.0
+
+1229: mature
+From parent:grow
+Similarity:0.03960396
+Similarity with root:3.4839666E-12
+
+1230: maturate
+From parent:grow
+Similarity:0.0
+Similarity with root:0.0
+
+1231: originate
+From parent:grow
+Similarity:0.025990099
+Similarity with root:2.2863532E-12
+
+1232: spring up
+From parent:grow
+Similarity:0.034653466
+Similarity with root:3.048471E-12
+
+1233: farm
+From parent:grow
+Similarity:0.0
+Similarity with root:0.0
+
+1234: explicate
+From parent:develop
+Similarity:0.0
+Similarity with root:0.0
+
+1235: modernize
+From parent:develop
+Similarity:0.0036057692
+Similarity with root:1.9509839E-12
+
+1236: modernise
+From parent:develop
+Similarity:0.0
+Similarity with root:0.0
+
+1237: make grow
+From parent:develop
+Similarity:0.0
+Similarity with root:0.0
+
+1238: bring about
+From parent:produce
+Similarity:0.0
+Similarity with root:0.0
+
+1239: give rise
+From parent:produce
+Similarity:0.1597633
+Similarity with root:0.0
+
+1240: bring home the bacon
+From parent:win
+Similarity:0.0
+Similarity with root:0.0
+
+1241: deliver the goods
+From parent:win
+Similarity:0.0
+Similarity with root:0.0
+
+1242: marry
+From parent:espouse
+Similarity:0.0
+Similarity with root:0.0
+
+1243: get married
+From parent:espouse
+Similarity:0.0
+Similarity with root:0.0
+
+1244: wed
+From parent:espouse
+Similarity:0.0
+Similarity with root:0.0
+
+1245: conjoin
+From parent:espouse
+Similarity:0.0
+Similarity with root:0.0
+
+1246: hook up with
+From parent:espouse
+Similarity:0.0
+Similarity with root:0.0
+
+1247: get hitched with
+From parent:espouse
+Similarity:0.0
+Similarity with root:0.0
+
+1248: embroider
+From parent:dramatize
+Similarity:0.0
+Similarity with root:0.0
+
+1249: pad
+From parent:dramatize
+Similarity:0.33333334
+Similarity with root:0.0
+
+1250: lard
+From parent:dramatize
+Similarity:0.0
+Similarity with root:0.0
+
+1251: embellish
+From parent:dramatize
+Similarity:0.33333334
+Similarity with root:0.0
+
+1252: aggrandize
+From parent:dramatize
+Similarity:0.0
+Similarity with root:0.0
+
+1253: aggrandise
+From parent:dramatize
+Similarity:0.0
+Similarity with root:0.0
+
+1254: blow up
+From parent:dramatize
+Similarity:0.0
+Similarity with root:0.0
+
+1255: hug
+From parent:embrace
+Similarity:0.25
+Similarity with root:0.0
+
+1256: bosom
+From parent:embrace
+Similarity:0.0
+Similarity with root:0.0
+
+1257: embroil
+From parent:sweep up
+Similarity:0.5
+Similarity with root:0.0
+
+1258: tangle
+From parent:sweep up
+Similarity:0.0
+Similarity with root:0.0
+
+1259: sweep
+From parent:sweep up
+Similarity:0.04054054
+Similarity with root:0.0
+
+1260: drag in
+From parent:sweep up
+Similarity:0.0
+Similarity with root:0.0
+
+1261: take in charge
+From parent:undertake
+Similarity:0.0
+Similarity with root:0.0
+
+1262: set down
+From parent:land
+Similarity:0.12307693
+Similarity with root:1.2258607E-10
+
+1263: set ashore
+From parent:land
+Similarity:0.0
+Similarity with root:0.0
+
+1264: shore
+From parent:land
+Similarity:0.0
+Similarity with root:0.0
+
+1265: loan
+From parent:lend
+Similarity:0.4375
+Similarity with root:5.5074606E-10
+
+1266: append
+From parent:add
+Similarity:0.0
+Similarity with root:0.0
+
+1267: found
+From parent:institute
+Similarity:0.1978022
+Similarity with root:2.0326771E-10
+
+1268: verbalize
+From parent:express
+Similarity:0.0
+Similarity with root:0.0
+
+1269: verbalise
+From parent:express
+Similarity:0.0
+Similarity with root:0.0
+
+1270: give tongue to
+From parent:express
+Similarity:0.0
+Similarity with root:0.0
+
+1271: intercommunicate
+From parent:communicate
+Similarity:0.0
+Similarity with root:0.0
+
+1272: commune
+From parent:communicate
+Similarity:0.0
+Similarity with root:0.0
+
+1273: wonder
+From parent:inquire
+Similarity:0.1361015
+Similarity with root:3.784234E-11
+
+1274: bay
+From parent:quest
+Similarity:0.0
+Similarity with root:0.0
+
+1275: favor
+From parent:prefer
+Similarity:0.016346155
+Similarity with root:3.5938238E-10
+
+1276: favour
+From parent:prefer
+Similarity:0.0
+Similarity with root:0.0
+
+1277: sport
+From parent:feature
+Similarity:0.15789473
+Similarity with root:1.2657173E-10
+
+1278: boast
+From parent:feature
+Similarity:0.072874494
+Similarity with root:5.841772E-11
+
+1279: permit
+From parent:let
+Similarity:0.38507077
+Similarity with root:5.2073157E-13
+
+1280: countenance
+From parent:let
+Similarity:0.0
+Similarity with root:0.0
+
+1281: rush
+From parent:induce
+Similarity:0.0
+Similarity with root:0.0
+
+1282: hasten
+From parent:induce
+Similarity:0.0125
+Similarity with root:7.0699983E-14
+
+1283: shake
+From parent:stimulate
+Similarity:0.0037037039
+Similarity with root:1.87037E-14
+
+1284: shake up
+From parent:stimulate
+Similarity:0.0
+Similarity with root:0.0
+
+1285: provoke
+From parent:stimulate
+Similarity:0.0
+Similarity with root:0.0
+
+1286: nourish
+From parent:sustain
+Similarity:0.09411765
+Similarity with root:2.0968856E-13
+
+1287: nurture
+From parent:sustain
+Similarity:0.0
+Similarity with root:0.0
+
+1288: close
+From parent:fill up
+Similarity:0.0
+Similarity with root:0.0
+
+1289: gorge
+From parent:satiate
+Similarity:0.0
+Similarity with root:0.0
+
+1290: ingurgitate
+From parent:satiate
+Similarity:0.0
+Similarity with root:0.0
+
+1291: overindulge
+From parent:satiate
+Similarity:0.0
+Similarity with root:0.0
+
+1292: glut
+From parent:satiate
+Similarity:0.0
+Similarity with root:0.0
+
+1293: englut
+From parent:satiate
+Similarity:0.0
+Similarity with root:0.0
+
+1294: stuff
+From parent:satiate
+Similarity:0.0
+Similarity with root:0.0
+
+1295: engorge
+From parent:satiate
+Similarity:0.0
+Similarity with root:0.0
+
+1296: overgorge
+From parent:satiate
+Similarity:0.0
+Similarity with root:0.0
+
+1297: overeat
+From parent:satiate
+Similarity:0.0
+Similarity with root:0.0
+
+1298: gormandize
+From parent:satiate
+Similarity:0.0
+Similarity with root:0.0
+
+1299: gormandise
+From parent:satiate
+Similarity:0.0
+Similarity with root:0.0
+
+1300: gourmandize
+From parent:satiate
+Similarity:0.0
+Similarity with root:0.0
+
+1301: binge
+From parent:satiate
+Similarity:0.0
+Similarity with root:0.0
+
+1302: pig out
+From parent:satiate
+Similarity:0.0
+Similarity with root:0.0
+
+1303: scarf out
+From parent:satiate
+Similarity:0.0
+Similarity with root:0.0
+
+1304: worst
+From parent:pip
+Similarity:0.0
+Similarity with root:0.0
+
+1305: whip
+From parent:pip
+Similarity:0.0
+Similarity with root:0.0
+
+1306: flit
+From parent:dart
+Similarity:0.6
+Similarity with root:6.68563E-11
+
+1307: flutter
+From parent:dart
+Similarity:0.3
+Similarity with root:3.342815E-11
+
+1308: crash
+From parent:dash
+Similarity:0.0
+Similarity with root:0.0
+
+1309: daunt
+From parent:dash
+Similarity:0.0
+Similarity with root:0.0
+
+1310: scare off
+From parent:dash
+Similarity:0.0
+Similarity with root:0.0
+
+1311: pall
+From parent:dash
+Similarity:0.0
+Similarity with root:0.0
+
+1312: frighten off
+From parent:dash
+Similarity:0.0
+Similarity with root:0.0
+
+1313: scare away
+From parent:dash
+Similarity:0.0
+Similarity with root:0.0
+
+1314: frighten away
+From parent:dash
+Similarity:0.0
+Similarity with root:0.0
+
+1315: scare
+From parent:dash
+Similarity:0.0
+Similarity with root:0.0
+
+1316: rack
+From parent:scud
+Similarity:0.0
+Similarity with root:0.0
+
+1317: blink
+From parent:flash
+Similarity:0.0
+Similarity with root:0.0
+
+1318: wink
+From parent:flash
+Similarity:0.08035714
+Similarity with root:3.7308203E-12
+
+1319: twinkle
+From parent:flash
+Similarity:0.375
+Similarity with root:1.7410495E-11
+
+1320: winkle
+From parent:flash
+Similarity:0.0
+Similarity with root:0.0
+
+1321: flaunt
+From parent:flash
+Similarity:0.125
+Similarity with root:5.8034983E-12
+
+1322: show off
+From parent:flash
+Similarity:0.125
+Similarity with root:5.8034983E-12
+
+1323: ostentate
+From parent:flash
+Similarity:0.0
+Similarity with root:0.0
+
+1324: swank
+From parent:flash
+Similarity:0.0
+Similarity with root:0.0
+
+1325: rupture
+From parent:tear
+Similarity:0.6551724
+Similarity with root:8.391264E-12
+
+1326: defeat
+From parent:shoot down
+Similarity:0.0
+Similarity with root:0.0
+
+1327: vote down
+From parent:shoot down
+Similarity:0.0
+Similarity with root:0.0
+
+1328: vote out
+From parent:shoot down
+Similarity:0.0
+Similarity with root:0.0
+
+1329: snarl
+From parent:snap
+Similarity:0.27272728
+Similarity with root:0.0
+
+1330: snatch
+From parent:snap
+Similarity:0.042207792
+Similarity with root:0.0
+
+1331: snatch up
+From parent:snap
+Similarity:0.045454547
+Similarity with root:0.0
+
+1332: interject
+From parent:inject
+Similarity:0.0
+Similarity with root:0.0
+
+1333: interpose
+From parent:inject
+Similarity:0.0
+Similarity with root:0.0
+
+1334: throw in
+From parent:inject
+Similarity:0.0
+Similarity with root:0.0
+
+1335: scatter
+From parent:dissipate
+Similarity:0.23809525
+Similarity with root:0.0
+
+1336: spread out
+From parent:dissipate
+Similarity:0.0
+Similarity with root:0.0
+
+1337: teem
+From parent:pullulate
+Similarity:0.0
+Similarity with root:0.0
+
+1338: swarm
+From parent:pullulate
+Similarity:0.0
+Similarity with root:0.0
+
+1339: pour
+From parent:pullulate
+Similarity:0.0
+Similarity with root:0.0
+
+1340: stream
+From parent:pullulate
+Similarity:0.0
+Similarity with root:0.0
+
+1341: do away with
+From parent:get rid of
+Similarity:0.3
+Similarity with root:1.666627E-9
+
+1342: abolish
+From parent:get rid of
+Similarity:0.0
+Similarity with root:0.0
+
+1343: shift
+From parent:transfer
+Similarity:0.034722224
+Similarity with root:0.0
+
+1344: reassign
+From parent:transfer
+Similarity:0.21428572
+Similarity with root:0.0
+
+1345: transplant
+From parent:transfer
+Similarity:0.21428572
+Similarity with root:0.0
+
+1346: change
+From parent:transfer
+Similarity:6.157636E-4
+Similarity with root:0.0
+
+1347: transpose
+From parent:transfer
+Similarity:0.0
+Similarity with root:0.0
+
+1348: mangle
+From parent:murder
+Similarity:0.0
+Similarity with root:0.0
+
+1349: mutilate
+From parent:murder
+Similarity:0.0
+Similarity with root:0.0
+
+1350: blow
+From parent:squander
+Similarity:0.0
+Similarity with root:0.0
+
+1351: neutralize
+From parent:waste
+Similarity:0.0
+Similarity with root:0.0
+
+1352: neutralise
+From parent:waste
+Similarity:0.0
+Similarity with root:0.0
+
+1353: liquidate
+From parent:waste
+Similarity:0.0
+Similarity with root:0.0
+
+1354: do in
+From parent:waste
+Similarity:0.0
+Similarity with root:0.0
+
+1355: pine away
+From parent:waste
+Similarity:0.0
+Similarity with root:0.0
+
+1356: languish
+From parent:waste
+Similarity:0.0
+Similarity with root:0.0
+
+1357: emaciate
+From parent:waste
+Similarity:0.0
+Similarity with root:0.0
+
+1358: macerate
+From parent:waste
+Similarity:0.0
+Similarity with root:0.0
+
+1359: lay waste to
+From parent:waste
+Similarity:0.0
+Similarity with root:0.0
+
+1360: devastate
+From parent:waste
+Similarity:0.0
+Similarity with root:0.0
+
+1361: desolate
+From parent:waste
+Similarity:0.0
+Similarity with root:0.0
+
+1362: ravage
+From parent:waste
+Similarity:0.0
+Similarity with root:0.0
+
+1363: scourge
+From parent:waste
+Similarity:0.0
+Similarity with root:0.0
+
+1364: rot
+From parent:waste
+Similarity:0.0
+Similarity with root:0.0
+
+1365: subjugate
+From parent:subject
+Similarity:0.0
+Similarity with root:0.0
+
+1366: conjure up
+From parent:put forward
+Similarity:0.0
+Similarity with root:0.0
+
+1367: invoke
+From parent:put forward
+Similarity:0.0
+Similarity with root:0.0
+
+1368: evoke
+From parent:put forward
+Similarity:0.0
+Similarity with root:0.0
+
+1369: call forth
+From parent:put forward
+Similarity:0.0
+Similarity with root:0.0
+
+1370: award
+From parent:present
+Similarity:0.020467836
+Similarity with root:3.1919313E-12
+
+1371: acquaint
+From parent:present
+Similarity:0.00877193
+Similarity with root:1.3679705E-12
+
+1372: salute
+From parent:present
+Similarity:0.0
+Similarity with root:0.0
+
+1373: banish
+From parent:relegate
+Similarity:0.0
+Similarity with root:0.0
+
+1374: classify
+From parent:relegate
+Similarity:0.0
+Similarity with root:0.0
+
+1375: bow down
+From parent:bow
+Similarity:0.0
+Similarity with root:0.0
+
+1376: crouch
+From parent:bow
+Similarity:0.0
+Similarity with root:0.0
+
+1377: stoop
+From parent:bow
+Similarity:0.0
+Similarity with root:0.0
+
+1378: postpone
+From parent:defer
+Similarity:0.6666667
+Similarity with root:1.5194997E-10
+
+1379: prorogue
+From parent:defer
+Similarity:0.0
+Similarity with root:0.0
+
+1380: hold over
+From parent:defer
+Similarity:0.0
+Similarity with root:0.0
+
+1381: put over
+From parent:defer
+Similarity:0.0
+Similarity with root:0.0
+
+1382: table
+From parent:defer
+Similarity:0.0
+Similarity with root:0.0
+
+1383: shelve
+From parent:defer
+Similarity:0.6666667
+Similarity with root:1.5194997E-10
+
+1384: set back
+From parent:defer
+Similarity:0.33333334
+Similarity with root:7.597498E-11
+
+1385: remit
+From parent:defer
+Similarity:0.0
+Similarity with root:0.0
+
+1386: put off
+From parent:defer
+Similarity:0.33333334
+Similarity with root:7.597498E-11
+
+1387: assent
+From parent:accede
+Similarity:0.0
+Similarity with root:0.0
+
+1388: acquiesce
+From parent:accede
+Similarity:0.0
+Similarity with root:0.0
+
+1389: inclose
+From parent:put in
+Similarity:0.0
+Similarity with root:0.0
+
+1390: stick in
+From parent:put in
+Similarity:0.21428572
+Similarity with root:5.2329707E-12
+
+1391: store
+From parent:put in
+Similarity:0.08866995
+Similarity with root:2.165367E-12
+
+1392: hive away
+From parent:put in
+Similarity:0.0
+Similarity with root:0.0
+
+1393: lay in
+From parent:put in
+Similarity:0.0
+Similarity with root:0.0
+
+1394: salt away
+From parent:put in
+Similarity:0.14285715
+Similarity with root:3.4886473E-12
+
+1395: stack away
+From parent:put in
+Similarity:0.0
+Similarity with root:0.0
+
+1396: stash away
+From parent:put in
+Similarity:0.0
+Similarity with root:0.0
+
+1397: chime in
+From parent:put in
+Similarity:0.0
+Similarity with root:0.0
+
+1398: cut in
+From parent:put in
+Similarity:0.0
+Similarity with root:0.0
+
+1399: butt in
+From parent:put in
+Similarity:0.0
+Similarity with root:0.0
+
+1400: chisel in
+From parent:put in
+Similarity:0.0
+Similarity with root:0.0
+
+1401: barge in
+From parent:put in
+Similarity:0.0
+Similarity with root:0.0
+
+1402: install
+From parent:put in
+Similarity:0.06904762
+Similarity with root:1.6861795E-12
+
+1403: instal
+From parent:put in
+Similarity:0.071428575
+Similarity with root:1.7443237E-12
+
+1404: renounce
+From parent:resign
+Similarity:0.0
+Similarity with root:0.0
+
+1405: leave office
+From parent:resign
+Similarity:0.0
+Similarity with root:0.0
+
+1406: step down
+From parent:resign
+Similarity:0.0
+Similarity with root:0.0
+
+1407: relinquish
+From parent:resign
+Similarity:0.0
+Similarity with root:0.0
+
+1408: glitter
+From parent:shine
+Similarity:0.2
+Similarity with root:0.0
+
+1409: glisten
+From parent:shine
+Similarity:0.2
+Similarity with root:0.0
+
+1410: glint
+From parent:shine
+Similarity:0.16000001
+Similarity with root:0.0
+
+1411: gleam
+From parent:shine
+Similarity:0.08571429
+Similarity with root:0.0
+
+1412: glow
+From parent:shine
+Similarity:0.013333334
+Similarity with root:0.0
+
+1413: radiate
+From parent:shine
+Similarity:0.0
+Similarity with root:0.0
+
+1414: smooth
+From parent:shine
+Similarity:0.0
+Similarity with root:0.0
+
+1415: smoothen
+From parent:shine
+Similarity:0.0
+Similarity with root:0.0
+
+1416: revive
+From parent:come to
+Similarity:0.0
+Similarity with root:0.0
+
+1417: resuscitate
+From parent:come to
+Similarity:0.0
+Similarity with root:0.0
+
+1418: rub
+From parent:scratch
+Similarity:0.025
+Similarity with root:0.0
+
+1419: fray
+From parent:scratch
+Similarity:0.0
+Similarity with root:0.0
+
+1420: fret
+From parent:scratch
+Similarity:0.0
+Similarity with root:0.0
+
+1421: scratch up
+From parent:scratch
+Similarity:0.0
+Similarity with root:0.0
+
+1422: itch
+From parent:scratch
+Similarity:0.041666668
+Similarity with root:0.0
+
+1423: catch on
+From parent:latch on
+Similarity:0.0
+Similarity with root:0.0
+
+1424: get wise
+From parent:latch on
+Similarity:0.0
+Similarity with root:0.0
+
+1425: get onto
+From parent:latch on
+Similarity:0.0
+Similarity with root:0.0
+
+1426: cotton on
+From parent:latch on
+Similarity:0.0
+Similarity with root:0.0
+
+1427: twig
+From parent:latch on
+Similarity:0.0
+Similarity with root:0.0
+
+1428: get it
+From parent:latch on
+Similarity:0.0
+Similarity with root:0.0
+
+1429: lead off
+From parent:start
+Similarity:0.0
+Similarity with root:0.0
+
+1430: set forth
+From parent:start
+Similarity:0.0
+Similarity with root:0.0
+
+1431: initiate
+From parent:start
+Similarity:0.033723652
+Similarity with root:9.465259E-14
+
+1432: start up
+From parent:start
+Similarity:0.022950819
+Similarity with root:6.441635E-14
+
+1433: embark on
+From parent:start
+Similarity:0.036065575
+Similarity with root:1.01225696E-13
+
+1434: startle
+From parent:start
+Similarity:0.0
+Similarity with root:0.0
+
+1435: outdo
+From parent:scoop
+Similarity:0.0
+Similarity with root:0.0
+
+1436: outflank
+From parent:scoop
+Similarity:0.0
+Similarity with root:0.0
+
+1437: trump
+From parent:scoop
+Similarity:0.0
+Similarity with root:0.0
+
+1438: best
+From parent:scoop
+Similarity:0.0
+Similarity with root:0.0
+
+1439: restart
+From parent:resume
+Similarity:0.0
+Similarity with root:0.0
+
+1440: re-start
+From parent:resume
+Similarity:0.0
+Similarity with root:0.0
+
+1441: summarize
+From parent:resume
+Similarity:0.0
+Similarity with root:0.0
+
+1442: summarise
+From parent:resume
+Similarity:0.0
+Similarity with root:0.0
+
+1443: receipt
+From parent:acknowledge
+Similarity:0.0
+Similarity with root:0.0
+
+1444: earmark
+From parent:allow
+Similarity:0.0
+Similarity with root:0.0
+
+1445: set aside
+From parent:allow
+Similarity:0.0397351
+Similarity with root:0.0
+
+1446: take into account
+From parent:allow
+Similarity:0.01986755
+Similarity with root:0.0
+
+1447: adapt
+From parent:accommodate
+Similarity:0.23333333
+Similarity with root:0.0
+
+1448: perform
+From parent:do
+Similarity:0.07398783
+Similarity with root:4.818103E-13
+
+1449: take form
+From parent:form
+Similarity:0.2090909
+Similarity with root:1.6667918E-14
+
+1450: take shape
+From parent:form
+Similarity:0.2090909
+Similarity with root:1.6667918E-14
+
+1451: manufacture
+From parent:construct
+Similarity:0.10135135
+Similarity with root:9.55689E-15
+
+1452: fabricate
+From parent:construct
+Similarity:0.0
+Similarity with root:0.0
+
+1453: reconstruct
+From parent:construct
+Similarity:0.0
+Similarity with root:0.0
+
+1454: retrace
+From parent:construct
+Similarity:0.0
+Similarity with root:0.0
+
+1455: launch
+From parent:establish
+Similarity:0.17618042
+Similarity with root:1.905973E-15
+
+1456: ground
+From parent:establish
+Similarity:0.0
+Similarity with root:0.0
+
+1457: counterbalance
+From parent:make up
+Similarity:0.0
+Similarity with root:0.0
+
+1458: even out
+From parent:make up
+Similarity:0.0
+Similarity with root:0.0
+
+1459: even off
+From parent:make up
+Similarity:0.0
+Similarity with root:0.0
+
+1460: tiller
+From parent:stool
+Similarity:0.0
+Similarity with root:0.0
+
+1461: wanton
+From parent:piddle
+Similarity:0.0
+Similarity with root:0.0
+
+1462: wanton away
+From parent:piddle
+Similarity:0.0
+Similarity with root:0.0
+
+1463: piddle away
+From parent:piddle
+Similarity:0.0
+Similarity with root:0.0
+
+1464: muddle
+From parent:puddle
+Similarity:0.0
+Similarity with root:0.0
+
+1465: addle
+From parent:puddle
+Similarity:0.0
+Similarity with root:0.0
+
+1466: curry
+From parent:groom
+Similarity:0.0
+Similarity with root:0.0
+
+1467: neaten
+From parent:groom
+Similarity:0.0
+Similarity with root:0.0
+
+1468: naturalize
+From parent:cultivate
+Similarity:0.0
+Similarity with root:0.0
+
+1469: naturalise
+From parent:cultivate
+Similarity:0.0
+Similarity with root:0.0
+
+1470: inveigh
+From parent:rail
+Similarity:1.0
+Similarity with root:0.0
+
+1471: rail in
+From parent:rail
+Similarity:0.0
+Similarity with root:0.0
+
+1472: rail off
+From parent:rail
+Similarity:0.0
+Similarity with root:0.0
+
+1473: vilify
+From parent:rail
+Similarity:0.0
+Similarity with root:0.0
+
+1474: revile
+From parent:rail
+Similarity:0.0
+Similarity with root:0.0
+
+1475: vituperate
+From parent:rail
+Similarity:0.0
+Similarity with root:0.0
+
+1476: fulminate
+From parent:rail
+Similarity:0.0
+Similarity with root:0.0
+
+1477: get behind
+From parent:trail
+Similarity:0.72727275
+Similarity with root:0.0
+
+1478: hang back
+From parent:trail
+Similarity:0.72727275
+Similarity with root:0.0
+
+1479: drop behind
+From parent:trail
+Similarity:0.72727275
+Similarity with root:0.0
+
+1480: chase
+From parent:trail
+Similarity:0.27272728
+Similarity with root:0.0
+
+1481: chase after
+From parent:trail
+Similarity:0.0
+Similarity with root:0.0
+
+1482: tail
+From parent:trail
+Similarity:0.0
+Similarity with root:0.0
+
+1483: give chase
+From parent:trail
+Similarity:0.0
+Similarity with root:0.0
+
+1484: dog
+From parent:trail
+Similarity:0.27272728
+Similarity with root:0.0
+
+1485: go after
+From parent:trail
+Similarity:0.23863637
+Similarity with root:0.0
+
+1486: buy in
+From parent:stock
+Similarity:0.0
+Similarity with root:0.0
+
+1487: trickle
+From parent:dribble
+Similarity:1.0
+Similarity with root:0.0
+
+1488: drip
+From parent:dribble
+Similarity:0.0
+Similarity with root:0.0
+
+1489: drivel
+From parent:dribble
+Similarity:0.0
+Similarity with root:0.0
+
+1490: drool
+From parent:dribble
+Similarity:0.0
+Similarity with root:0.0
+
+1491: slabber
+From parent:dribble
+Similarity:0.0
+Similarity with root:0.0
+
+1492: slaver
+From parent:dribble
+Similarity:0.0
+Similarity with root:0.0
+
+1493: slobber
+From parent:dribble
+Similarity:0.0
+Similarity with root:0.0
+
+1494: rock
+From parent:sway
+Similarity:0.41666666
+Similarity with root:0.0
+
+1495: swing
+From parent:sway
+Similarity:0.07042254
+Similarity with root:0.0
+
+1496: bundle up
+From parent:bundle
+Similarity:0.0
+Similarity with root:0.0
+
+1497: bunch
+From parent:bundle
+Similarity:0.0
+Similarity with root:0.0
+
+1498: bunch up
+From parent:bundle
+Similarity:0.0
+Similarity with root:0.0
+
+1499: cluster
+From parent:bundle
+Similarity:0.0
+Similarity with root:0.0
+
+1500: clump
+From parent:bundle
+Similarity:0.0
+Similarity with root:0.0
+
+1501: practice bundling
+From parent:bundle
+Similarity:0.0
+Similarity with root:0.0
+
+1502: jampack
+From parent:wad
+Similarity:0.0
+Similarity with root:0.0
+
+1503: chock up
+From parent:wad
+Similarity:0.0
+Similarity with root:0.0
+
+1504: cram
+From parent:wad
+Similarity:0.0
+Similarity with root:0.0
+
+1505: pack together
+From parent:compact
+Similarity:0.0
+Similarity with root:0.0
+
+1506: stack
+From parent:pile
+Similarity:0.0
+Similarity with root:0.0
+
+1507: heap
+From parent:pile
+Similarity:0.4
+Similarity with root:0.0
+
+1508: obstruct
+From parent:jam
+Similarity:0.0
+Similarity with root:0.0
+
+1509: obturate
+From parent:jam
+Similarity:0.0
+Similarity with root:0.0
+
+1510: impede
+From parent:jam
+Similarity:0.0
+Similarity with root:0.0
+
+1511: occlude
+From parent:jam
+Similarity:0.0
+Similarity with root:0.0
+
+1512: close up
+From parent:jam
+Similarity:0.0
+Similarity with root:0.0
+
+1513: cleave
+From parent:rive
+Similarity:0.0
+Similarity with root:0.0
+
+1514: use
+From parent:employ
+Similarity:0.7383908
+Similarity with root:0.0
+
+1515: utilize
+From parent:employ
+Similarity:0.7586207
+Similarity with root:0.0
+
+1516: utilise
+From parent:employ
+Similarity:0.0
+Similarity with root:0.0
+
+1517: quest for
+From parent:pursue
+Similarity:0.0
+Similarity with root:0.0
+
+1518: quest after
+From parent:pursue
+Similarity:0.0
+Similarity with root:0.0
+
+1519: follow up on
+From parent:pursue
+Similarity:0.0
+Similarity with root:0.0
+
+1520: act on
+From parent:pursue
+Similarity:0.095238104
+Similarity with root:0.0
+
+1521: draft
+From parent:enlist
+Similarity:0.023809526
+Similarity with root:0.0
+
+1522: muster in
+From parent:enlist
+Similarity:0.0
+Similarity with root:0.0
+
+1523: interlock
+From parent:mesh
+Similarity:0.5
+Similarity with root:0.0
+
+1524: enmesh
+From parent:mesh
+Similarity:0.0
+Similarity with root:0.0
+
+1525: ensnarl
+From parent:mesh
+Similarity:0.0
+Similarity with root:0.0
+
+1526: interlace
+From parent:lock
+Similarity:0.0
+Similarity with root:0.0
+
+1527: lock in
+From parent:lock
+Similarity:0.02
+Similarity with root:0.0
+
+1528: lock away
+From parent:lock
+Similarity:0.0
+Similarity with root:0.0
+
+1529: put away
+From parent:lock
+Similarity:0.026666667
+Similarity with root:0.0
+
+1530: shut up
+From parent:lock
+Similarity:0.005
+Similarity with root:0.0
+
+1531: shut away
+From parent:lock
+Similarity:0.0
+Similarity with root:0.0
+
+1532: lock up
+From parent:lock
+Similarity:0.02
+Similarity with root:0.0
+
+1533: ratify
+From parent:sign
+Similarity:0.325
+Similarity with root:0.0
+
+1534: back up
+From parent:support
+Similarity:0.1342513
+Similarity with root:0.0
+
+1535: endorse
+From parent:support
+Similarity:0.13119143
+Similarity with root:0.0
+
+1536: indorse
+From parent:support
+Similarity:0.16867469
+Similarity with root:0.0
+
+1537: plump for
+From parent:support
+Similarity:0.16867469
+Similarity with root:0.0
+
+1538: plunk for
+From parent:support
+Similarity:0.0
+Similarity with root:0.0
+
+1539: underpin
+From parent:support
+Similarity:0.0
+Similarity with root:0.0
+
+1540: bear out
+From parent:support
+Similarity:0.024096385
+Similarity with root:0.0
+
+1541: fend for
+From parent:support
+Similarity:0.0
+Similarity with root:0.0
+
+1542: patronize
+From parent:support
+Similarity:0.0
+Similarity with root:0.0
+
+1543: patronise
+From parent:support
+Similarity:0.0
+Similarity with root:0.0
+
+1544: patronage
+From parent:support
+Similarity:0.0
+Similarity with root:0.0
+
+1545: keep going
+From parent:support
+Similarity:0.0
+Similarity with root:0.0
+
+1546: toast
+From parent:pledge
+Similarity:0.0
+Similarity with root:0.0
+
+1547: wassail
+From parent:pledge
+Similarity:0.0
+Similarity with root:0.0
+
+1548: integrate
+From parent:incorporate
+Similarity:0.5714286
+Similarity with root:0.0
+
+1549: consist
+From parent:comprise
+Similarity:0.0
+Similarity with root:0.0
+
+1550: prevent
+From parent:keep
+Similarity:0.024550831
+Similarity with root:0.0
+
+1551: keep on
+From parent:keep
+Similarity:0.0
+Similarity with root:0.0
+
+1552: stay fresh
+From parent:keep
+Similarity:0.0
+Similarity with root:0.0
+
+1553: keep open
+From parent:keep
+Similarity:0.0
+Similarity with root:0.0
+
+1554: hold open
+From parent:keep
+Similarity:0.0
+Similarity with root:0.0
+
+1555: conserve
+From parent:maintain
+Similarity:0.0
+Similarity with root:0.0
+
+1556: take charge
+From parent:take hold
+Similarity:0.6
+Similarity with root:0.0
+
+1557: take control
+From parent:take hold
+Similarity:0.0
+Similarity with root:0.0
+
+1558: encumber
+From parent:restrain
+Similarity:0.0
+Similarity with root:0.0
+
+1559: cumber
+From parent:restrain
+Similarity:0.0
+Similarity with root:0.0
+
+1560: constrain
+From parent:restrain
+Similarity:0.0
+Similarity with root:0.0
+
+1561: intimidate
+From parent:restrain
+Similarity:0.0
+Similarity with root:0.0
+
+1562: shield
+From parent:harbor
+Similarity:0.0
+Similarity with root:0.0
+
+1563: stick up
+From parent:hold up
+Similarity:0.0
+Similarity with root:0.0
+
+1564: stand up
+From parent:hold up
+Similarity:0.0
+Similarity with root:0.0
+
+1565: hold water
+From parent:hold up
+Similarity:0.0
+Similarity with root:0.0
+
+1566: triumph
+From parent:prevail
+Similarity:0.11111111
+Similarity with root:0.0
+
+1567: fight back
+From parent:defend
+Similarity:0.0
+Similarity with root:0.0
+
+1568: fight down
+From parent:defend
+Similarity:0.051282052
+Similarity with root:0.0
+
+1569: champion
+From parent:defend
+Similarity:0.025641026
+Similarity with root:0.0
+
+1570: ward
+From parent:guard
+Similarity:0.0
+Similarity with root:0.0
+
+1571: stem
+From parent:halt
+Similarity:0.0
+Similarity with root:0.0
+
+1572: stanch
+From parent:halt
+Similarity:0.0
+Similarity with root:0.0
+
+1573: staunch
+From parent:halt
+Similarity:0.0
+Similarity with root:0.0
+
+1574: adhere
+From parent:bind
+Similarity:0.0
+Similarity with root:0.0
+
+1575: hold fast
+From parent:bind
+Similarity:0.0
+Similarity with root:0.0
+
+1576: bond
+From parent:bind
+Similarity:0.36363637
+Similarity with root:0.0
+
+1577: bandage
+From parent:bind
+Similarity:0.0
+Similarity with root:0.0
+
+1578: tie down
+From parent:bind
+Similarity:0.0
+Similarity with root:0.0
+
+1579: tie up
+From parent:bind
+Similarity:0.045454547
+Similarity with root:0.0
+
+1580: truss
+From parent:bind
+Similarity:0.0
+Similarity with root:0.0
+
+1581: constipate
+From parent:bind
+Similarity:0.0
+Similarity with root:0.0
+
+1582: lend oneself
+From parent:apply
+Similarity:0.03448276
+Similarity with root:0.0
+
+1583: resist
+From parent:defy
+Similarity:0.07692308
+Similarity with root:0.0
+
+1584: refuse
+From parent:defy
+Similarity:0.012437811
+Similarity with root:0.0
+
+1585: stand firm
+From parent:withstand
+Similarity:0.0
+Similarity with root:0.0
+
+1586: coincide
+From parent:concur
+Similarity:0.0462963
+Similarity with root:0.0
+
+1587: coerce
+From parent:force
+Similarity:0.5106383
+Similarity with root:0.0
+
+1588: hale
+From parent:force
+Similarity:0.0
+Similarity with root:0.0
+
+1589: pressure
+From parent:force
+Similarity:0.5106383
+Similarity with root:0.0
+
+1590: impel
+From parent:force
+Similarity:0.18085106
+Similarity with root:0.0
+
+1591: storm
+From parent:force
+Similarity:0.0
+Similarity with root:0.0
+
+1592: ram down
+From parent:ram
+Similarity:0.0
+Similarity with root:0.0
+
+1593: pound
+From parent:ram
+Similarity:0.120000005
+Similarity with root:0.0
+
+1594: fight off
+From parent:repel
+Similarity:0.0
+Similarity with root:0.0
+
+1595: rebuff
+From parent:repel
+Similarity:0.071428575
+Similarity with root:0.0
+
+1596: drive back
+From parent:repel
+Similarity:0.0
+Similarity with root:0.0
+
+1597: snub
+From parent:repel
+Similarity:0.017857144
+Similarity with root:0.0
+
+1598: disgust
+From parent:repel
+Similarity:0.0
+Similarity with root:0.0
+
+1599: gross out
+From parent:repel
+Similarity:0.0
+Similarity with root:0.0
+
+1600: revolt
+From parent:repel
+Similarity:0.0
+Similarity with root:0.0
+
+1601: lug
+From parent:tug
+Similarity:0.0
+Similarity with root:0.0
+
+1602: tote
+From parent:tug
+Similarity:0.0
+Similarity with root:0.0
+
+1603: advertise
+From parent:push
+Similarity:0.0
+Similarity with root:0.0
+
+1604: advertize
+From parent:push
+Similarity:0.0
+Similarity with root:0.0
+
+1605: crowd
+From parent:push
+Similarity:0.0010964912
+Similarity with root:0.0
+
+1606: squash
+From parent:squeeze
+Similarity:0.5
+Similarity with root:0.0
+
+1607: squelch
+From parent:squeeze
+Similarity:0.0
+Similarity with root:0.0
+
+1608: mash
+From parent:squeeze
+Similarity:0.5
+Similarity with root:0.0
+
+1609: extort
+From parent:squeeze
+Similarity:0.0
+Similarity with root:0.0
+
+1610: gouge
+From parent:squeeze
+Similarity:0.0
+Similarity with root:0.0
+
+1611: wring
+From parent:squeeze
+Similarity:0.0
+Similarity with root:0.0
+
+1612: shove
+From parent:squeeze
+Similarity:0.0
+Similarity with root:0.0
+
+1613: twinge
+From parent:squeeze
+Similarity:0.0
+Similarity with root:0.0
+
+1614: tweet
+From parent:squeeze
+Similarity:0.0
+Similarity with root:0.0
+
+1615: nip
+From parent:squeeze
+Similarity:0.0
+Similarity with root:0.0
+
+1616: shrivel
+From parent:shrink
+Similarity:0.0
+Similarity with root:0.0
+
+1617: shrivel up
+From parent:shrink
+Similarity:0.0
+Similarity with root:0.0
+
+1618: wither
+From parent:shrink
+Similarity:0.375
+Similarity with root:0.0
+
+1619: flinch
+From parent:shrink
+Similarity:0.25
+Similarity with root:0.0
+
+1620: squinch
+From parent:shrink
+Similarity:0.0
+Similarity with root:0.0
+
+1621: funk
+From parent:shrink
+Similarity:0.0
+Similarity with root:0.0
+
+1622: cringe
+From parent:shrink
+Similarity:0.16666667
+Similarity with root:0.0
+
+1623: wince
+From parent:shrink
+Similarity:0.16666667
+Similarity with root:0.0
+
+1624: quail
+From parent:shrink
+Similarity:0.25
+Similarity with root:0.0
+
+1625: distill
+From parent:condense
+Similarity:0.0
+Similarity with root:0.0
+
+1626: distil
+From parent:condense
+Similarity:0.0
+Similarity with root:0.0
+
+1627: focus
+From parent:concentrate
+Similarity:0.11483254
+Similarity with root:0.0
+
+1628: center
+From parent:concentrate
+Similarity:0.05263158
+Similarity with root:0.0
+
+1629: centre
+From parent:concentrate
+Similarity:0.0
+Similarity with root:0.0
+
+1630: pore
+From parent:concentrate
+Similarity:0.21052632
+Similarity with root:0.0
+
+1631: rivet
+From parent:concentrate
+Similarity:0.21052632
+Similarity with root:0.0
+
+1632: centralize
+From parent:concentrate
+Similarity:0.21052632
+Similarity with root:0.0
+
+1633: centralise
+From parent:concentrate
+Similarity:0.0
+Similarity with root:0.0
+
+1634: boil down
+From parent:concentrate
+Similarity:0.0
+Similarity with root:0.0
+
+1635: decoct
+From parent:concentrate
+Similarity:0.0
+Similarity with root:0.0
+
+1636: bowdlerize
+From parent:shorten
+Similarity:0.0
+Similarity with root:0.0
+
+1637: bowdlerise
+From parent:shorten
+Similarity:0.0
+Similarity with root:0.0
+
+1638: expurgate
+From parent:shorten
+Similarity:0.0
+Similarity with root:0.0
+
+1639: castrate
+From parent:shorten
+Similarity:0.0
+Similarity with root:0.0
+
+1640: swerve
+From parent:cut
+Similarity:0.03448276
+Similarity with root:0.0
+
+1641: sheer
+From parent:cut
+Similarity:0.03448276
+Similarity with root:0.0
+
+1642: curve
+From parent:cut
+Similarity:0.01724138
+Similarity with root:0.0
+
+1643: trend
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1644: veer
+From parent:cut
+Similarity:0.03448276
+Similarity with root:0.0
+
+1645: slue
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1646: slew
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1647: tailor
+From parent:cut
+Similarity:0.0019157089
+Similarity with root:0.0
+
+1648: edit
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1649: edit out
+From parent:cut
+Similarity:0.011494253
+Similarity with root:0.0
+
+1650: skip
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1651: hack
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1652: burn
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1653: switch off
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1654: turn off
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1655: ignore
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1656: disregard
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1657: prune
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1658: rationalize
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1659: rationalise
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1660: cut off
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1661: dilute
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1662: thin
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1663: thin out
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1664: geld
+From parent:cut
+Similarity:0.0
+Similarity with root:0.0
+
+1665: scale down
+From parent:reduce
+Similarity:0.0
+Similarity with root:0.0
+
+1666: deoxidize
+From parent:reduce
+Similarity:0.0
+Similarity with root:0.0
+
+1667: deoxidise
+From parent:reduce
+Similarity:0.0
+Similarity with root:0.0
+
+1668: tighten
+From parent:reduce
+Similarity:0.0
+Similarity with root:0.0
+
+1669: repress
+From parent:reduce
+Similarity:0.0
+Similarity with root:0.0
+
+1670: quash
+From parent:reduce
+Similarity:0.0
+Similarity with root:0.0
+
+1671: melt off
+From parent:reduce
+Similarity:0.0
+Similarity with root:0.0
+
+1672: lose weight
+From parent:reduce
+Similarity:0.0
+Similarity with root:0.0
+
+1673: slim
+From parent:reduce
+Similarity:0.0
+Similarity with root:0.0
+
+1674: slenderize
+From parent:reduce
+Similarity:0.0
+Similarity with root:0.0
+
+1675: slim down
+From parent:reduce
+Similarity:0.0
+Similarity with root:0.0
+
+1676: go far
+From parent:arrive
+Similarity:0.0
+Similarity with root:0.0
+
+1677: issue forth
+From parent:come
+Similarity:0.0
+Similarity with root:0.0
+
+1678: hail
+From parent:come
+Similarity:0.0012690356
+Similarity with root:0.0
+
+1679: buy off
+From parent:pay off
+Similarity:0.0
+Similarity with root:0.0
+
+1680: bum
+From parent:fuck off
+Similarity:0.0
+Similarity with root:0.0
+
+1681: bum around
+From parent:fuck off
+Similarity:0.0
+Similarity with root:0.0
+
+1682: bum about
+From parent:fuck off
+Similarity:0.0
+Similarity with root:0.0
+
+1683: arse about
+From parent:fuck off
+Similarity:0.0
+Similarity with root:0.0
+
+1684: loaf
+From parent:fuck off
+Similarity:0.0
+Similarity with root:0.0
+
+1685: frig around
+From parent:fuck off
+Similarity:0.0
+Similarity with root:0.0
+
+1686: waste one's time
+From parent:fuck off
+Similarity:0.0
+Similarity with root:0.0
+
+1687: lounge around
+From parent:fuck off
+Similarity:0.0
+Similarity with root:0.0
+
+1688: loll
+From parent:fuck off
+Similarity:0.0
+Similarity with root:0.0
+
+1689: loll around
+From parent:fuck off
+Similarity:0.0
+Similarity with root:0.0
+
+1690: lounge about
+From parent:fuck off
+Similarity:0.0
+Similarity with root:0.0
+
+1691: masturbate
+From parent:fuck off
+Similarity:0.0
+Similarity with root:0.0
+
+1692: wank
+From parent:fuck off
+Similarity:0.0
+Similarity with root:0.0
+
+1693: she-bop
+From parent:fuck off
+Similarity:0.0
+Similarity with root:0.0
+
+1694: jack off
+From parent:fuck off
+Similarity:0.0
+Similarity with root:0.0
+
+1695: jerk off
+From parent:fuck off
+Similarity:0.0
+Similarity with root:0.0
+
+1696: stir up
+From parent:vex
+Similarity:0.0
+Similarity with root:0.0
+
+1697: raise up
+From parent:vex
+Similarity:0.0
+Similarity with root:0.0
+
+1698: stick around
+From parent:stick
+Similarity:0.0
+Similarity with root:0.0
+
+1699: stay put
+From parent:stick
+Similarity:0.18181819
+Similarity with root:0.0
+
+1700: stand by
+From parent:stick
+Similarity:0.0
+Similarity with root:0.0
+
+1701: stick by
+From parent:stick
+Similarity:0.0
+Similarity with root:0.0
+
+1702: cohere
+From parent:stick
+Similarity:0.0
+Similarity with root:0.0
+
+1703: sting
+From parent:stick
+Similarity:0.0
+Similarity with root:0.0
+
+1704: thwart
+From parent:baffle
+Similarity:0.0
+Similarity with root:0.0
+
+1705: spoil
+From parent:baffle
+Similarity:0.0
+Similarity with root:0.0
+
+1706: scotch
+From parent:baffle
+Similarity:0.0
+Similarity with root:0.0
+
+1707: foil
+From parent:baffle
+Similarity:0.0
+Similarity with root:0.0
+
+1708: bilk
+From parent:baffle
+Similarity:0.0
+Similarity with root:0.0
+
+1709: beat out
+From parent:beat
+Similarity:0.36734694
+Similarity with root:0.0
+
+1710: shell
+From parent:beat
+Similarity:0.0
+Similarity with root:0.0
+
+1711: vanquish
+From parent:beat
+Similarity:0.36734694
+Similarity with root:0.0
+
+1712: thump
+From parent:beat
+Similarity:0.04897959
+Similarity with root:0.0
+
+1713: drum
+From parent:beat
+Similarity:0.020408163
+Similarity with root:0.0
+
+1714: thrum
+From parent:beat
+Similarity:0.0
+Similarity with root:0.0
+
+1715: scramble
+From parent:beat
+Similarity:0.0
+Similarity with root:0.0
+
+1716: pulsate
+From parent:beat
+Similarity:0.0
+Similarity with root:0.0
+
+1717: quiver
+From parent:beat
+Similarity:0.0
+Similarity with root:0.0
+
+1718: outwit
+From parent:beat
+Similarity:0.0
+Similarity with root:0.0
+
+1719: overreach
+From parent:beat
+Similarity:0.0
+Similarity with root:0.0
+
+1720: outsmart
+From parent:beat
+Similarity:0.0
+Similarity with root:0.0
+
+1721: outfox
+From parent:beat
+Similarity:0.0
+Similarity with root:0.0
+
+1722: posture
+From parent:pose
+Similarity:0.0
+Similarity with root:0.0
+
+1723: impersonate
+From parent:pose
+Similarity:0.0
+Similarity with root:0.0
+
+1724: personate
+From parent:pose
+Similarity:0.0
+Similarity with root:0.0
+
+1725: besot
+From parent:stupefy
+Similarity:0.0
+Similarity with root:0.0
+
+1726: stun
+From parent:stupefy
+Similarity:0.0
+Similarity with root:0.0
+
+1727: astonish
+From parent:amaze
+Similarity:0.8
+Similarity with root:0.0
+
+1728: astound
+From parent:amaze
+Similarity:0.8
+Similarity with root:0.0
+
+1729: unhorse
+From parent:get down
+Similarity:0.0
+Similarity with root:0.0
+
+1730: dismount
+From parent:get down
+Similarity:0.16666667
+Similarity with root:0.0
+
+1731: depress
+From parent:get down
+Similarity:0.0
+Similarity with root:0.0
+
+1732: deject
+From parent:get down
+Similarity:0.0
+Similarity with root:0.0
+
+1733: cast down
+From parent:get down
+Similarity:0.0
+Similarity with root:0.0
+
+1734: dismay
+From parent:get down
+Similarity:0.0
+Similarity with root:0.0
+
+1735: dispirit
+From parent:get down
+Similarity:0.0
+Similarity with root:0.0
+
+1736: demoralize
+From parent:get down
+Similarity:0.0
+Similarity with root:0.0
+
+1737: demoralise
+From parent:get down
+Similarity:0.0
+Similarity with root:0.0
+
+1738: write down
+From parent:get down
+Similarity:0.0
+Similarity with root:0.0
+
+1739: go about
+From parent:set about
+Similarity:0.75
+Similarity with root:0.0
+
+1740: approach
+From parent:set about
+Similarity:0.060810808
+Similarity with root:0.0
+
+1741: array
+From parent:set out
+Similarity:0.29411766
+Similarity with root:0.0
+
+1742: spawn
+From parent:engender
+Similarity:0.0
+Similarity with root:0.0
+
+1743: fuss
+From parent:mother
+Similarity:0.2
+Similarity with root:0.0
+
+1744: overprotect
+From parent:mother
+Similarity:0.0
+Similarity with root:0.0
+
+1745: go forward
+From parent:continue
+Similarity:0.02293578
+Similarity with root:0.0
+
+1746: persist in
+From parent:continue
+Similarity:0.0045871558
+Similarity with root:0.0
+
+1747: stay on
+From parent:continue
+Similarity:0.0
+Similarity with root:0.0
+
+1748: remain
+From parent:continue
+Similarity:0.0
+Similarity with root:0.0
+
+1749: perceive
+From parent:comprehend
+Similarity:0.0625
+Similarity with root:0.0
+
+1750: span
+From parent:traverse
+Similarity:0.16666667
+Similarity with root:9.500512E-9
+
+1751: deny
+From parent:traverse
+Similarity:0.0
+Similarity with root:0.0
+
+1752: intersect
+From parent:cross
+Similarity:0.12280702
+Similarity with root:8.842583E-9
+
+1753: crossbreed
+From parent:cross
+Similarity:0.0
+Similarity with root:0.0
+
+1754: hybridize
+From parent:cross
+Similarity:0.0
+Similarity with root:0.0
+
+1755: hybridise
+From parent:cross
+Similarity:0.0
+Similarity with root:0.0
+
+1756: interbreed
+From parent:cross
+Similarity:0.0
+Similarity with root:0.0
+
+1757: transit
+From parent:pass over
+Similarity:0.0
+Similarity with root:0.0
+
+1758: pass through
+From parent:pass over
+Similarity:0.1891892
+Similarity with root:2.6960914E-9
+
+1759: move through
+From parent:pass over
+Similarity:0.0
+Similarity with root:0.0
+
+1760: pass across
+From parent:pass over
+Similarity:0.0
+Similarity with root:0.0
+
+1761: skip over
+From parent:pass over
+Similarity:0.0
+Similarity with root:0.0
+
+1762: overfly
+From parent:pass over
+Similarity:0.0
+Similarity with root:0.0
+
+1763: wipe
+From parent:pass over
+Similarity:0.0
+Similarity with root:0.0
+
+1764: get well
+From parent:get over
+Similarity:0.0
+Similarity with root:0.0
+
+1765: bounce back
+From parent:get over
+Similarity:0.16666667
+Similarity with root:9.500512E-9
+
+1766: crosscut
+From parent:cut across
+Similarity:0.0
+Similarity with root:0.0
+
+1767: recompense
+From parent:compensate
+Similarity:0.0
+Similarity with root:0.0
+
+1768: indemnify
+From parent:compensate
+Similarity:0.0
+Similarity with root:0.0
+
+1769: right
+From parent:compensate
+Similarity:0.0
+Similarity with root:0.0
+
+1770: redress
+From parent:compensate
+Similarity:0.0
+Similarity with root:0.0
+
+1771: remunerate
+From parent:compensate
+Similarity:0.0
+Similarity with root:0.0
+
+1772: over-correct
+From parent:overcompensate
+Similarity:0.0
+Similarity with root:0.0
+
+1773: hide out
+From parent:hide
+Similarity:0.1764706
+Similarity with root:0.0
+
+1774: obscure
+From parent:hide
+Similarity:0.0
+Similarity with root:0.0
+
+1775: blot out
+From parent:hide
+Similarity:0.0
+Similarity with root:0.0
+
+1776: veil
+From parent:hide
+Similarity:0.0
+Similarity with root:0.0
+
+1777: multiply
+From parent:breed
+Similarity:0.0
+Similarity with root:0.0
+
+1778: overlie
+From parent:overlay
+Similarity:0.0
+Similarity with root:0.0
+
+1779: hover
+From parent:brood
+Similarity:0.0
+Similarity with root:0.0
+
+1780: loom
+From parent:brood
+Similarity:0.035714287
+Similarity with root:0.0
+
+1781: bulk large
+From parent:brood
+Similarity:0.0
+Similarity with root:0.0
+
+1782: sulk
+From parent:brood
+Similarity:0.0
+Similarity with root:0.0
+
+1783: pout
+From parent:brood
+Similarity:0.0
+Similarity with root:0.0
+
+1784: grizzle
+From parent:brood
+Similarity:0.0
+Similarity with root:0.0
+
+1785: stew
+From parent:brood
+Similarity:0.0
+Similarity with root:0.0
+
+1786: sue
+From parent:process
+Similarity:0.009259259
+Similarity with root:2.0989017E-9
+
+1787: litigate
+From parent:process
+Similarity:0.0
+Similarity with root:0.0
+
+1788: cherish
+From parent:care for
+Similarity:0.0
+Similarity with root:0.0
+
+1789: hold dear
+From parent:care for
+Similarity:0.0
+Similarity with root:0.0
+
+1790: treasure
+From parent:care for
+Similarity:0.0
+Similarity with root:0.0
+
+1791: talk
+From parent:speak
+Similarity:0.31102479
+Similarity with root:0.0
+
+1792: mouth
+From parent:speak
+Similarity:0.37078652
+Similarity with root:0.0
+
+1793: solicit
+From parent:accost
+Similarity:0.0
+Similarity with root:0.0
+
+1794: hop out
+From parent:get off
+Similarity:0.0
+Similarity with root:0.0
+
+1795: trip out
+From parent:get off
+Similarity:0.0
+Similarity with root:0.0
+
+1796: break loose
+From parent:get away
+Similarity:0.20512822
+Similarity with root:4.859924E-8
+
+1797: miss
+From parent:escape
+Similarity:0.0
+Similarity with root:0.0
+
+1798: elude
+From parent:escape
+Similarity:0.016260162
+Similarity with root:2.1376E-9
+
+1799: write up
+From parent:write out
+Similarity:0.0
+Similarity with root:0.0
+
+1800: emerge
+From parent:issue
+Similarity:0.019593615
+Similarity with root:2.1491413E-11
+
+1801: come forth
+From parent:issue
+Similarity:0.115384616
+Similarity with root:1.2656053E-10
+
+1802: egress
+From parent:issue
+Similarity:0.0
+Similarity with root:0.0
+
+1803: get along with
+From parent:get along
+Similarity:0.5
+Similarity with root:7.1295756E-9
+
+1804: get on with
+From parent:get along
+Similarity:0.0
+Similarity with root:0.0
+
+1805: enjoy
+From parent:love
+Similarity:0.034464475
+Similarity with root:0.0
+
+1806: drive in
+From parent:screw
+Similarity:0.0
+Similarity with root:0.0
+
+1807: cheat
+From parent:screw
+Similarity:0.0
+Similarity with root:0.0
+
+1808: chouse
+From parent:screw
+Similarity:0.0
+Similarity with root:0.0
+
+1809: shaft
+From parent:screw
+Similarity:0.0
+Similarity with root:0.0
+
+1810: chicane
+From parent:screw
+Similarity:0.0
+Similarity with root:0.0
+
+1811: jockey
+From parent:screw
+Similarity:0.0
+Similarity with root:0.0
+
+1812: hunch
+From parent:hump
+Similarity:0.0
+Similarity with root:0.0
+
+1813: hunch forward
+From parent:hump
+Similarity:0.0
+Similarity with root:0.0
+
+1814: hunch over
+From parent:hump
+Similarity:0.0
+Similarity with root:0.0
+
+1815: personify
+From parent:bed
+Similarity:0.0
+Similarity with root:0.0
+
+1816: cost
+From parent:bed
+Similarity:0.0
+Similarity with root:0.0
+
+1817: slam
+From parent:bang
+Similarity:0.3125
+Similarity with root:0.0
+
+1818: spang
+From parent:bang
+Similarity:0.0
+Similarity with root:0.0
+
+1819: sock
+From parent:bonk
+Similarity:0.0
+Similarity with root:0.0
+
+1820: bop
+From parent:bonk
+Similarity:0.0
+Similarity with root:0.0
+
+1821: whop
+From parent:bonk
+Similarity:0.0
+Similarity with root:0.0
+
+1822: whap
+From parent:bonk
+Similarity:0.0
+Similarity with root:0.0
+
+1823: bash
+From parent:bonk
+Similarity:0.0
+Similarity with root:0.0
+
+1824: eke out
+From parent:fill out
+Similarity:0.0
+Similarity with root:0.0
+
+1825: fatten
+From parent:fill out
+Similarity:0.0
+Similarity with root:0.0
+
+1826: fat
+From parent:fill out
+Similarity:0.0
+Similarity with root:0.0
+
+1827: plump out
+From parent:fill out
+Similarity:0.0
+Similarity with root:0.0
+
+1828: fatten out
+From parent:fill out
+Similarity:0.0
+Similarity with root:0.0
+
+1829: fatten up
+From parent:fill out
+Similarity:0.0
+Similarity with root:0.0
+
+1830: shade
+From parent:fill in
+Similarity:0.05
+Similarity with root:0.0
+
+1831: substitute
+From parent:fill in
+Similarity:0.0
+Similarity with root:0.0
+
+1832: sub
+From parent:fill in
+Similarity:0.0
+Similarity with root:0.0
+
+1833: stand in
+From parent:fill in
+Similarity:0.0
+Similarity with root:0.0
+
+1834: clamber
+From parent:struggle
+Similarity:0.12
+Similarity with root:0.0
+
+1835: shin
+From parent:struggle
+Similarity:0.0
+Similarity with root:0.0
+
+1836: shinny
+From parent:struggle
+Similarity:0.0
+Similarity with root:0.0
+
+1837: skin
+From parent:struggle
+Similarity:0.0
+Similarity with root:0.0
+
+1838: sputter
+From parent:struggle
+Similarity:0.0
+Similarity with root:0.0
+
+1839: tweak
+From parent:pull off
+Similarity:0.0
+Similarity with root:0.0
+
+1840: pick off
+From parent:pull off
+Similarity:0.33333334
+Similarity with root:0.0
+
+1841: negotiate
+From parent:negociate
+Similarity:0.0
+Similarity with root:0.0
+
+1842: talk terms
+From parent:negociate
+Similarity:0.0
+Similarity with root:0.0
+
+1843: monitor
+From parent:supervise
+Similarity:0.0
+Similarity with root:0.0
+
+1844: ride herd on
+From parent:supervise
+Similarity:0.0
+Similarity with root:0.0
+
+1845: overspread
+From parent:spread
+Similarity:0.0
+Similarity with root:0.0
+
+1846: fan out
+From parent:spread
+Similarity:0.054545455
+Similarity with root:8.571597E-9
+
+1847: give off
+From parent:give out
+Similarity:0.0
+Similarity with root:0.0
+
+1848: run out
+From parent:give out
+Similarity:0.0
+Similarity with root:0.0
+
+1849: faint
+From parent:pass out
+Similarity:1.0
+Similarity with root:0.0
+
+1850: swoon
+From parent:pass out
+Similarity:1.0
+Similarity with root:0.0
+
+1851: zonk out
+From parent:pass out
+Similarity:0.0
+Similarity with root:0.0
+
+1852: black out
+From parent:pass out
+Similarity:0.0
+Similarity with root:0.0
+
+1853: pervade
+From parent:diffuse
+Similarity:0.33333334
+Similarity with root:6.4452115E-9
+
+1854: interpenetrate
+From parent:diffuse
+Similarity:0.0
+Similarity with root:0.0
+
+1855: imbue
+From parent:diffuse
+Similarity:0.0
+Similarity with root:0.0
+
+1856: riddle
+From parent:diffuse
+Similarity:0.0
+Similarity with root:0.0
+
+1857: sprinkle
+From parent:disperse
+Similarity:0.33333334
+Similarity with root:0.0
+
+1858: dot
+From parent:disperse
+Similarity:0.0
+Similarity with root:0.0
+
+1859: dust
+From parent:disperse
+Similarity:0.0
+Similarity with root:0.0
+
+1860: reel
+From parent:stagger
+Similarity:0.3921569
+Similarity with root:0.0
+
+1861: keel
+From parent:stagger
+Similarity:0.0
+Similarity with root:0.0
+
+1862: lurch
+From parent:stagger
+Similarity:0.29411766
+Similarity with root:0.0
+
+1863: swag
+From parent:stagger
+Similarity:0.0
+Similarity with root:0.0
+
+1864: careen
+From parent:stagger
+Similarity:0.5882353
+Similarity with root:0.0
+
+1865: flounder
+From parent:stagger
+Similarity:0.22058824
+Similarity with root:0.0
+
+1866: deed over
+From parent:grant
+Similarity:0.0
+Similarity with root:0.0
+
+1867: bewray
+From parent:betray
+Similarity:0.0
+Similarity with root:0.0
+
+1868: cheat on
+From parent:betray
+Similarity:0.0
+Similarity with root:0.0
+
+1869: cuckold
+From parent:betray
+Similarity:0.0
+Similarity with root:0.0
+
+1870: deceive
+From parent:betray
+Similarity:0.0
+Similarity with root:0.0
+
+1871: lead astray
+From parent:betray
+Similarity:0.0
+Similarity with root:0.0
+
+1872: switch over
+From parent:switch
+Similarity:0.0
+Similarity with root:0.0
+
+1873: exchange
+From parent:switch
+Similarity:0.030303033
+Similarity with root:0.0
+
+1874: change over
+From parent:switch
+Similarity:0.09090909
+Similarity with root:0.0
+
+1875: wish well
+From parent:wish
+Similarity:0.0
+Similarity with root:0.0
+
+1876: make sense
+From parent:add up
+Similarity:0.0
+Similarity with root:0.0
+
+1877: heel
+From parent:list
+Similarity:0.0
+Similarity with root:0.0
+
+1878: declaim
+From parent:recite
+Similarity:0.5
+Similarity with root:0.0
+
+1879: cheer
+From parent:urge
+Similarity:0.0
+Similarity with root:0.0
+
+1880: inspire
+From parent:urge
+Similarity:0.0010416667
+Similarity with root:0.0
+
+1881: pep up
+From parent:urge
+Similarity:0.020833334
+Similarity with root:0.0
+
+1882: take the field
+From parent:campaign
+Similarity:0.0
+Similarity with root:0.0
+
+1883: foment
+From parent:agitate
+Similarity:0.0
+Similarity with root:0.0
+
+1884: budge
+From parent:agitate
+Similarity:0.0
+Similarity with root:0.0
+
+1885: stub out
+From parent:press out
+Similarity:1.0
+Similarity with root:0.0
+
+1886: crush out
+From parent:press out
+Similarity:0.0
+Similarity with root:0.0
+
+1887: put right
+From parent:iron out
+Similarity:0.0
+Similarity with root:0.0
+
+1888: conspire
+From parent:conjure
+Similarity:0.0
+Similarity with root:0.0
+
+1889: cabal
+From parent:conjure
+Similarity:0.0
+Similarity with root:0.0
+
+1890: complot
+From parent:conjure
+Similarity:0.0
+Similarity with root:0.0
+
+1891: reason out
+From parent:reason
+Similarity:0.0
+Similarity with root:0.0
+
+1892: conclude
+From parent:reason
+Similarity:0.39130434
+Similarity with root:1.6695654E-7
+
+1893: excel
+From parent:surpass
+Similarity:0.4
+Similarity with root:0.0
+
+1894: outstrip
+From parent:surpass
+Similarity:0.4
+Similarity with root:0.0
+
+1895: outmatch
+From parent:surpass
+Similarity:0.0
+Similarity with root:0.0
+
+1896: outgo
+From parent:surpass
+Similarity:0.0
+Similarity with root:0.0
+
+1897: outperform
+From parent:surpass
+Similarity:0.0
+Similarity with root:0.0
+
+1898: backslide
+From parent:lapse
+Similarity:0.0
+Similarity with root:0.0
+
+1899: steal away
+From parent:slip away
+Similarity:0.5
+Similarity with root:0.0
+
+1900: sneak away
+From parent:slip away
+Similarity:0.0
+Similarity with root:0.0
+
+1901: sneak off
+From parent:slip away
+Similarity:0.5
+Similarity with root:0.0
+
+1902: sneak out
+From parent:slip away
+Similarity:0.5
+Similarity with root:0.0
+
+1903: breathe
+From parent:pass off
+Similarity:0.0
+Similarity with root:0.0
+
+1904: expend
+From parent:spend
+Similarity:0.057971016
+Similarity with root:0.0
+
+1905: pull through
+From parent:make it
+Similarity:0.0
+Similarity with root:0.0
+
+1906: pull round
+From parent:make it
+Similarity:0.0
+Similarity with root:0.0
+
+1907: trespass
+From parent:overstep
+Similarity:0.0
+Similarity with root:0.0
+
+1908: drop down
+From parent:sink
+Similarity:0.0
+Similarity with root:0.0
+
+1909: dip
+From parent:sink
+Similarity:0.0
+Similarity with root:0.0
+
+1910: slump
+From parent:sink
+Similarity:0.01724138
+Similarity with root:0.0
+
+1911: fall off
+From parent:sink
+Similarity:0.0
+Similarity with root:0.0
+
+1912: slide down
+From parent:sink
+Similarity:0.0
+Similarity with root:0.0
+
+1913: die out
+From parent:die
+Similarity:0.0
+Similarity with root:0.0
+
+1914: become flat
+From parent:die
+Similarity:0.0
+Similarity with root:0.0
+
+1915: exhale
+From parent:expire
+Similarity:0.0
+Similarity with root:0.0
+
+1916: breathe out
+From parent:expire
+Similarity:0.0
+Similarity with root:0.0
+
+1917: stall
+From parent:conk
+Similarity:0.0
+Similarity with root:0.0
+
+1918: gag
+From parent:choke
+Similarity:0.0
+Similarity with root:0.0
+
+1919: scrag
+From parent:choke
+Similarity:0.0
+Similarity with root:0.0
+
+1920: strangle
+From parent:choke
+Similarity:0.0
+Similarity with root:0.0
+
+1921: suffocate
+From parent:choke
+Similarity:0.0
+Similarity with root:0.0
+
+1922: clog
+From parent:choke
+Similarity:0.0
+Similarity with root:0.0
+
+1923: choke off
+From parent:choke
+Similarity:0.0
+Similarity with root:0.0
+
+1924: clog up
+From parent:choke
+Similarity:0.0
+Similarity with root:0.0
+
+1925: congest
+From parent:choke
+Similarity:0.0
+Similarity with root:0.0
+
+1926: foul
+From parent:choke
+Similarity:0.0
+Similarity with root:0.0
+
+1927: stifle
+From parent:choke
+Similarity:0.0
+Similarity with root:0.0
+
+1928: asphyxiate
+From parent:choke
+Similarity:0.0
+Similarity with root:0.0
+
+1929: cronk
+From parent:croak
+Similarity:0.0
+Similarity with root:0.0
+
+1930: murmur
+From parent:croak
+Similarity:0.0
+Similarity with root:0.0
+
+1931: mutter
+From parent:croak
+Similarity:0.0
+Similarity with root:0.0
+
+1932: grumble
+From parent:croak
+Similarity:0.0
+Similarity with root:0.0
+
+1933: gnarl
+From parent:croak
+Similarity:0.0
+Similarity with root:0.0
+
+1934: obviate
+From parent:eliminate
+Similarity:0.0
+Similarity with root:0.0
+
+1935: rid of
+From parent:eliminate
+Similarity:0.0
+Similarity with root:0.0
+
+1936: rule out
+From parent:eliminate
+Similarity:0.0021929825
+Similarity with root:0.0
+
+1937: winnow out
+From parent:eliminate
+Similarity:0.0
+Similarity with root:0.0
+
+1938: reject
+From parent:eliminate
+Similarity:0.0
+Similarity with root:0.0
+
+1939: endeavor
+From parent:strive
+Similarity:0.68421054
+Similarity with root:0.0
+
+1940: endeavour
+From parent:strive
+Similarity:0.0
+Similarity with root:0.0
+
+1941: sift
+From parent:strain
+Similarity:0.035714287
+Similarity with root:0.0
+
+1942: sieve
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+1943: tense
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+1944: tense up
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+1945: filtrate
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+1946: separate out
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+1947: filter out
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+1948: puree
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+1949: distort
+From parent:strain
+Similarity:0.0
+Similarity with root:0.0
+
+1950: pay up
+From parent:pay
+Similarity:0.0
+Similarity with root:0.0
+
+1951: ante up
+From parent:pay
+Similarity:0.0
+Similarity with root:0.0
+
+1952: ease off
+From parent:ease up
+Similarity:0.0
+Similarity with root:0.0
+
+1953: slacken off
+From parent:ease up
+Similarity:0.0
+Similarity with root:0.0
+
+1954: flag
+From parent:ease up
+Similarity:0.0
+Similarity with root:0.0
+
+1955: let up
+From parent:ease up
+Similarity:0.0
+Similarity with root:0.0
+
+1956: feed in
+From parent:feed
+Similarity:0.0
+Similarity with root:0.0
+
+1957: prey
+From parent:feed
+Similarity:0.0
+Similarity with root:0.0
+
+1958: feast
+From parent:feed
+Similarity:0.0
+Similarity with root:0.0
+
+1959: fertilize
+From parent:feed
+Similarity:0.0
+Similarity with root:0.0
+
+1960: fertilise
+From parent:feed
+Similarity:0.0
+Similarity with root:0.0
+
+1961: tip
+From parent:feed
+Similarity:0.0
+Similarity with root:0.0
+
+1962: fee
+From parent:feed
+Similarity:0.0
+Similarity with root:0.0
+
+1963: bung
+From parent:feed
+Similarity:0.0
+Similarity with root:0.0
+
+1964: set in
+From parent:kick in
+Similarity:0.0
+Similarity with root:0.0
+
+1965: kick down
+From parent:kick in
+Similarity:0.0
+Similarity with root:0.0
+
+1966: fall through
+From parent:founder
+Similarity:0.0
+Similarity with root:0.0
+
+1967: fall flat
+From parent:founder
+Similarity:0.0
+Similarity with root:0.0
+
+1968: flop
+From parent:founder
+Similarity:0.0
+Similarity with root:0.0
+
+1969: open up
+From parent:open
+Similarity:0.13553114
+Similarity with root:0.0
+
+1970: corrupt
+From parent:subvert
+Similarity:0.0
+Similarity with root:0.0
+
+1971: pervert
+From parent:subvert
+Similarity:0.0
+Similarity with root:0.0
+
+1972: debauch
+From parent:subvert
+Similarity:0.0
+Similarity with root:0.0
+
+1973: debase
+From parent:subvert
+Similarity:0.0
+Similarity with root:0.0
+
+1974: profane
+From parent:subvert
+Similarity:0.0
+Similarity with root:0.0
+
+1975: vitiate
+From parent:subvert
+Similarity:0.0
+Similarity with root:0.0
+
+1976: deprave
+From parent:subvert
+Similarity:0.0
+Similarity with root:0.0
+
+1977: misdirect
+From parent:subvert
+Similarity:0.0
+Similarity with root:0.0
+
+1978: sabotage
+From parent:subvert
+Similarity:0.0
+Similarity with root:0.0
+
+1979: undermine
+From parent:subvert
+Similarity:0.0
+Similarity with root:0.0
+
+1980: countermine
+From parent:subvert
+Similarity:0.0
+Similarity with root:0.0
+
+1981: counteract
+From parent:subvert
+Similarity:0.0
+Similarity with root:0.0
+
+1982: invalidate
+From parent:annul
+Similarity:0.0
+Similarity with root:0.0
+
+1983: void
+From parent:annul
+Similarity:0.0
+Similarity with root:0.0
+
+1984: avoid
+From parent:annul
+Similarity:0.0
+Similarity with root:0.0
+
+1985: nullify
+From parent:annul
+Similarity:0.0
+Similarity with root:0.0
+
+1986: pilfer
+From parent:lift
+Similarity:0.018181818
+Similarity with root:0.0
+
+1987: cabbage
+From parent:lift
+Similarity:0.0
+Similarity with root:0.0
+
+1988: purloin
+From parent:lift
+Similarity:0.018181818
+Similarity with root:0.0
+
+1989: abstract
+From parent:lift
+Similarity:0.0025974025
+Similarity with root:0.0
+
+1990: snarf
+From parent:lift
+Similarity:0.0
+Similarity with root:0.0
+
+1991: swipe
+From parent:lift
+Similarity:0.0
+Similarity with root:0.0
+
+1992: sneak
+From parent:lift
+Similarity:0.0
+Similarity with root:0.0
+
+1993: filch
+From parent:lift
+Similarity:0.0
+Similarity with root:0.0
+
+1994: hoist
+From parent:lift
+Similarity:0.018181818
+Similarity with root:0.0
+
+1995: rear
+From parent:lift
+Similarity:0.0
+Similarity with root:0.0
+
+1996: plagiarize
+From parent:lift
+Similarity:0.0
+Similarity with root:0.0
+
+1997: plagiarise
+From parent:lift
+Similarity:0.0
+Similarity with root:0.0
+
+1998: rustle
+From parent:lift
+Similarity:0.0
+Similarity with root:0.0
+
+1999: airlift
+From parent:lift
+Similarity:0.0
+Similarity with root:0.0
+
+2000: face-lift
+From parent:lift
+Similarity:0.0
+Similarity with root:0.0
+
+2001: empty
+From parent:vacate
+Similarity:0.06666667
+Similarity with root:0.0
+
+2002: abandon
+From parent:vacate
+Similarity:0.0625
+Similarity with root:0.0
+
+2003: flurry
+From parent:disconcert
+Similarity:0.0
+Similarity with root:0.0
+
+2004: inconvenience
+From parent:trouble
+Similarity:0.0
+Similarity with root:0.0
+
+2005: disoblige
+From parent:trouble
+Similarity:0.0
+Similarity with root:0.0
+
+2006: discommode
+From parent:trouble
+Similarity:0.0
+Similarity with root:0.0
+
+2007: incommode
+From parent:trouble
+Similarity:0.0
+Similarity with root:0.0
+
+2008: perturb
+From parent:trouble
+Similarity:0.21428572
+Similarity with root:0.0
+
+2009: unhinge
+From parent:trouble
+Similarity:0.0
+Similarity with root:0.0
+
+2010: disquiet
+From parent:trouble
+Similarity:0.0
+Similarity with root:0.0
+
+2011: cark
+From parent:trouble
+Similarity:0.0
+Similarity with root:0.0
+
+2012: distract
+From parent:trouble
+Similarity:0.0
+Similarity with root:0.0
+
+2013: disorder
+From parent:trouble
+Similarity:0.0
+Similarity with root:0.0
+
+2014: trouble oneself
+From parent:trouble
+Similarity:0.071428575
+Similarity with root:0.0
+
+2015: inconvenience oneself
+From parent:trouble
+Similarity:0.0
+Similarity with root:0.0
+
+2016: afflict
+From parent:trouble
+Similarity:0.0
+Similarity with root:0.0
+
+2017: ail
+From parent:trouble
+Similarity:0.0
+Similarity with root:0.0
+
+2018: pain
+From parent:trouble
+Similarity:0.071428575
+Similarity with root:0.0
+
+2019: wheel around
+From parent:wheel
+Similarity:0.0
+Similarity with root:0.0
+
+2020: bicycle
+From parent:wheel
+Similarity:0.0
+Similarity with root:0.0
+
+2021: cycle
+From parent:wheel
+Similarity:0.0
+Similarity with root:0.0
+
+2022: bike
+From parent:wheel
+Similarity:0.0
+Similarity with root:0.0
+
+2023: pedal
+From parent:wheel
+Similarity:0.0
+Similarity with root:0.0
+
+2024: ripple
+From parent:undulate
+Similarity:0.6666667
+Similarity with root:0.0
+
+2025: ruffle
+From parent:undulate
+Similarity:0.5
+Similarity with root:0.0
+
+2026: cockle
+From parent:undulate
+Similarity:0.0
+Similarity with root:0.0
+
+2027: straighten
+From parent:roll out
+Similarity:0.0
+Similarity with root:0.0
+
+2028: weave
+From parent:wind
+Similarity:0.0
+Similarity with root:0.0
+
+2029: meander
+From parent:wind
+Similarity:0.42857143
+Similarity with root:0.0
+
+2030: scent
+From parent:wind
+Similarity:0.0
+Similarity with root:0.0
+
+2031: nose
+From parent:wind
+Similarity:0.0
+Similarity with root:0.0
+
+2032: wind up
+From parent:wind
+Similarity:0.0
+Similarity with root:0.0
+
+2033: wreathe
+From parent:wind
+Similarity:0.0
+Similarity with root:0.0
+
+2034: envelop
+From parent:wrap
+Similarity:0.1
+Similarity with root:0.0
+
+2035: enfold
+From parent:wrap
+Similarity:0.0
+Similarity with root:0.0
+
+2036: enwrap
+From parent:wrap
+Similarity:0.0
+Similarity with root:0.0
+
+2037: intertwine
+From parent:twine
+Similarity:1.0
+Similarity with root:0.0
+
+2038: entwine
+From parent:twine
+Similarity:0.0
+Similarity with root:0.0
+
+2039: enlace
+From parent:twine
+Similarity:0.0
+Similarity with root:0.0
+
+2040: lace
+From parent:twine
+Similarity:1.0
+Similarity with root:0.0
+
+2041: bustle
+From parent:hustle
+Similarity:0.33333334
+Similarity with root:0.0
+
+2042: bustle about
+From parent:hustle
+Similarity:0.33333334
+Similarity with root:0.0
+
+2043: overcharge
+From parent:pluck
+Similarity:0.0
+Similarity with root:0.0
+
+2044: surcharge
+From parent:pluck
+Similarity:0.0
+Similarity with root:0.0
+
+2045: gazump
+From parent:pluck
+Similarity:0.0
+Similarity with root:0.0
+
+2046: fleece
+From parent:pluck
+Similarity:0.0
+Similarity with root:0.0
+
+2047: plume
+From parent:pluck
+Similarity:0.0
+Similarity with root:0.0
+
+2048: rob
+From parent:pluck
+Similarity:0.0
+Similarity with root:0.0
+
+2049: plunk
+From parent:pluck
+Similarity:0.0
+Similarity with root:0.0
+
+2050: cull
+From parent:pluck
+Similarity:0.0
+Similarity with root:0.0
+
+2051: dither
+From parent:flap
+Similarity:0.0
+Similarity with root:0.0
+
+2052: pother
+From parent:flap
+Similarity:0.0
+Similarity with root:0.0
+
+2053: beckon
+From parent:wave
+Similarity:0.63
+Similarity with root:0.0
+
+2054: brandish
+From parent:wave
+Similarity:0.11111112
+Similarity with root:0.0
+
+2055: flourish
+From parent:wave
+Similarity:0.0
+Similarity with root:0.0
+
+2056: curl
+From parent:wave
+Similarity:0.0
+Similarity with root:0.0
+
+2057: digress
+From parent:wander
+Similarity:0.0
+Similarity with root:0.0
+
+2058: divagate
+From parent:wander
+Similarity:0.0
+Similarity with root:0.0
+
+2059: err
+From parent:stray
+Similarity:0.083333336
+Similarity with root:0.0
+
+2060: slog
+From parent:tramp
+Similarity:0.0
+Similarity with root:0.0
+
+2061: footslog
+From parent:tramp
+Similarity:0.0
+Similarity with root:0.0
+
+2062: plod
+From parent:tramp
+Similarity:0.0
+Similarity with root:0.0
+
+2063: trudge
+From parent:tramp
+Similarity:0.0
+Similarity with root:0.0
+
+2064: ramble on
+From parent:ramble
+Similarity:1.0
+Similarity with root:0.0
+
+2065: reeve
+From parent:rove
+Similarity:0.0
+Similarity with root:0.0
+
+2066: straddle
+From parent:range
+Similarity:0.0050000004
+Similarity with root:0.0
+
+2067: browse
+From parent:range
+Similarity:0.0
+Similarity with root:0.0
+
+2068: graze
+From parent:range
+Similarity:0.0
+Similarity with root:0.0
+
+2069: pasture
+From parent:range
+Similarity:0.0
+Similarity with root:0.0
+
+2070: float
+From parent:drift
+Similarity:0.33333334
+Similarity with root:0.0
+
+2071: be adrift
+From parent:drift
+Similarity:0.0
+Similarity with root:0.0
+
+2072: freewheel
+From parent:drift
+Similarity:0.0
+Similarity with root:0.0
+
+2073: rotate
+From parent:revolve
+Similarity:0.36363637
+Similarity with root:0.0
+
+2074: orb
+From parent:revolve
+Similarity:0.0
+Similarity with root:0.0
+
+2075: orbit
+From parent:revolve
+Similarity:0.5
+Similarity with root:0.0
+
+2076: hum
+From parent:seethe
+Similarity:0.0
+Similarity with root:0.0
+
+2077: buzz
+From parent:seethe
+Similarity:0.0
+Similarity with root:0.0
+
+2078: boil
+From parent:seethe
+Similarity:0.0
+Similarity with root:0.0
+
+2079: furl
+From parent:roll up
+Similarity:1.0
+Similarity with root:0.0
+
+2080: crunch
+From parent:grind
+Similarity:0.0
+Similarity with root:0.0
+
+2081: cranch
+From parent:grind
+Similarity:0.0
+Similarity with root:0.0
+
+2082: craunch
+From parent:grind
+Similarity:0.0
+Similarity with root:0.0
+
+2083: grate
+From parent:grind
+Similarity:0.0
+Similarity with root:0.0
+
+2084: bray
+From parent:grind
+Similarity:0.0
+Similarity with root:0.0
+
+2085: comminute
+From parent:grind
+Similarity:0.0
+Similarity with root:0.0
+
+2086: churn
+From parent:moil
+Similarity:0.0
+Similarity with root:0.0
+
+2087: roil
+From parent:moil
+Similarity:0.0
+Similarity with root:0.0
+
+2088: unearth
+From parent:excavate
+Similarity:0.0
+Similarity with root:0.0
+
+2089: dig up
+From parent:excavate
+Similarity:0.0
+Similarity with root:0.0
+
+2090: hollow out
+From parent:hollow
+Similarity:0.0
+Similarity with root:0.0
+
+2091: core out
+From parent:hollow
+Similarity:0.0
+Similarity with root:0.0
+
+2092: nudge
+From parent:prod
+Similarity:0.5
+Similarity with root:0.0
+
+2093: poke at
+From parent:prod
+Similarity:0.5
+Similarity with root:0.0
+
+2094: egg on
+From parent:prod
+Similarity:0.5
+Similarity with root:0.0
+
+2095: knife
+From parent:stab
+Similarity:0.0
+Similarity with root:0.0
+
+2096: intrude
+From parent:poke
+Similarity:0.0
+Similarity with root:0.0
+
+2097: horn in
+From parent:poke
+Similarity:0.0
+Similarity with root:0.0
+
+2098: pry
+From parent:poke
+Similarity:0.06944445
+Similarity with root:0.0
+
+2099: circumnavigate
+From parent:compass
+Similarity:0.0
+Similarity with root:0.0
+
+2100: let go of
+From parent:release
+Similarity:0.37142858
+Similarity with root:0.0
+
+2101: let go
+From parent:release
+Similarity:0.22285716
+Similarity with root:0.0
+
+2102: liberate
+From parent:release
+Similarity:0.08571429
+Similarity with root:0.0
+
+2103: unloose
+From parent:release
+Similarity:0.0
+Similarity with root:0.0
+
+2104: unloosen
+From parent:release
+Similarity:0.0
+Similarity with root:0.0
+
+2105: loose
+From parent:release
+Similarity:0.08571429
+Similarity with root:0.0
+
+2106: expel
+From parent:release
+Similarity:0.0
+Similarity with root:0.0
+
+2107: eject
+From parent:release
+Similarity:0.03809524
+Similarity with root:0.0
+
+2108: secrete
+From parent:release
+Similarity:0.08571429
+Similarity with root:0.0
+
+2109: unblock
+From parent:release
+Similarity:0.0
+Similarity with root:0.0
+
+2110: unfreeze
+From parent:release
+Similarity:0.0
+Similarity with root:0.0
+
+2111: writhe
+From parent:twist
+Similarity:0.59090906
+Similarity with root:0.0
+
+2112: wrestle
+From parent:twist
+Similarity:0.0
+Similarity with root:0.0
+
+2113: wriggle
+From parent:twist
+Similarity:0.59090906
+Similarity with root:0.0
+
+2114: worm
+From parent:twist
+Similarity:0.0
+Similarity with root:0.0
+
+2115: squirm
+From parent:twist
+Similarity:0.59090906
+Similarity with root:0.0
+
+2116: twist around
+From parent:twist
+Similarity:0.0
+Similarity with root:0.0
+
+2117: convolute
+From parent:twist
+Similarity:0.0
+Similarity with root:0.0
+
+2118: sophisticate
+From parent:twist
+Similarity:0.0
+Similarity with root:0.0
+
+2119: acidify
+From parent:sour
+Similarity:0.0
+Similarity with root:0.0
+
+2120: acidulate
+From parent:sour
+Similarity:0.0
+Similarity with root:0.0
+
+2121: acetify
+From parent:sour
+Similarity:0.0
+Similarity with root:0.0
+
+2122: deflect
+From parent:bend
+Similarity:0.0
+Similarity with root:0.0
+
+2123: turn away
+From parent:bend
+Similarity:0.004895961
+Similarity with root:0.0
+
+2124: contort
+From parent:deform
+Similarity:0.0
+Similarity with root:0.0
+
+2125: change shape
+From parent:deform
+Similarity:0.0
+Similarity with root:0.0
+
+2126: change form
+From parent:deform
+Similarity:0.0
+Similarity with root:0.0
+
+2127: convulse
+From parent:toss
+Similarity:0.0
+Similarity with root:0.0
+
+2128: thresh
+From parent:toss
+Similarity:0.11764706
+Similarity with root:0.0
+
+2129: thresh about
+From parent:toss
+Similarity:0.0
+Similarity with root:0.0
+
+2130: thrash about
+From parent:toss
+Similarity:0.11764706
+Similarity with root:0.0
+
+2131: slash
+From parent:toss
+Similarity:0.0
+Similarity with root:0.0
+
+2132: jactitate
+From parent:toss
+Similarity:0.0
+Similarity with root:0.0
+
+2133: discard
+From parent:toss
+Similarity:0.029411765
+Similarity with root:0.0
+
+2134: fling
+From parent:toss
+Similarity:0.0
+Similarity with root:0.0
+
+2135: toss out
+From parent:toss
+Similarity:0.0
+Similarity with root:0.0
+
+2136: toss away
+From parent:toss
+Similarity:0.029411765
+Similarity with root:0.0
+
+2137: chuck out
+From parent:toss
+Similarity:0.0
+Similarity with root:0.0
+
+2138: cast aside
+From parent:toss
+Similarity:0.029411765
+Similarity with root:0.0
+
+2139: cast out
+From parent:toss
+Similarity:0.0
+Similarity with root:0.0
+
+2140: cast away
+From parent:toss
+Similarity:0.0
+Similarity with root:0.0
+
+2141: flicker
+From parent:flick
+Similarity:0.0
+Similarity with root:0.0
+
+2142: peddle
+From parent:pitch
+Similarity:0.0
+Similarity with root:0.0
+
+2143: monger
+From parent:pitch
+Similarity:0.0
+Similarity with root:0.0
+
+2144: hawk
+From parent:pitch
+Similarity:0.0
+Similarity with root:0.0
+
+2145: vend
+From parent:pitch
+Similarity:0.0
+Similarity with root:0.0
+
+2146: slope
+From parent:pitch
+Similarity:0.0
+Similarity with root:0.0
+
+2147: cant
+From parent:pitch
+Similarity:0.0
+Similarity with root:0.0
+
+2148: cant over
+From parent:pitch
+Similarity:0.0
+Similarity with root:0.0
+
+2149: tilt
+From parent:pitch
+Similarity:0.0
+Similarity with root:0.0
+
+2150: slant
+From parent:pitch
+Similarity:0.0
+Similarity with root:0.0
+
+2151: gear
+From parent:pitch
+Similarity:0.0
+Similarity with root:0.0
+
+2152: counterchange
+From parent:interchange
+Similarity:0.0
+Similarity with root:0.0
+
+2153: wear round
+From parent:tack
+Similarity:0.0
+Similarity with root:0.0
+
+2154: baste
+From parent:tack
+Similarity:0.0
+Similarity with root:0.0
+
+2155: tag on
+From parent:tack
+Similarity:0.0
+Similarity with root:0.0
+
+2156: tack on
+From parent:tack
+Similarity:0.0
+Similarity with root:0.0
+
+2157: hang on
+From parent:tack
+Similarity:0.0
+Similarity with root:0.0
+
+2158: understudy
+From parent:alternate
+Similarity:0.0
+Similarity with root:0.0
+
+2159: take turns
+From parent:alternate
+Similarity:0.0
+Similarity with root:0.0
+
+2160: weather
+From parent:endure
+Similarity:0.0
+Similarity with root:0.0
+
+2161: brave
+From parent:endure
+Similarity:0.25
+Similarity with root:0.0
+
+2162: brave out
+From parent:endure
+Similarity:0.0
+Similarity with root:0.0
+
+2163: remain firm
+From parent:stand
+Similarity:0.061290324
+Similarity with root:0.0
+
+2164: place upright
+From parent:stand
+Similarity:0.0
+Similarity with root:0.0
+
+2165: fend
+From parent:stand
+Similarity:0.0
+Similarity with root:0.0
+
+2166: bide
+From parent:abide
+Similarity:0.6666667
+Similarity with root:0.0
+
+2167: erect
+From parent:put up
+Similarity:0.21428572
+Similarity with root:0.0
+
+2168: can
+From parent:put up
+Similarity:0.047619052
+Similarity with root:0.0
+
+2169: tin
+From parent:put up
+Similarity:0.0
+Similarity with root:0.0
+
+2170: house
+From parent:put up
+Similarity:0.0
+Similarity with root:0.0
+
+2171: kick out
+From parent:turn out
+Similarity:0.0
+Similarity with root:0.0
+
+2172: turf out
+From parent:turn out
+Similarity:0.0
+Similarity with root:0.0
+
+2173: boot out
+From parent:turn out
+Similarity:0.0
+Similarity with root:0.0
+
+2174: splay
+From parent:turn out
+Similarity:0.0
+Similarity with root:0.0
+
+2175: accurse
+From parent:anathemize
+Similarity:0.0
+Similarity with root:0.0
+
+2176: execrate
+From parent:anathemize
+Similarity:0.0
+Similarity with root:0.0
+
+2177: comminate
+From parent:anathemize
+Similarity:0.0
+Similarity with root:0.0
+
+2178: anathematize
+From parent:anathemize
+Similarity:0.0
+Similarity with root:0.0
+
+2179: anathematise
+From parent:anathemize
+Similarity:0.0
+Similarity with root:0.0
+
+2180: reassert
+From parent:confirm
+Similarity:0.18518518
+Similarity with root:0.0
+
+2181: validate
+From parent:corroborate
+Similarity:0.0
+Similarity with root:0.0
+
+2182: take a firm stand
+From parent:insist
+Similarity:0.0
+Similarity with root:0.0
+
+2183: importune
+From parent:insist
+Similarity:0.0
+Similarity with root:0.0
+
+2184: fire
+From parent:force out
+Similarity:0.0
+Similarity with root:0.0
+
+2185: give notice
+From parent:force out
+Similarity:0.0
+Similarity with root:0.0
+
+2186: dismiss
+From parent:force out
+Similarity:0.0
+Similarity with root:0.0
+
+2187: give the axe
+From parent:force out
+Similarity:0.0
+Similarity with root:0.0
+
+2188: send away
+From parent:force out
+Similarity:0.0
+Similarity with root:0.0
+
+2189: give the sack
+From parent:force out
+Similarity:0.0
+Similarity with root:0.0
+
+2190: rout out
+From parent:force out
+Similarity:0.0
+Similarity with root:0.0
+
+2191: evict
+From parent:force out
+Similarity:0.0
+Similarity with root:0.0
+
+2192: squirt
+From parent:force out
+Similarity:0.0
+Similarity with root:0.0
+
+2193: squeeze out
+From parent:force out
+Similarity:0.0
+Similarity with root:0.0
+
+2194: vanish
+From parent:go away
+Similarity:0.0
+Similarity with root:0.0
+
+2195: disappear
+From parent:go away
+Similarity:0.0
+Similarity with root:0.0
+
+2196: cater
+From parent:provide
+Similarity:0.079872206
+Similarity with root:0.0
+
+2197: deviate
+From parent:depart
+Similarity:0.125
+Similarity with root:0.0
+
+2198: vary
+From parent:depart
+Similarity:0.083333336
+Similarity with root:0.0
+
+2199: diverge
+From parent:depart
+Similarity:0.0
+Similarity with root:0.0
+
+2200: take leave
+From parent:depart
+Similarity:0.05
+Similarity with root:0.0
+
+2201: sidetrack
+From parent:depart
+Similarity:0.0
+Similarity with root:0.0
+
+2202: straggle
+From parent:depart
+Similarity:0.0
+Similarity with root:0.0
+
+2203: blank out
+From parent:forget
+Similarity:0.0
+Similarity with root:0.0
+
+2204: draw a blank
+From parent:forget
+Similarity:0.0
+Similarity with root:0.0
+
+2205: appeal
+From parent:attract
+Similarity:0.016806724
+Similarity with root:4.2881848E-10
+
+2206: curl up
+From parent:draw in
+Similarity:0.0
+Similarity with root:0.0
+
+2207: close in
+From parent:draw in
+Similarity:0.0
+Similarity with root:0.0
+
+2208: elicit
+From parent:extract
+Similarity:0.022727273
+Similarity with root:0.0
+
+2209: draw up
+From parent:pull up
+Similarity:0.047619052
+Similarity with root:0.0
+
+2210: haul up
+From parent:pull up
+Similarity:0.85714287
+Similarity with root:0.0
+
+2211: straighten up
+From parent:pull up
+Similarity:0.14285715
+Similarity with root:0.0
+
+2212: aspirate
+From parent:draw out
+Similarity:0.0
+Similarity with root:0.0
+
+2213: suck out
+From parent:draw out
+Similarity:0.0
+Similarity with root:0.0
+
+2214: go with
+From parent:side
+Similarity:0.0
+Similarity with root:0.0
+
+2215: rout
+From parent:root
+Similarity:0.0
+Similarity with root:0.0
+
+2216: rootle
+From parent:root
+Similarity:0.0
+Similarity with root:0.0
+
+2217: enact
+From parent:ordain
+Similarity:0.5735294
+Similarity with root:0.0
+
+2218: purify
+From parent:sanctify
+Similarity:0.0
+Similarity with root:0.0
+
+2219: free-base
+From parent:base
+Similarity:0.0
+Similarity with root:0.0
+
+2220: air out
+From parent:air
+Similarity:0.0
+Similarity with root:0.0
+
+2221: aerate
+From parent:air
+Similarity:0.0
+Similarity with root:0.0
+
+2222: publicize
+From parent:air
+Similarity:0.0
+Similarity with root:0.0
+
+2223: publicise
+From parent:air
+Similarity:0.0
+Similarity with root:0.0
+
+2224: bare
+From parent:air
+Similarity:0.0
+Similarity with root:0.0
+
+2225: vent
+From parent:air
+Similarity:0.0
+Similarity with root:0.0
+
+2226: ventilate
+From parent:air
+Similarity:0.0
+Similarity with root:0.0
+
+2227: drag down
+From parent:bear down
+Similarity:0.0
+Similarity with root:0.0
+
+2228: bear down on
+From parent:bear down
+Similarity:0.0
+Similarity with root:0.0
+
+2229: press down on
+From parent:bear down
+Similarity:0.5
+Similarity with root:0.0
+
+2230: weigh down
+From parent:bear down
+Similarity:0.0
+Similarity with root:0.0
+
+2231: overbear
+From parent:bear down
+Similarity:0.0
+Similarity with root:0.0
+
+2232: placard
+From parent:bill
+Similarity:0.0
+Similarity with root:0.0
+
+2233: file away
+From parent:file
+Similarity:0.015151516
+Similarity with root:0.0
+
+2234: bestir
+From parent:rouse
+Similarity:0.0
+Similarity with root:0.0
+
+2235: awaken
+From parent:rouse
+Similarity:0.0
+Similarity with root:0.0
+
+2236: wake
+From parent:rouse
+Similarity:0.0
+Similarity with root:0.0
+
+2237: waken
+From parent:rouse
+Similarity:0.0
+Similarity with root:0.0
+
+2238: wake up
+From parent:rouse
+Similarity:0.0
+Similarity with root:0.0
+
+2239: switch on
+From parent:turn on
+Similarity:0.7647059
+Similarity with root:0.0
+
+2240: sex
+From parent:turn on
+Similarity:0.0
+Similarity with root:0.0
+
+2241: lade
+From parent:load
+Similarity:0.0
+Similarity with root:0.0
+
+2242: laden
+From parent:load
+Similarity:0.0
+Similarity with root:0.0
+
+2243: load up
+From parent:load
+Similarity:0.72727275
+Similarity with root:0.0
+
+2244: raze
+From parent:level
+Similarity:0.0
+Similarity with root:0.0
+
+2245: rase
+From parent:level
+Similarity:0.0
+Similarity with root:0.0
+
+2246: tear down
+From parent:level
+Similarity:0.16666667
+Similarity with root:0.0
+
+2247: flush
+From parent:level
+Similarity:0.0
+Similarity with root:0.0
+
+2248: even
+From parent:level
+Similarity:0.0
+Similarity with root:0.0
+
+2249: level off
+From parent:level
+Similarity:0.0
+Similarity with root:0.0
+
+2250: burthen
+From parent:burden
+Similarity:0.0
+Similarity with root:0.0
+
+2251: weight
+From parent:burden
+Similarity:0.0
+Similarity with root:0.0
+
+2252: weight down
+From parent:burden
+Similarity:0.0
+Similarity with root:0.0
+
+2253: fault
+From parent:blame
+Similarity:0.48
+Similarity with root:0.0
+
+2254: find fault
+From parent:blame
+Similarity:0.0
+Similarity with root:0.0
+
+2255: dower
+From parent:endow
+Similarity:0.0
+Similarity with root:0.0
+
+2256: enclothe
+From parent:clothe
+Similarity:0.0
+Similarity with root:0.0
+
+2257: garb
+From parent:clothe
+Similarity:0.0
+Similarity with root:0.0
+
+2258: raiment
+From parent:clothe
+Similarity:0.0
+Similarity with root:0.0
+
+2259: tog
+From parent:clothe
+Similarity:0.0
+Similarity with root:0.0
+
+2260: garment
+From parent:clothe
+Similarity:0.0
+Similarity with root:0.0
+
+2261: habilitate
+From parent:clothe
+Similarity:0.0
+Similarity with root:0.0
+
+2262: apparel
+From parent:clothe
+Similarity:0.0
+Similarity with root:0.0
+
+2263: decorate
+From parent:adorn
+Similarity:1.0
+Similarity with root:0.0
+
+2264: grace
+From parent:adorn
+Similarity:1.0
+Similarity with root:0.0
+
+2265: ornament
+From parent:adorn
+Similarity:1.0
+Similarity with root:0.0
+
+2266: beautify
+From parent:adorn
+Similarity:0.0
+Similarity with root:0.0
+
+2267: deck
+From parent:adorn
+Similarity:0.0
+Similarity with root:0.0
+
+2268: robe
+From parent:vest
+Similarity:0.0
+Similarity with root:0.0
+
+2269: throne
+From parent:enthrone
+Similarity:0.0
+Similarity with root:0.0
+
+2270: sit down
+From parent:seat
+Similarity:0.017307693
+Similarity with root:0.0
+
+2271: lie
+From parent:lay
+Similarity:0.0
+Similarity with root:0.0
+
+2272: lie in
+From parent:lay
+Similarity:0.0
+Similarity with root:0.0
+
+2273: lie down
+From parent:lay
+Similarity:0.0
+Similarity with root:0.0
+
+2274: frame in
+From parent:frame
+Similarity:0.4
+Similarity with root:5.0377393E-11
+
+2275: ensnare
+From parent:frame
+Similarity:0.0
+Similarity with root:0.0
+
+2276: entrap
+From parent:frame
+Similarity:0.0
+Similarity with root:0.0
+
+2277: compose
+From parent:frame
+Similarity:0.0
+Similarity with root:0.0
+
+2278: frame up
+From parent:frame
+Similarity:0.0
+Similarity with root:0.0
+
+2279: fix up
+From parent:arrange
+Similarity:0.071428575
+Similarity with root:0.0
+
+2280: format
+From parent:arrange
+Similarity:0.0
+Similarity with root:0.0
+
+2281: effect
+From parent:set up
+Similarity:0.030909091
+Similarity with root:0.0
+
+2282: effectuate
+From parent:set up
+Similarity:0.036363635
+Similarity with root:0.0
+
+2283: outrank
+From parent:rank
+Similarity:0.0
+Similarity with root:0.0
+
+2284: come to the fore
+From parent:come out
+Similarity:0.018867925
+Similarity with root:0.0
+
+2285: step forward
+From parent:come out
+Similarity:0.018867925
+Similarity with root:0.0
+
+2286: come forward
+From parent:come out
+Similarity:0.018867925
+Similarity with root:0.0
+
+2287: step up
+From parent:come out
+Similarity:0.0
+Similarity with root:0.0
+
+2288: step to the fore
+From parent:come out
+Similarity:0.018867925
+Similarity with root:0.0
+
+2289: come out of the closet
+From parent:come out
+Similarity:0.0
+Similarity with root:0.0
+
+2290: out
+From parent:come out
+Similarity:0.0
+Similarity with root:0.0
+
+2291: push through
+From parent:come out
+Similarity:0.0
+Similarity with root:0.0
+
+2292: focalize
+From parent:localize
+Similarity:0.0
+Similarity with root:0.0
+
+2293: focalise
+From parent:localize
+Similarity:0.0
+Similarity with root:0.0
+

@@ -1,0 +1,104 @@
+-----------------------------
+Seed Word:dispute
+Iteration level:2
+1: deviation
+From parent:difference
+Similarity:0.125
+Similarity with root:0.0026041667
+
+2: divergence
+From parent:difference
+Similarity:0.0
+Similarity with root:0.0
+
+3: remainder
+From parent:difference
+Similarity:0.0
+Similarity with root:0.0
+
+4: struggle
+From parent:conflict
+Similarity:0.13095239
+Similarity with root:0.0
+
+5: battle
+From parent:conflict
+Similarity:0.20027435
+Similarity with root:0.0
+
+6: fight
+From parent:conflict
+Similarity:0.019103313
+Similarity with root:0.0
+
+7: engagement
+From parent:conflict
+Similarity:0.11111111
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:disputation
+Iteration level:2
+1: competition
+From parent:contention
+Similarity:0.0
+Similarity with root:0.0
+
+2: rivalry
+From parent:contention
+Similarity:0.0
+Similarity with root:0.0
+
+3: joust
+From parent:tilt
+Similarity:0.0
+Similarity with root:0.0
+
+4: list
+From parent:tilt
+Similarity:0.0
+Similarity with root:0.0
+
+5: inclination
+From parent:tilt
+Similarity:0.0
+Similarity with root:0.0
+
+6: lean
+From parent:tilt
+Similarity:0.0
+Similarity with root:0.0
+
+7: leaning
+From parent:tilt
+Similarity:0.0
+Similarity with root:0.0
+
+8: rock
+From parent:tilt
+Similarity:0.0
+Similarity with root:0.0
+
+9: careen
+From parent:tilt
+Similarity:0.0
+Similarity with root:0.0
+
+10: sway
+From parent:tilt
+Similarity:0.0
+Similarity with root:0.0
+
+11: statement
+From parent:argument
+Similarity:0.0722032
+Similarity with root:0.0
+
+12: literary argument
+From parent:argument
+Similarity:0.0
+Similarity with root:0.0
+
+-----------------------------
+Seed Word:disputant
+Iteration level:2
